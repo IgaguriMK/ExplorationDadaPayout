@@ -31,11 +31,14 @@ def main
 		opt.parse!(ARGV)
 	end
 
-	p scans(options[:journal_dir], options[:start], options[:end])
+	scans(options[:journal_dir], options[:start], options[:end]).collect do |s|
+		body_payout(s)
+	end
 end
 
 def scans(journal_dir, start_date=ED_23_REREASE, end_date=DateTime.now)
 	Dir.glob("#{journal_dir}/Journal*.log")
+		.sort
 		.flat_map { |log_path| IO.readlines(log_path) }
 		.collect { |line| JSON.parse(line) }
 		.select { |event| event["event"] == "Scan" }
@@ -43,10 +46,22 @@ def scans(journal_dir, start_date=ED_23_REREASE, end_date=DateTime.now)
 		.select { |scan| DateTime.parse(scan["timestamp"]) <= end_date }
 end
 
-WHITE_DWARF = [D, DA, DAB, DAO, DAZ, DAV, DB, DBZ, DBV, DO, DOV, DQ, DC, DCV, DX] 
+WHITE_DWARF = ["D", "DA", "DAB", "DAO", "DAZ", "DAV", "DB", "DBZ", "DBV", "DO", "DOV", "DQ", "DC", "DCV", "DX"] 
+NON_SEQUENCE = ["N", "H"]
+
 
 def body_payout(scan)
-	
+	type = scan["StarType"] || scan["PlanetClass"]
+	mass = scan["StellarMass"] || scan["MassEM"]
+
+end
+
+def star_value(k, mass)
+	k + (mass * k / 66.25)
+end
+
+def planet_value(k, mass)
+	k + (0.5660377358490566 * k * mass ** 0.199977)
 end
 
 ####
