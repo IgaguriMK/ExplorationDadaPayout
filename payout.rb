@@ -7,7 +7,7 @@ ED_23_REREASE=DateTime.new(2017, 4, 17, 0 ,0, 0, 0.0)
 def main
 
 	options = {
-		:journal_dir => "./Journals",
+		:journal_dir => home_dir =ENV["USERPROFILE"].gsub(/\\/, "/") + "/Saved Games/Frontier Developments/Elite Dangerous",
 		:start => ED_23_REREASE,
 		:end => DateTime.now
 	}
@@ -31,9 +31,23 @@ def main
 		opt.parse!(ARGV)
 	end
 
+
+	puts "| Name | Type | Mass | Payout |"
+	puts "|:-----|:-----|-----:|-------:|"
+
+	total = 0
 	scans(options[:journal_dir], options[:start], options[:end]).collect do |s|
-		body_payout(s)
+		payout = body_payout(s).floor
+		puts "| %40s | %25s | %.2f | %6d |" % [
+				s["BodyName"],
+				s["StarType"] || s["PlanetClass"] || "Unknown",
+				s["StellarMass"] || s["MassEM"] || 0,
+				payout
+			]
+		total += payout
 	end
+
+	puts "| | | TOTAL | #{total.to_s.reverse.gsub( /(\d{3})(?=\d)/, '\1,').reverse} |"
 end
 
 def scans(journal_dir, start_date=ED_23_REREASE, end_date=DateTime.now)
@@ -51,9 +65,37 @@ NON_SEQUENCE = ["N", "H"]
 
 
 def body_payout(scan)
-	type = scan["StarType"] || scan["PlanetClass"]
-	mass = scan["StellarMass"] || scan["MassEM"]
+	if scan["StarType"] then
+		type = scan["StarType"] || "Unknown"
+		mass = scan["StellarMass"] || 0
 
+		return star_value(33737, mass) if WHITE_DWARF.include? type
+		return star_value(54309, mass) if NON_SEQUENCE.include? type
+		return star_value(2880, mass)
+
+	elsif scan["PlanetClass"] then
+		type = scan["PlanetClass"] || 0
+		mass = scan["MassEM"] || 0
+
+
+		bonus = 0
+		if scan["TerraformState"] == "Terraformable" then
+			bonus = planet_value(241607, mass) if type == "High_metal_content_body"
+			bonus = planet_value(279088, mass) if type == "Water_world"
+			bonus = planet_value(223971, mass)
+		end
+
+		return planet_value(52292, mass)          if type == "Metal_rich_body"
+		return planet_value(23168, mass) + bonus  if type == "High_metal_content_body"
+		return planet_value(23168, mass)          if type == "Sudarsky_class_II_gas_giant"
+		return planet_value(155581, mass) + planet_value(279088, mass) if type == "Earthlike_body"
+		return planet_value(155581, mass) + bonus if type == "Water_world"
+		return planet_value(232619, mass)         if type == "Ammonia_world"
+		return planet_value(3974, mass)           if type == "Sudarsky_class_I_gas_giant"
+		return planet_value(720, mass) + bonus
+	end
+
+	0
 end
 
 def star_value(k, mass)
