@@ -28,10 +28,21 @@ def main
 			end
 		}
 
+		opt.on('-e', '--end VALUE', 'End datetime.') { |v|
+			begin
+				options[:end] = DateTime.parse(v)
+			rescue
+				raise OptionParser::InvalidArgument, v
+			end
+		}
+
 		opt.parse!(ARGV)
 	end
 
+	title = "Expliration Data Payout Estimate (#{options[:start].strftime("%Y-%m-%d %H:%M:%S")} - #{options[:end].strftime("%Y-%m-%d %H:%M:%S")})"
 
+	puts "% #{title}"
+	puts ""
 	puts "| Name | Type | Mass | Payout |"
 	puts "|:-----|:-----|-----:|-------:|"
 
@@ -69,6 +80,8 @@ def body_payout(scan)
 		type = scan["StarType"] || "Unknown"
 		mass = scan["StellarMass"] || 0
 
+		return 0 if type == "SupermassiveBlackHole"
+
 		return star_value(33737, mass) if WHITE_DWARF.include? type
 		return star_value(54309, mass) if NON_SEQUENCE.include? type
 		return star_value(2880, mass)
@@ -80,18 +93,18 @@ def body_payout(scan)
 
 		bonus = 0
 		if scan["TerraformState"] == "Terraformable" then
-			bonus = planet_value(241607, mass) if type == "High_metal_content_body"
-			bonus = planet_value(279088, mass) if type == "Water_world"
+			bonus = planet_value(241607, mass) if type == "High metal content body"
+			bonus = planet_value(279088, mass) if type == "Water world"
 			bonus = planet_value(223971, mass)
 		end
 
-		return planet_value(52292, mass)          if type == "Metal_rich_body"
-		return planet_value(23168, mass) + bonus  if type == "High_metal_content_body"
-		return planet_value(23168, mass)          if type == "Sudarsky_class_II_gas_giant"
-		return planet_value(155581, mass) + planet_value(279088, mass) if type == "Earthlike_body"
-		return planet_value(155581, mass) + bonus if type == "Water_world"
-		return planet_value(232619, mass)         if type == "Ammonia_world"
-		return planet_value(3974, mass)           if type == "Sudarsky_class_I_gas_giant"
+		return planet_value(52292, mass)          if type == "Metal rich body"
+		return planet_value(23168, mass) + bonus  if type == "High metal content body"
+		return planet_value(23168, mass)          if type == "Sudarsky class II gas giant"
+		return planet_value(155581, mass) + planet_value(279088, mass) if type == "Earthlike body"
+		return planet_value(155581, mass) + bonus if type == "Water world"
+		return planet_value(232619, mass)         if type == "Ammonia world"
+		return planet_value(3974, mass)           if type == "Sudarsky class I gas giant"
 		return planet_value(720, mass) + bonus
 	end
 
