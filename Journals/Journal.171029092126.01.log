@@ -1,0 +1,259 @@
+{ "timestamp":"2017-10-29T00:21:26Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r156431/r0 " }
+{ "timestamp":"2017-10-29T00:21:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:21:26Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2017-10-29T00:22:06Z", "event":"Friends", "Status":"Online", "Name":"Qube_nico" }
+{ "timestamp":"2017-10-29T00:22:53Z", "event":"Friends", "Status":"Online", "Name":"Qube_nico" }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"Loadout", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "Modules":[ { "Slot":"LargeHardpoint1", "Item":"Hpt_PulseLaser_Gimbal_Large", "On":true, "Priority":2, "Health":0.958757, "Value":140600 }, { "Slot":"MediumHardpoint2", "Item":"Hpt_MiningLaser_Fixed_Small", "On":true, "Priority":1, "Health":0.958027, "Value":6800 }, { "Slot":"TinyHardpoint1", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.960621, "Value":3500 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.956778, "Value":3500 }, { "Slot":"TinyHardpoint4", "Item":"Hpt_ChaffLauncher_Tiny", "On":true, "Priority":1, "AmmoInClip":1, "AmmoInHopper":10, "Health":0.922629, "Value":8500 }, { "Slot":"Armour", "Item":"DiamondBackXL_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size4_Class4", "On":true, "Priority":1, "Health":0.972401, "Value":536693 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class4", "On":true, "Priority":0, "Health":0.983037, "Value":536693 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size3_Class2", "On":true, "Priority":0, "Health":0.949443, "Value":10133 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"Radar", "Item":"Int_Sensors_Size3_Class2", "On":true, "Priority":3, "Health":0.974832, "Value":10133 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size4", "Item":"Int_ShieldGenerator_Size4_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":19878 }, { "Slot":"Slot02_Size4", "Item":"Int_FuelScoop_Size4_Class4", "On":true, "Priority":3, "Health":0.960042, "Value":715591 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":0, "Health":0.981141, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class2", "On":true, "Priority":0, "AmmoInClip":2361, "Health":0.939137, "Value":97200 }, { "Slot":"Slot05_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":0.975861, "Value":1545000 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"DiamondBackXL_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":0.951189, "Value":0 } ] }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"Materials", "Raw":[ { "Name":"carbon", "Count":2 }, { "Name":"iron", "Count":3 } ], "Manufactured":[ { "Name":"mechanicalscrap", "Count":8 }, { "Name":"gridresistors", "Count":3 }, { "Name":"heatdispersionplate", "Count":5 }, { "Name":"salvagedalloys", "Count":6 }, { "Name":"hybridcapacitors", "Count":5 }, { "Name":"heatconductionwiring", "Count":2 } ], "Encoded":[ { "Name":"shieldsoakanalysis", "Count":3 }, { "Name":"disruptedwakeechoes", "Count":5 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"emissiondata", "Count":3 }, { "Name":"bulkscandata", "Count":9 }, { "Name":"scrambledemissiondata", "Count":7 }, { "Name":"archivedemissiondata", "Count":3 }, { "Name":"shielddensityreports", "Count":9 }, { "Name":"legacyfirmware", "Count":1 } ] }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"LoadGame", "Commander":"Igaguri", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Open", "Credits":726550, "Loan":0 }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"Rank", "Combat":1, "Trade":4, "Explore":4, "Empire":0, "Federation":1, "CQC":0 }
+{ "timestamp":"2017-10-29T00:23:03Z", "event":"Progress", "Combat":26, "Trade":1, "Explore":9, "Empire":0, "Federation":100, "CQC":0 }
+{ "timestamp":"2017-10-29T00:23:12Z", "event":"Location", "Docked":false, "StarSystem":"Tr 24 Sector EW-M d7-57", "StarPos":[1090.563,38.188,3685.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Tr 24 Sector EW-M d7-57 ABC", "BodyType":"Null" }
+{ "timestamp":"2017-10-29T00:23:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:23:12Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:23:15Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T00:23:22Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:23:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tr 24 Sector DC-A c15-6", "StarClass":"K" }
+{ "timestamp":"2017-10-29T00:23:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:24:05Z", "event":"FSDJump", "StarSystem":"Tr 24 Sector DC-A c15-6", "StarPos":[1094.938,55.750,3703.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.372, "FuelUsed":3.790412, "FuelLevel":28.209587 }
+{ "timestamp":"2017-10-29T00:24:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:24:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:24:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:24:28Z", "event":"Scan", "BodyName":"Tr 24 Sector DC-A c15-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":503222944.000000, "AbsoluteMagnitude":7.110962, "Age_MY":3524, "SurfaceTemperature":4018.000000, "Luminosity":"Va", "SemiMajorAxis":417781743616.000000, "Eccentricity":0.055588, "OrbitalInclination":-49.264862, "Periapsis":193.761871, "OrbitalPeriod":903161024.000000, "RotationPeriod":230613.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T00:24:52Z", "event":"FuelScoop", "Scooped":3.790428, "Total":32.000000 }
+{ "timestamp":"2017-10-29T00:25:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:25:06Z", "event":"Friends", "Status":"Online", "Name":"Mitsumete Knight" }
+{ "timestamp":"2017-10-29T00:25:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:26:35Z", "event":"Scan", "BodyName":"Tr 24 Sector DC-A c15-6 B", "DistanceFromArrivalLS":4731.791992, "StarType":"M", "StellarMass":0.289063, "Radius":294411616.000000, "AbsoluteMagnitude":9.881531, "Age_MY":3524, "SurfaceTemperature":2776.000000, "Luminosity":"Va", "SemiMajorAxis":959768887296.000000, "Eccentricity":0.055588, "OrbitalInclination":-49.264862, "Periapsis":13.761861, "OrbitalPeriod":903161024.000000, "RotationPeriod":126397.914063, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T00:26:56Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Tr 24 Sector CB-N d7-2", "StarClass":"A" }
+{ "timestamp":"2017-10-29T00:27:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:27:14Z", "event":"FSDJump", "StarSystem":"Tr 24 Sector CB-N d7-2", "StarPos":[1109.750,60.719,3719.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.814, "FuelUsed":2.921396, "FuelLevel":29.078604 }
+{ "timestamp":"2017-10-29T00:27:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:27:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:27:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:27:38Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.625000, "Radius":1035545216.000000, "AbsoluteMagnitude":2.816727, "Age_MY":646, "SurfaceTemperature":7527.000000, "Luminosity":"Vab", "RotationPeriod":75375.679688, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T00:27:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:27:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:28:03Z", "event":"FuelScoop", "Scooped":2.921409, "Total":32.000000 }
+{ "timestamp":"2017-10-29T00:28:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:28:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:29:36Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 6", "DistanceFromArrivalLS":1015.274536, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":95.848190 }, { "Name":"Nitrogen", "Percent":3.193114 }, { "Name":"SulphurDioxide", "Percent":0.958482 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.418134, "Radius":6741337.500000, "SurfaceGravity":12.437537, "SurfaceTemperature":889.481262, "SurfacePressure":23059220.000000, "Landable":false, "SemiMajorAxis":236894816.000000, "Eccentricity":0.048364, "OrbitalInclination":-4.084946, "Periapsis":188.985901, "OrbitalPeriod":3020145.500000, "RotationPeriod":4805853.500000, "AxialTilt":-0.306030 }
+{ "timestamp":"2017-10-29T00:29:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:29:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:29:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:29:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:29:53Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 7", "DistanceFromArrivalLS":1017.349915, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.884384 }, { "Name":"SulphurDioxide", "Percent":0.988844 }, { "Name":"Nitrogen", "Percent":0.126557 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.925599, "Radius":5941039.500000, "SurfaceGravity":10.452188, "SurfaceTemperature":851.626587, "SurfacePressure":15785068.000000, "Landable":false, "SemiMajorAxis":362952672.000000, "Eccentricity":0.048364, "OrbitalInclination":-4.084946, "Periapsis":8.985903, "OrbitalPeriod":3020145.500000, "RotationPeriod":3882605.750000, "AxialTilt":0.320975 }
+{ "timestamp":"2017-10-29T00:29:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:29:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:31:36Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 8", "DistanceFromArrivalLS":1277.181519, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":95.848190 }, { "Name":"Nitrogen", "Percent":3.193114 }, { "Name":"SulphurDioxide", "Percent":0.958482 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.475485, "Radius":6820012.000000, "SurfaceGravity":12.643688, "SurfaceTemperature":796.175232, "SurfacePressure":23829962.000000, "Landable":false, "SemiMajorAxis":383253970944.000000, "Eccentricity":0.002334, "OrbitalInclination":-1.666224, "Periapsis":6.746673, "OrbitalPeriod":101499752.000000, "RotationPeriod":117618.796875, "AxialTilt":-0.228654 }
+{ "timestamp":"2017-10-29T00:31:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:31:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:34:24Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 9", "DistanceFromArrivalLS":2351.100586, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick water atmosphere", "AtmosphereType":"Water", "AtmosphereComposition":[ { "Name":"Water", "Percent":99.465553 }, { "Name":"Ammonia", "Percent":0.178152 }, { "Name":"Methane", "Percent":0.178152 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":5.917782, "Radius":10045050.000000, "SurfaceGravity":23.375673, "SurfaceTemperature":1297.694214, "SurfacePressure":1459907200.000000, "Landable":false, "SemiMajorAxis":709839290368.000000, "Eccentricity":0.007666, "OrbitalInclination":-0.003866, "Periapsis":152.739990, "OrbitalPeriod":255843872.000000, "RotationPeriod":157528.718750, "AxialTilt":0.512029 }
+{ "timestamp":"2017-10-29T00:34:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:34:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:35:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:35:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:37:10Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 10", "DistanceFromArrivalLS":4125.808594, "TidalLock":false, "TerraformState":"", "PlanetClass":"Sudarsky class I gas giant", "Atmosphere":"", "AtmosphereComposition":[ { "Name":"Hydrogen", "Percent":74.123802 }, { "Name":"Helium", "Percent":25.876209 } ], "Volcanism":"", "MassEM":3.058329, "Radius":11571655.000000, "SurfaceGravity":9.103379, "SurfaceTemperature":135.780029, "SurfacePressure":0.000000, "Landable":false, "SemiMajorAxis":1030651264.000000, "Eccentricity":0.140897, "OrbitalInclination":-8.456499, "Periapsis":173.658234, "OrbitalPeriod":26330142.000000, "RotationPeriod":162537.765625, "AxialTilt":0.148816, "Rings":[ { "Name":"Tr 24 Sector CB-N d7-2 10 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":4.3169e+10, "InnerRad":2.967e+07, "OuterRad":5.7156e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2017-10-29T00:37:27Z", "event":"Scan", "BodyName":"Tr 24 Sector CB-N d7-2 11", "DistanceFromArrivalLS":4116.139648, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":73.796555 }, { "Name":"Oxygen", "Percent":13.211613 }, { "Name":"CarbonDioxide", "Percent":12.734018 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.476068, "Radius":6856083.500000, "SurfaceGravity":12.515938, "SurfaceTemperature":198.439056, "SurfacePressure":126118.093750, "Landable":false, "SemiMajorAxis":2135504128.000000, "Eccentricity":0.140897, "OrbitalInclination":-8.456499, "Periapsis":353.658234, "OrbitalPeriod":26330142.000000, "RotationPeriod":42243.988281, "AxialTilt":0.053387, "Rings":[ { "Name":"Tr 24 Sector CB-N d7-2 11 A Ring", "RingClass":"eRingClass_Rocky", "MassMT":6.9514e+08, "InnerRad":1.1469e+07, "OuterRad":1.3366e+07 }, { "Name":"Tr 24 Sector CB-N d7-2 11 B Ring", "RingClass":"eRingClass_MetalRich", "MassMT":2.0546e+10, "InnerRad":1.3466e+07, "OuterRad":3.9638e+07 } ], "ReserveLevel":"PristineResources" }
+{ "timestamp":"2017-10-29T00:38:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:39:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:40:14Z", "event":"SupercruiseExit", "StarSystem":"Tr 24 Sector CB-N d7-2", "Body":"Tr 24 Sector CB-N d7-2 11", "BodyType":"Planet" }
+{ "timestamp":"2017-10-29T00:40:14Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:49:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:50:02Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:50:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:50:06Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:50:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:50:12Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T00:50:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector ZZ-Y c7", "StarClass":"K" }
+{ "timestamp":"2017-10-29T00:50:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:50:53Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector ZZ-Y c7", "StarPos":[1118.094,63.719,3736.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":19.063, "FuelUsed":1.875119, "FuelLevel":29.604879 }
+{ "timestamp":"2017-10-29T00:50:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:51:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:51:16Z", "event":"Scan", "BodyName":"NGC 6231 Sector ZZ-Y c7", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.785156, "Radius":607883264.000000, "AbsoluteMagnitude":5.851791, "Age_MY":5902, "SurfaceTemperature":4885.000000, "Luminosity":"Va", "RotationPeriod":288527.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"NGC 6231 Sector ZZ-Y c7 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.0283e+12, "InnerRad":1.1897e+09, "OuterRad":2.2262e+09 } ] }
+{ "timestamp":"2017-10-29T00:51:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:52:04Z", "event":"FuelScoop", "Scooped":2.395129, "Total":32.000000 }
+{ "timestamp":"2017-10-29T00:52:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector ZZ-Y c2", "StarClass":"G" }
+{ "timestamp":"2017-10-29T00:52:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T00:52:48Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector ZZ-Y c2", "StarPos":[1104.344,61.906,3757.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.428, "FuelUsed":3.810460, "FuelLevel":28.189539 }
+{ "timestamp":"2017-10-29T00:52:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:52:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T00:52:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T00:53:26Z", "event":"Scan", "BodyName":"NGC 6231 Sector ZZ-Y c2", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.855469, "Radius":644772288.000000, "AbsoluteMagnitude":5.298920, "Age_MY":7738, "SurfaceTemperature":5387.000000, "Luminosity":"Vab", "RotationPeriod":348638.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T00:53:49Z", "event":"FuelScoop", "Scooped":3.810419, "Total":32.000000 }
+{ "timestamp":"2017-10-29T01:02:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector BQ-Y d49", "StarClass":"F" }
+{ "timestamp":"2017-10-29T01:02:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:03:09Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector BQ-Y d49", "StarPos":[1102.813,59.656,3782.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.868, "FuelUsed":3.596721, "FuelLevel":27.883278 }
+{ "timestamp":"2017-10-29T01:03:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:03:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:03:33Z", "event":"Scan", "BodyName":"NGC 6231 Sector BQ-Y d49", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.464844, "Radius":816312512.000000, "AbsoluteMagnitude":3.665512, "Age_MY":2422, "SurfaceTemperature":6973.000000, "Luminosity":"Vb", "RotationPeriod":190880.625000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:03:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:04:04Z", "event":"FuelScoop", "Scooped":4.101516, "Total":31.984831 }
+{ "timestamp":"2017-10-29T01:04:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector BQ-Y d13", "StarClass":"A" }
+{ "timestamp":"2017-10-29T01:04:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:04:39Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector BQ-Y d13", "StarPos":[1113.156,73.719,3795.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.728, "FuelUsed":2.592187, "FuelLevel":29.392643 }
+{ "timestamp":"2017-10-29T01:04:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:05:02Z", "event":"Scan", "BodyName":"NGC 6231 Sector BQ-Y d13", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.617188, "Radius":966988544.000000, "AbsoluteMagnitude":2.864532, "Age_MY":1596, "SurfaceTemperature":7704.000000, "Luminosity":"Vb", "RotationPeriod":79341.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:06:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:06:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:06:33Z", "event":"FuelScoop", "Scooped":2.607397, "Total":32.000000 }
+{ "timestamp":"2017-10-29T01:08:36Z", "event":"Scan", "BodyName":"NGC 6231 Sector BQ-Y d13 4", "DistanceFromArrivalLS":1821.591064, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"thick water rich atmosphere", "AtmosphereType":"WaterRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":75.429878 }, { "Name":"Water", "Percent":16.816668 }, { "Name":"Ammonia", "Percent":7.267480 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.802463, "Radius":5697747.500000, "SurfaceGravity":9.852084, "SurfaceTemperature":459.250702, "SurfacePressure":615805.687500, "Landable":false, "SemiMajorAxis":546341617664.000000, "Eccentricity":0.000625, "OrbitalInclination":-0.910610, "Periapsis":13.044606, "OrbitalPeriod":173176960.000000, "RotationPeriod":159278.890625, "AxialTilt":0.130517 }
+{ "timestamp":"2017-10-29T01:08:42Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:09:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:11:26Z", "event":"Scan", "BodyName":"NGC 6231 Sector BQ-Y d13 5", "DistanceFromArrivalLS":2337.844727, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":85.364136 }, { "Name":"Oxygen", "Percent":14.553685 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.995252, "Radius":6077566.000000, "SurfaceGravity":10.739471, "SurfaceTemperature":203.529434, "SurfacePressure":168378.171875, "Landable":false, "SemiMajorAxis":699946500096.000000, "Eccentricity":0.001579, "OrbitalInclination":-0.045508, "Periapsis":103.401062, "OrbitalPeriod":251125568.000000, "RotationPeriod":75842.625000, "AxialTilt":0.363887 }
+{ "timestamp":"2017-10-29T01:11:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:11:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:16:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector DG-X c1-4", "StarClass":"G" }
+{ "timestamp":"2017-10-29T01:16:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:17:10Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector DG-X c1-4", "StarPos":[1133.438,76.594,3806.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.236, "FuelUsed":3.055412, "FuelLevel":28.944588 }
+{ "timestamp":"2017-10-29T01:17:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:17:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:17:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:17:33Z", "event":"Scan", "BodyName":"NGC 6231 Sector DG-X c1-4", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.894531, "Radius":702483008.000000, "AbsoluteMagnitude":4.742645, "Age_MY":2934, "SurfaceTemperature":5866.000000, "Luminosity":"Vab", "RotationPeriod":332371.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:17:52Z", "event":"FuelScoop", "Scooped":3.055416, "Total":32.000000 }
+{ "timestamp":"2017-10-29T01:18:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector GW-W d1-9", "StarClass":"G" }
+{ "timestamp":"2017-10-29T01:18:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:18:29Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector GW-W d1-9", "StarPos":[1138.250,80.625,3825.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.367, "FuelUsed":2.212258, "FuelLevel":29.787743 }
+{ "timestamp":"2017-10-29T01:18:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:18:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:18:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:18:52Z", "event":"Scan", "BodyName":"NGC 6231 Sector GW-W d1-9 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.078125, "Radius":695627328.000000, "AbsoluteMagnitude":4.927704, "Age_MY":2028, "SurfaceTemperature":5649.000000, "Luminosity":"Vab", "SemiMajorAxis":2896896196608.000000, "Eccentricity":0.314957, "OrbitalInclination":46.223881, "Periapsis":80.469116, "OrbitalPeriod":9829712896.000000, "RotationPeriod":356311.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"NGC 6231 Sector GW-W d1-9 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.5289e+14, "InnerRad":1.1196e+09, "OuterRad":2.4743e+09 } ] }
+{ "timestamp":"2017-10-29T01:19:17Z", "event":"FuelScoop", "Scooped":2.212268, "Total":32.000000 }
+{ "timestamp":"2017-10-29T01:19:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"HD 152233", "StarClass":"O" }
+{ "timestamp":"2017-10-29T01:19:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:20:01Z", "event":"FSDJump", "StarSystem":"HD 152233", "StarPos":[1139.844,85.406,3842.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":17.432, "FuelUsed":1.510979, "FuelLevel":30.489021 }
+{ "timestamp":"2017-10-29T01:20:02Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-29T01:20:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:20:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:20:24Z", "event":"Scan", "BodyName":"HD 152233 A", "DistanceFromArrivalLS":0.000000, "StarType":"O", "StellarMass":117.085938, "Radius":1144684032.000000, "AbsoluteMagnitude":-4.500031, "Age_MY":2, "SurfaceTemperature":38599.000000, "Luminosity":"III", "SemiMajorAxis":27539558891520.000000, "Eccentricity":0.019626, "OrbitalInclination":26.367651, "Periapsis":227.136261, "OrbitalPeriod":53670424576.000000, "RotationPeriod":58045.390625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:21:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:21:31Z", "event":"FuelScoop", "Scooped":1.510977, "Total":32.000000 }
+{ "timestamp":"2017-10-29T01:21:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:21:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:21:53Z", "event":"Scan", "BodyName":"HD 152233 A 5", "DistanceFromArrivalLS":1147.838257, "StarType":"TTS", "StellarMass":0.351563, "Radius":389605632.000000, "AbsoluteMagnitude":9.181671, "Age_MY":2, "SurfaceTemperature":2835.000000, "Luminosity":"Va", "SemiMajorAxis":29161944.000000, "Eccentricity":0.141504, "OrbitalInclination":-2.771067, "Periapsis":174.240082, "OrbitalPeriod":1205080.000000, "RotationPeriod":129524.039063, "AxialTilt":1.913311 }
+{ "timestamp":"2017-10-29T01:21:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:21:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:22:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:22:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:22:14Z", "event":"Scan", "BodyName":"HD 152233 A 7", "DistanceFromArrivalLS":1610.848389, "StarType":"TTS", "StellarMass":0.500000, "Radius":485584960.000000, "AbsoluteMagnitude":7.374008, "Age_MY":2, "SurfaceTemperature":3850.000000, "Luminosity":"Va", "SemiMajorAxis":11626801.000000, "Eccentricity":0.160524, "OrbitalInclination":0.055063, "Periapsis":319.002350, "OrbitalPeriod":1392736.125000, "RotationPeriod":156062.687500, "AxialTilt":2.810719 }
+{ "timestamp":"2017-10-29T01:22:30Z", "event":"Scan", "BodyName":"HD 152233 A 3", "DistanceFromArrivalLS":779.410400, "StarType":"TTS", "StellarMass":0.207031, "Radius":276858560.000000, "AbsoluteMagnitude":11.896988, "Age_MY":2, "SurfaceTemperature":1800.000000, "Luminosity":"VI", "SemiMajorAxis":8325154.000000, "Eccentricity":0.022781, "OrbitalInclination":-2.166945, "Periapsis":345.272980, "OrbitalPeriod":858824.312500, "RotationPeriod":97585.085938, "AxialTilt":-1.598519 }
+{ "timestamp":"2017-10-29T01:22:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:22:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:23:00Z", "event":"Scan", "BodyName":"HD 152233 A 9", "DistanceFromArrivalLS":3687.545898, "StarType":"TTS", "StellarMass":0.921875, "Radius":715451456.000000, "AbsoluteMagnitude":4.604080, "Age_MY":2, "SurfaceTemperature":6001.000000, "Luminosity":"Vb", "SemiMajorAxis":1105746198528.000000, "Eccentricity":0.000389, "OrbitalInclination":-0.004757, "Periapsis":337.389771, "OrbitalPeriod":57745532.000000, "RotationPeriod":161774.515625, "AxialTilt":-2.291389 }
+{ "timestamp":"2017-10-29T01:23:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:23:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:23:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:23:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:23:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:23:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:24:29Z", "event":"Scan", "BodyName":"HD 152233 A 9 a", "DistanceFromArrivalLS":3641.565186, "StarType":"TTS", "StellarMass":0.027344, "Radius":77449936.000000, "AbsoluteMagnitude":19.494568, "Age_MY":2, "SurfaceTemperature":592.000000, "Luminosity":"VI", "SemiMajorAxis":34182107136.000000, "Eccentricity":0.000000, "OrbitalInclination":4.511531, "Periapsis":315.093201, "OrbitalPeriod":3423906.750000, "RotationPeriod":148844.421875, "AxialTilt":-0.171706 }
+{ "timestamp":"2017-10-29T01:24:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:24:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:26:05Z", "event":"Scan", "BodyName":"HD 152233 A 10", "DistanceFromArrivalLS":4619.788086, "StarType":"TTS", "StellarMass":0.382813, "Radius":414141696.000000, "AbsoluteMagnitude":8.221451, "Age_MY":2, "SurfaceTemperature":3430.000000, "Luminosity":"Va", "SemiMajorAxis":29395226.000000, "Eccentricity":0.178356, "OrbitalInclination":-0.942839, "Periapsis":69.733971, "OrbitalPeriod":9170066.000000, "RotationPeriod":94339.609375, "AxialTilt":-0.295417 }
+{ "timestamp":"2017-10-29T01:26:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:26:31Z", "event":"Scan", "BodyName":"HD 152233 A 12", "DistanceFromArrivalLS":6624.701660, "StarType":"TTS", "StellarMass":0.871094, "Radius":694162816.000000, "AbsoluteMagnitude":6.237503, "Age_MY":2, "SurfaceTemperature":4183.000000, "Luminosity":"Va", "SemiMajorAxis":439723.468750, "Eccentricity":0.097453, "OrbitalInclination":-7.594137, "Periapsis":138.301483, "OrbitalPeriod":19177934.000000, "RotationPeriod":269080.968750, "AxialTilt":-1.617393 }
+{ "timestamp":"2017-10-29T01:26:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:26:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:26:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:29:52Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T01:30:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:30:24Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T01:31:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:31:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:31:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:32:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:32:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:32:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:45:31Z", "event":"Scan", "BodyName":"HD 152233 B", "DistanceFromArrivalLS":377738.437500, "StarType":"H", "StellarMass":21.378906, "Radius":63067.351563, "AbsoluteMagnitude":20.000000, "Age_MY":2, "SurfaceTemperature":0.000000, "Luminosity":"VII", "SemiMajorAxis":4719204892672.000000, "Eccentricity":0.063378, "OrbitalInclination":4.330346, "Periapsis":161.035309, "OrbitalPeriod":3170945280.000000, "RotationPeriod":0.080903, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:57:47Z", "event":"Scan", "BodyName":"HD 152233 C", "DistanceFromArrivalLS":388085.406250, "StarType":"B", "StellarMass":16.445313, "Radius":3680155648.000000, "AbsoluteMagnitude":-6.264755, "Age_MY":2, "SurfaceTemperature":32300.000000, "Luminosity":"Vz", "SemiMajorAxis":6134969663488.000000, "Eccentricity":0.063378, "OrbitalInclination":4.330346, "Periapsis":341.035309, "OrbitalPeriod":3170945280.000000, "RotationPeriod":181410.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T01:58:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T01:59:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T01:59:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"V963 Scorpii", "StarClass":"B" }
+{ "timestamp":"2017-10-29T01:59:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T01:59:52Z", "event":"FSDJump", "StarSystem":"V963 Scorpii", "StarPos":[1142.719,77.906,3833.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":12.086, "FuelUsed":0.612036, "FuelLevel":30.347963 }
+{ "timestamp":"2017-10-29T01:59:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:00:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:00:16Z", "event":"Scan", "BodyName":"V963 Scorpii", "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":2.906250, "Radius":1367885824.000000, "AbsoluteMagnitude":0.491104, "Age_MY":1106, "SurfaceTemperature":11188.000000, "Luminosity":"V", "RotationPeriod":65189.996094, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T02:01:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:01:24Z", "event":"FuelScoop", "Scooped":1.652048, "Total":32.000000 }
+{ "timestamp":"2017-10-29T02:02:37Z", "event":"USSDrop", "USSType":"$USS_Type_Salvage;", "USSType_Localised":"Degraded emissions detected", "USSThreat":0 }
+{ "timestamp":"2017-10-29T02:02:38Z", "event":"SupercruiseExit", "StarSystem":"V963 Scorpii", "Body":"V963 Scorpii", "BodyType":"Star" }
+{ "timestamp":"2017-10-29T02:02:38Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T02:05:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 Sector CQ-Y d38", "StarClass":"N" }
+{ "timestamp":"2017-10-29T02:05:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T02:05:34Z", "event":"FSDJump", "StarSystem":"NGC 6231 Sector CQ-Y d38", "StarPos":[1137.438,66.563,3814.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.698, "FuelUsed":2.875761, "FuelLevel":28.604239 }
+{ "timestamp":"2017-10-29T02:05:35Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-29T02:05:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:05:56Z", "event":"Scan", "BodyName":"NGC 6231 Sector CQ-Y d38", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.679688, "Radius":11425.781250, "AbsoluteMagnitude":4.893997, "Age_MY":3554, "SurfaceTemperature":4955902.000000, "Luminosity":"VII", "RotationPeriod":2.736073, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T02:08:05Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T02:08:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:08:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:10:53Z", "event":"JetConeBoost", "BoostValue":4.000000 }
+{ "timestamp":"2017-10-29T02:11:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"NGC 6231 BVF 45", "StarClass":"O" }
+{ "timestamp":"2017-10-29T02:11:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T02:11:38Z", "event":"FSDJump", "StarSystem":"NGC 6231 BVF 45", "StarPos":[1145.125,77.500,3852.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":40.342, "FuelUsed":0.387025, "FuelLevel":28.217213, "BoostUsed":4 }
+{ "timestamp":"2017-10-29T02:11:38Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-29T02:11:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:12:02Z", "event":"Scan", "BodyName":"NGC 6231 BVF 45", "DistanceFromArrivalLS":0.000000, "StarType":"O", "StellarMass":95.031250, "Radius":11926736896.000000, "AbsoluteMagnitude":-13.714188, "Age_MY":106, "SurfaceTemperature":99787.000000, "Luminosity":"V", "RotationPeriod":524985.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T02:12:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:12:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:13:24Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T02:14:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:14:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:15:15Z", "event":"FuelScoop", "Scooped":3.782780, "Total":32.000000 }
+{ "timestamp":"2017-10-29T02:15:44Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"HD 152200", "StarClass":"B" }
+{ "timestamp":"2017-10-29T02:15:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T02:16:02Z", "event":"FSDJump", "StarSystem":"HD 152200", "StarPos":[1150.625,85.656,3863.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":14.549, "FuelUsed":0.970264, "FuelLevel":31.029736 }
+{ "timestamp":"2017-10-29T02:16:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:16:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:16:25Z", "event":"Scan", "BodyName":"HD 152200", "DistanceFromArrivalLS":0.000000, "StarType":"B", "StellarMass":4.390625, "Radius":1884077312.000000, "AbsoluteMagnitude":-1.699463, "Age_MY":2, "SurfaceTemperature":15787.000000, "Luminosity":"IV", "RotationPeriod":88877.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T02:26:00Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-29T02:27:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:27:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:28:20Z", "event":"FuelScoop", "Scooped":1.490252, "Total":32.000000 }
+{ "timestamp":"2017-10-29T02:28:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"CD-41 11037", "StarClass":"O" }
+{ "timestamp":"2017-10-29T02:28:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-29T02:29:09Z", "event":"FSDJump", "StarSystem":"CD-41 11037", "StarPos":[1152.625,82.344,3880.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":17.648, "FuelUsed":1.557287, "FuelLevel":30.442713 }
+{ "timestamp":"2017-10-29T02:29:10Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-29T02:29:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:29:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:29:33Z", "event":"Scan", "BodyName":"CD-41 11037", "DistanceFromArrivalLS":0.000000, "StarType":"O", "StellarMass":58.246094, "Radius":2465577728.000000, "AbsoluteMagnitude":-5.000031, "Age_MY":238, "SurfaceTemperature":29509.000000, "Luminosity":"III", "RotationPeriod":111740.304688, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-29T02:29:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:29:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:29:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:30:39Z", "event":"Scan", "BodyName":"CD-41 11037 8", "DistanceFromArrivalLS":2942.340820, "StarType":"M", "StellarMass":0.207031, "Radius":249351008.000000, "AbsoluteMagnitude":11.154999, "Age_MY":238, "SurfaceTemperature":2250.000000, "Luminosity":"Vz", "SemiMajorAxis":10409417728.000000, "Eccentricity":0.159949, "OrbitalInclination":-0.853898, "Periapsis":190.413345, "OrbitalPeriod":5120348.000000, "RotationPeriod":97567.210938, "AxialTilt":2.180212 }
+{ "timestamp":"2017-10-29T02:30:55Z", "event":"Scan", "BodyName":"CD-41 11037 5", "DistanceFromArrivalLS":1554.960083, "StarType":"L", "StellarMass":0.132813, "Radius":211888912.000000, "AbsoluteMagnitude":13.301895, "Age_MY":238, "SurfaceTemperature":1489.000000, "Luminosity":"Vz", "SemiMajorAxis":2383482.750000, "Eccentricity":0.051947, "OrbitalInclination":1.746837, "Periapsis":149.729019, "OrbitalPeriod":934701.375000, "RotationPeriod":60278.914063, "AxialTilt":0.343728 }
+{ "timestamp":"2017-10-29T02:31:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:31:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:31:32Z", "event":"Scan", "BodyName":"CD-41 11037 9", "DistanceFromArrivalLS":3012.885498, "StarType":"L", "StellarMass":0.105469, "Radius":186440176.000000, "AbsoluteMagnitude":13.641495, "Age_MY":238, "SurfaceTemperature":1468.000000, "Luminosity":"Vz", "SemiMajorAxis":20036487168.000000, "Eccentricity":0.159949, "OrbitalInclination":-0.853898, "Periapsis":10.413347, "OrbitalPeriod":5120348.000000, "RotationPeriod":113893.398438, "AxialTilt":0.287090 }
+{ "timestamp":"2017-10-29T02:31:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:31:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-29T02:33:15Z", "event":"Scan", "BodyName":"CD-41 11037 9 a", "DistanceFromArrivalLS":3012.486084, "TidalLock":true, "TerraformState":"", "PlanetClass":"Metal rich body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"major metallic magma volcanism", "MassEM":0.002160, "Radius":688663.562500, "SurfaceGravity":1.814960, "SurfaceTemperature":1448.587158, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":32.966934 }, { "Name":"nickel", "Percent":24.934805 }, { "Name":"chromium", "Percent":14.826324 }, { "Name":"manganese", "Percent":13.615006 }, { "Name":"vanadium", "Percent":8.095531 }, { "Name":"molybdenum", "Percent":2.152722 }, { "Name":"yttrium", "Percent":1.969075 }, { "Name":"mercury", "Percent":1.439612 } ], "SemiMajorAxis":1455384064.000000, "Eccentricity":0.002831, "OrbitalInclination":0.287325, "Periapsis":352.804749, "OrbitalPeriod":91521.632813, "RotationPeriod":91521.703125, "AxialTilt":0.088322 }
+{ "timestamp":"2017-10-29T02:34:37Z", "event":"SupercruiseExit", "StarSystem":"CD-41 11037", "Body":"CD-41 11037 9 a", "BodyType":"Planet" }
+{ "timestamp":"2017-10-29T02:34:37Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T02:36:26Z", "event":"Touchdown", "PlayerControlled":true, "Latitude":29.694019, "Longitude":159.445953 }
+{ "timestamp":"2017-10-29T02:36:35Z", "event":"LaunchSRV", "Loadout":"starter", "PlayerControlled":true }
+{ "timestamp":"2017-10-29T02:42:13Z", "event":"Liftoff", "PlayerControlled":false }
+{ "timestamp":"2017-10-29T02:53:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-29T02:53:02Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-29T02:53:15Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"chromium", "DiscoveryNumber":3 }
+{ "timestamp":"2017-10-29T02:53:15Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2017-10-29T02:53:36Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"nickel", "DiscoveryNumber":4 }
+{ "timestamp":"2017-10-29T02:53:36Z", "event":"MaterialCollected", "Category":"Raw", "Name":"nickel", "Count":3 }
+{ "timestamp":"2017-10-29T02:53:50Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"manganese", "DiscoveryNumber":5 }
+{ "timestamp":"2017-10-29T02:53:50Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2017-10-29T02:54:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-10-29T02:54:18Z", "event":"MaterialCollected", "Category":"Raw", "Name":"manganese", "Count":3 }
+{ "timestamp":"2017-10-29T02:57:41Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2017-10-29T02:57:58Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-10-29T02:58:15Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2017-10-29T02:58:29Z", "event":"MaterialDiscovered", "Category":"Raw", "Name":"vanadium", "DiscoveryNumber":6 }
+{ "timestamp":"2017-10-29T02:58:29Z", "event":"MaterialCollected", "Category":"Raw", "Name":"vanadium", "Count":3 }
+{ "timestamp":"2017-10-29T02:59:28Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-10-29T02:59:42Z", "event":"MaterialCollected", "Category":"Raw", "Name":"chromium", "Count":3 }
+{ "timestamp":"2017-10-29T02:59:57Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-10-29T03:00:02Z", "event":"MaterialCollected", "Category":"Raw", "Name":"iron", "Count":3 }
+{ "timestamp":"2017-10-29T03:01:28Z", "event":"Touchdown", "PlayerControlled":false }
+{ "timestamp":"2017-10-29T03:02:43Z", "event":"DockSRV" }
+{ "timestamp":"2017-10-29T03:16:37Z", "event":"Friends", "Status":"Online", "Name":"Mitsumete Knight" }

@@ -1,0 +1,5 @@
+{ "timestamp":"2017-10-28T13:42:36Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r156431/r0 " }
+{ "timestamp":"2017-10-28T13:42:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-28T13:42:36Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2017-10-28T13:43:14Z", "event":"Friends", "Status":"Online", "Name":"Mitsumete Knight" }
+{ "timestamp":"2017-10-28T13:45:16Z", "event":"Friends", "Status":"Online", "Name":"Mitsumete Knight" }

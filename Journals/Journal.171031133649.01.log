@@ -1,0 +1,979 @@
+{ "timestamp":"2017-10-31T04:36:49Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r156431/r0 " }
+{ "timestamp":"2017-10-31T04:36:49Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:36:49Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"Loadout", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "Modules":[ { "Slot":"LargeHardpoint1", "Item":"Hpt_PulseLaser_Gimbal_Large", "On":true, "Priority":2, "Health":0.958757, "Value":140600 }, { "Slot":"MediumHardpoint2", "Item":"Hpt_MiningLaser_Fixed_Small", "On":true, "Priority":1, "Health":0.958027, "Value":6800 }, { "Slot":"TinyHardpoint1", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.960621, "Value":3500 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.956778, "Value":3500 }, { "Slot":"TinyHardpoint4", "Item":"Hpt_ChaffLauncher_Tiny", "On":true, "Priority":1, "AmmoInClip":1, "AmmoInHopper":10, "Health":0.922629, "Value":8500 }, { "Slot":"Armour", "Item":"DiamondBackXL_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size4_Class4", "On":true, "Priority":1, "Health":0.972401, "Value":536693 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class4", "On":true, "Priority":0, "Health":0.983037, "Value":536693 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.956195, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size3_Class2", "On":true, "Priority":0, "Health":0.949443, "Value":10133 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"Radar", "Item":"Int_Sensors_Size3_Class2", "On":true, "Priority":3, "Health":0.974832, "Value":10133 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size4", "Item":"Int_ShieldGenerator_Size4_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":19878 }, { "Slot":"Slot02_Size4", "Item":"Int_FuelScoop_Size4_Class4", "On":true, "Priority":3, "Health":0.960042, "Value":715591 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":0, "Health":0.981141, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class2", "On":true, "Priority":0, "AmmoInClip":2179, "Health":0.939137, "Value":97200 }, { "Slot":"Slot05_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":0.975861, "Value":1545000 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"DiamondBackXL_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":0.951189, "Value":0 } ] }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"Materials", "Raw":[ { "Name":"carbon", "Count":2 }, { "Name":"iron", "Count":18 }, { "Name":"chromium", "Count":12 }, { "Name":"nickel", "Count":3 }, { "Name":"manganese", "Count":6 }, { "Name":"vanadium", "Count":3 } ], "Manufactured":[ { "Name":"mechanicalscrap", "Count":8 }, { "Name":"gridresistors", "Count":3 }, { "Name":"heatdispersionplate", "Count":5 }, { "Name":"salvagedalloys", "Count":6 }, { "Name":"hybridcapacitors", "Count":5 }, { "Name":"heatconductionwiring", "Count":2 } ], "Encoded":[ { "Name":"shieldsoakanalysis", "Count":3 }, { "Name":"disruptedwakeechoes", "Count":5 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"emissiondata", "Count":3 }, { "Name":"bulkscandata", "Count":9 }, { "Name":"scrambledemissiondata", "Count":7 }, { "Name":"archivedemissiondata", "Count":3 }, { "Name":"shielddensityreports", "Count":9 }, { "Name":"legacyfirmware", "Count":1 } ] }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"LoadGame", "Commander":"Igaguri", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "FuelLevel":31.480000, "FuelCapacity":32.000000, "GameMode":"Open", "Credits":726550, "Loan":0 }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"Rank", "Combat":1, "Trade":4, "Explore":4, "Empire":0, "Federation":1, "CQC":0 }
+{ "timestamp":"2017-10-31T04:37:58Z", "event":"Progress", "Combat":26, "Trade":1, "Explore":10, "Empire":0, "Federation":100, "CQC":0 }
+{ "timestamp":"2017-10-31T04:38:08Z", "event":"Location", "Docked":false, "StarSystem":"Byeia Euq NP-R c4-37", "StarPos":[880.469,65.344,5543.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Byeia Euq NP-R c4-37 A", "BodyType":"Star" }
+{ "timestamp":"2017-10-31T04:38:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:38:08Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T04:38:24Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T04:38:36Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T04:38:45Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2017-10-31T04:38:50Z", "event":"SupercruiseEntry", "StarSystem":"Byeia Euq NP-R c4-37" }
+{ "timestamp":"2017-10-31T04:38:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:39:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq RR-W d1-160", "StarClass":"F" }
+{ "timestamp":"2017-10-31T04:39:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:39:28Z", "event":"FSDJump", "StarSystem":"Byeia Euq RR-W d1-160", "StarPos":[873.750,67.625,5568.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.207, "FuelUsed":3.717902, "FuelLevel":27.762098 }
+{ "timestamp":"2017-10-31T04:39:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:39:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:39:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:39:53Z", "event":"Scan", "BodyName":"Byeia Euq RR-W d1-160 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.339844, "Radius":767049344.000000, "AbsoluteMagnitude":3.773376, "Age_MY":2948, "SurfaceTemperature":7017.000000, "Luminosity":"VI", "SemiMajorAxis":3487251824640.000000, "Eccentricity":0.226809, "OrbitalInclination":-32.336105, "Periapsis":228.029831, "OrbitalPeriod":15248338944.000000, "RotationPeriod":279496.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:40:17Z", "event":"FuelScoop", "Scooped":2.426014, "Total":30.188133 }
+{ "timestamp":"2017-10-31T04:40:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:40:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:40:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq RV-P c5-4", "StarClass":"K" }
+{ "timestamp":"2017-10-31T04:40:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:40:52Z", "event":"FSDJump", "StarSystem":"Byeia Euq RV-P c5-4", "StarPos":[872.094,64.625,5593.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.008, "FuelUsed":3.981369, "FuelLevel":26.206764 }
+{ "timestamp":"2017-10-31T04:40:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:41:21Z", "event":"Scan", "BodyName":"Byeia Euq RV-P c5-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.566406, "Radius":451603808.000000, "AbsoluteMagnitude":7.099106, "Age_MY":332, "SurfaceTemperature":4253.000000, "Luminosity":"Va", "SemiMajorAxis":553274114048.000000, "Eccentricity":0.301038, "OrbitalInclination":5.960096, "Periapsis":321.883453, "OrbitalPeriod":870350912.000000, "RotationPeriod":188566.671875, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq RV-P c5-4 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.0507e+14, "InnerRad":7.4515e+08, "OuterRad":2.1069e+09 } ] }
+{ "timestamp":"2017-10-31T04:41:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:41:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:42:10Z", "event":"FuelScoop", "Scooped":5.001160, "Total":31.207930 }
+{ "timestamp":"2017-10-31T04:42:14Z", "event":"FuelScoop", "Scooped":0.792068, "Total":32.000000 }
+{ "timestamp":"2017-10-31T04:42:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq QD-C b13-0", "StarClass":"K" }
+{ "timestamp":"2017-10-31T04:42:38Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:42:51Z", "event":"FSDJump", "StarSystem":"Byeia Euq QD-C b13-0", "StarPos":[867.188,58.969,5616.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.387, "FuelUsed":3.104416, "FuelLevel":28.895584 }
+{ "timestamp":"2017-10-31T04:42:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:43:15Z", "event":"Scan", "BodyName":"Byeia Euq QD-C b13-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.433594, "Radius":420042240.000000, "AbsoluteMagnitude":7.847488, "Age_MY":6508, "SurfaceTemperature":3712.000000, "Luminosity":"Va", "SemiMajorAxis":646053888000.000000, "Eccentricity":0.181852, "OrbitalInclination":-53.659565, "Periapsis":140.454239, "OrbitalPeriod":1805597952.000000, "RotationPeriod":183122.046875, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:43:27Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:43:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:43:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:43:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:44:00Z", "event":"FuelScoop", "Scooped":3.104422, "Total":32.000000 }
+{ "timestamp":"2017-10-31T04:44:39Z", "event":"Scan", "BodyName":"Byeia Euq QD-C b13-0 A 2", "DistanceFromArrivalLS":116.580193, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":91.502724 }, { "Name":"SulphurDioxide", "Percent":8.497280 } ], "Volcanism":"", "MassEM":0.273330, "Radius":4094173.250000, "SurfaceGravity":6.499256, "SurfaceTemperature":449.173920, "SurfacePressure":82457.468750, "Landable":false, "SemiMajorAxis":84972104.000000, "Eccentricity":0.126807, "OrbitalInclination":-2.204486, "Periapsis":117.051239, "OrbitalPeriod":816387.437500, "RotationPeriod":1114416.375000, "AxialTilt":-0.279543 }
+{ "timestamp":"2017-10-31T04:44:56Z", "event":"Scan", "BodyName":"Byeia Euq QD-C b13-0 A 1", "DistanceFromArrivalLS":116.093781, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":94.571381 }, { "Name":"SulphurDioxide", "Percent":5.428627 } ], "Volcanism":"", "MassEM":0.316579, "Radius":4285953.000000, "SurfaceGravity":6.869053, "SurfaceTemperature":535.496948, "SurfacePressure":384017.656250, "Landable":false, "SemiMajorAxis":73363576.000000, "Eccentricity":0.126807, "OrbitalInclination":-2.204486, "Periapsis":297.051239, "OrbitalPeriod":816387.437500, "RotationPeriod":1199348.250000, "AxialTilt":-0.521446 }
+{ "timestamp":"2017-10-31T04:45:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq VB-O c6-28", "StarClass":"K" }
+{ "timestamp":"2017-10-31T04:45:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:45:49Z", "event":"FSDJump", "StarSystem":"Byeia Euq VB-O c6-28", "StarPos":[875.531,68.500,5637.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.793, "FuelUsed":3.581739, "FuelLevel":28.418261 }
+{ "timestamp":"2017-10-31T04:45:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:45:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:46:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:46:13Z", "event":"Scan", "BodyName":"Byeia Euq VB-O c6-28 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.859375, "Radius":652922688.000000, "AbsoluteMagnitude":5.659393, "Age_MY":6526, "SurfaceTemperature":4927.000000, "Luminosity":"Va", "SemiMajorAxis":5257997320192.000000, "Eccentricity":0.065300, "OrbitalInclination":33.942455, "Periapsis":273.208893, "OrbitalPeriod":53042999296.000000, "RotationPeriod":330252.718750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:46:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:46:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:46:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:46:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:46:40Z", "event":"FuelScoop", "Scooped":3.581734, "Total":32.000000 }
+{ "timestamp":"2017-10-31T04:48:09Z", "event":"Scan", "BodyName":"Byeia Euq VB-O c6-28 A 2", "DistanceFromArrivalLS":822.775085, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":80.822899 }, { "Name":"Oxygen", "Percent":16.221582 }, { "Name":"CarbonDioxide", "Percent":2.558460 } ], "Volcanism":"", "MassEM":0.554745, "Radius":5091354.500000, "SurfaceGravity":8.529742, "SurfaceTemperature":236.579788, "SurfacePressure":118480.015625, "Landable":false, "SemiMajorAxis":246423748608.000000, "Eccentricity":0.000968, "OrbitalInclination":-0.024829, "Periapsis":7.072808, "OrbitalPeriod":71961752.000000, "RotationPeriod":130372.656250, "AxialTilt":-0.289672 }
+{ "timestamp":"2017-10-31T04:48:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ZH-M c7-9", "StarClass":"G" }
+{ "timestamp":"2017-10-31T04:48:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T04:48:52Z", "event":"FSDJump", "StarSystem":"Byeia Euq ZH-M c7-9", "StarPos":[885.313,69.406,5657.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.619, "FuelUsed":2.860749, "FuelLevel":29.139250 }
+{ "timestamp":"2017-10-31T04:48:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:49:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:49:16Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.746094, "Radius":613083392.000000, "AbsoluteMagnitude":5.495544, "Age_MY":1524, "SurfaceTemperature":5280.000000, "Luminosity":"Vab", "SemiMajorAxis":2381011200.000000, "Eccentricity":0.080519, "OrbitalInclination":73.914429, "Periapsis":344.512756, "OrbitalPeriod":281976.468750, "RotationPeriod":266654.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:49:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:49:44Z", "event":"FuelScoop", "Scooped":2.860763, "Total":32.000000 }
+{ "timestamp":"2017-10-31T04:50:57Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 ABC 4", "DistanceFromArrivalLS":573.795410, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.271790 }, { "Name":"SulphurDioxide", "Percent":0.982718 }, { "Name":"Nitrogen", "Percent":0.745280 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.967624, "Radius":6021667.500000, "SurfaceGravity":10.636105, "SurfaceTemperature":787.925110, "SurfacePressure":16464961.000000, "Landable":false, "SemiMajorAxis":151748280320.000000, "Eccentricity":0.169712, "OrbitalInclination":50.281155, "Periapsis":116.178818, "OrbitalPeriod":30030984.000000, "RotationPeriod":105703.375000, "AxialTilt":0.406097 }
+{ "timestamp":"2017-10-31T04:51:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:51:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:51:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:51:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:51:39Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 B", "DistanceFromArrivalLS":21.771950, "StarType":"M", "StellarMass":0.238281, "Radius":300375840.000000, "AbsoluteMagnitude":10.929901, "Age_MY":1524, "SurfaceTemperature":2159.000000, "Luminosity":"VI", "SemiMajorAxis":413742912.000000, "Eccentricity":0.000647, "OrbitalInclination":50.876232, "Periapsis":211.375671, "OrbitalPeriod":27084.755859, "RotationPeriod":165065.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:51:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:51:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:51:56Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 C", "DistanceFromArrivalLS":22.861504, "StarType":"L", "StellarMass":0.167969, "Radius":226937440.000000, "AbsoluteMagnitude":12.245239, "Age_MY":1524, "SurfaceTemperature":1835.000000, "Luminosity":"V", "SemiMajorAxis":586937920.000000, "Eccentricity":0.000647, "OrbitalInclination":50.876232, "Periapsis":31.375662, "OrbitalPeriod":27084.755859, "RotationPeriod":111545.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T04:52:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:52:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:52:28Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D", "DistanceFromArrivalLS":3013.560547, "StarType":"M", "StellarMass":0.429688, "Radius":424414592.000000, "AbsoluteMagnitude":8.533997, "Age_MY":1524, "SurfaceTemperature":3153.000000, "Luminosity":"Va", "SemiMajorAxis":665984237568.000000, "Eccentricity":0.021080, "OrbitalInclination":-27.614548, "Periapsis":297.550049, "OrbitalPeriod":379065888.000000, "RotationPeriod":234033.984375, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq ZH-M c7-9 D A Belt", "RingClass":"eRingClass_Rocky", "MassMT":8.5813e+13, "InnerRad":7.6432e+08, "OuterRad":1.8209e+09 } ] }
+{ "timestamp":"2017-10-31T04:52:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:52:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:55:27Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D 7", "DistanceFromArrivalLS":3159.909180, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":80.770630 }, { "Name":"Nitrogen", "Percent":17.394037 }, { "Name":"Oxygen", "Percent":1.623068 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.739466, "Radius":5554340.000000, "SurfaceGravity":9.553501, "SurfaceTemperature":324.149261, "SurfacePressure":538427.562500, "Landable":false, "SemiMajorAxis":100546437120.000000, "Eccentricity":0.068897, "OrbitalInclination":-129.719635, "Periapsis":230.054611, "OrbitalPeriod":26524374.000000, "RotationPeriod":42941.031250, "AxialTilt":0.081381 }
+{ "timestamp":"2017-10-31T04:55:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:55:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:57:01Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D 6", "DistanceFromArrivalLS":3079.866943, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009689 }, { "Name":"SulphurDioxide", "Percent":0.990102 } ], "Volcanism":"", "MassEM":0.521211, "Radius":4993747.000000, "SurfaceGravity":8.330482, "SurfaceTemperature":690.602661, "SurfacePressure":10024925.000000, "Landable":false, "SemiMajorAxis":73575718912.000000, "Eccentricity":0.100197, "OrbitalInclination":42.113117, "Periapsis":303.756287, "OrbitalPeriod":16603396.000000, "RotationPeriod":174103.687500, "AxialTilt":0.313180 }
+{ "timestamp":"2017-10-31T04:57:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:57:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:57:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:57:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:58:23Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D 5", "DistanceFromArrivalLS":2922.121826, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009674 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"minor rocky magma volcanism", "MassEM":0.664032, "Radius":5376308.000000, "SurfaceGravity":9.156511, "SurfaceTemperature":770.163818, "SurfacePressure":12111765.000000, "Landable":false, "SemiMajorAxis":109840456.000000, "Eccentricity":0.175195, "OrbitalInclination":1.728196, "Periapsis":358.465881, "OrbitalPeriod":832296.687500, "RotationPeriod":1157905.625000, "AxialTilt":0.220125 }
+{ "timestamp":"2017-10-31T04:58:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:58:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T04:58:39Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D 4", "DistanceFromArrivalLS":2922.726563, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009666 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"rocky magma volcanism", "MassEM":0.709826, "Radius":5486059.000000, "SurfaceGravity":9.400268, "SurfaceTemperature":775.173523, "SurfacePressure":12765206.000000, "Landable":false, "SemiMajorAxis":102754176.000000, "Eccentricity":0.175195, "OrbitalInclination":1.728196, "Periapsis":178.465866, "OrbitalPeriod":832296.687500, "RotationPeriod":1596222.125000, "AxialTilt":0.190539 }
+{ "timestamp":"2017-10-31T04:58:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T04:58:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:00:00Z", "event":"Scan", "BodyName":"Byeia Euq ZH-M c7-9 D 3", "DistanceFromArrivalLS":2980.785400, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.886887 }, { "Name":"SulphurDioxide", "Percent":1.113083 } ], "Volcanism":"rocky magma volcanism", "MassEM":0.698123, "Radius":5458518.000000, "SurfaceGravity":9.338815, "SurfaceTemperature":931.637817, "SurfacePressure":11206785.000000, "Landable":false, "SemiMajorAxis":31843883008.000000, "Eccentricity":0.001360, "OrbitalInclination":-0.289129, "Periapsis":289.083618, "OrbitalPeriod":4727528.500000, "RotationPeriod":4727608.000000, "AxialTilt":-0.236828 }
+{ "timestamp":"2017-10-31T05:00:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:00:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:00:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq AI-M c7-6", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:01:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:01:13Z", "event":"FSDJump", "StarSystem":"Byeia Euq AI-M c7-6", "StarPos":[898.875,71.750,5678.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.640, "FuelUsed":3.516396, "FuelLevel":27.963604 }
+{ "timestamp":"2017-10-31T05:01:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:01:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:01:36Z", "event":"Scan", "BodyName":"Byeia Euq AI-M c7-6", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.648438, "Radius":562843904.000000, "AbsoluteMagnitude":6.254700, "Age_MY":556, "SurfaceTemperature":4627.000000, "Luminosity":"Va", "RotationPeriod":254284.203125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:01:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:01:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:01:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:02:05Z", "event":"FuelScoop", "Scooped":4.036389, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:03:20Z", "event":"Scan", "BodyName":"Byeia Euq AI-M c7-6 1", "DistanceFromArrivalLS":634.831482, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":92.050728 }, { "Name":"Oxygen", "Percent":6.294975 }, { "Name":"SulphurDioxide", "Percent":0.934687 } ], "Volcanism":"", "MassEM":0.230286, "Radius":3878773.000000, "SurfaceGravity":6.100817, "SurfaceTemperature":259.638702, "SurfacePressure":76266.609375, "Landable":false, "SemiMajorAxis":190362075136.000000, "Eccentricity":0.000577, "OrbitalInclination":-0.109017, "Periapsis":275.285095, "OrbitalPeriod":56247152.000000, "RotationPeriod":140544.453125, "AxialTilt":-0.106180 }
+{ "timestamp":"2017-10-31T05:03:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:03:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:05:05Z", "event":"Scan", "BodyName":"Byeia Euq AI-M c7-6 2", "DistanceFromArrivalLS":886.136475, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":89.780151 }, { "Name":"Nitrogen", "Percent":9.239282 }, { "Name":"SulphurDioxide", "Percent":0.913051 } ], "Volcanism":"", "MassEM":0.223420, "Radius":3842114.750000, "SurfaceGravity":6.032419, "SurfaceTemperature":238.873123, "SurfacePressure":176771.421875, "Landable":false, "SemiMajorAxis":265746432000.000000, "Eccentricity":0.000547, "OrbitalInclination":0.015959, "Periapsis":231.392853, "OrbitalPeriod":92775008.000000, "RotationPeriod":63725.718750, "AxialTilt":-0.218185 }
+{ "timestamp":"2017-10-31T05:05:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:05:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:05:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq EO-K c8-30", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:05:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:06:00Z", "event":"FSDJump", "StarSystem":"Byeia Euq EO-K c8-30", "StarPos":[903.594,75.656,5703.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.043, "FuelUsed":4.040585, "FuelLevel":27.959415 }
+{ "timestamp":"2017-10-31T05:06:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:06:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:06:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:06:23Z", "event":"Scan", "BodyName":"Byeia Euq EO-K c8-30", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.539063, "Radius":485181728.000000, "AbsoluteMagnitude":7.293091, "Age_MY":2454, "SurfaceTemperature":3924.000000, "Luminosity":"Va", "RotationPeriod":288056.562500, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq EO-K c8-30 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.0397e+14, "InnerRad":8.0055e+08, "OuterRad":2.0377e+09 } ] }
+{ "timestamp":"2017-10-31T05:06:49Z", "event":"FuelScoop", "Scooped":3.660847, "Total":31.620249 }
+{ "timestamp":"2017-10-31T05:07:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq EO-K c8-12", "StarClass":"G" }
+{ "timestamp":"2017-10-31T05:07:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:07:25Z", "event":"FSDJump", "StarSystem":"Byeia Euq EO-K c8-12", "StarPos":[904.594,66.531,5727.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.988, "FuelUsed":4.009967, "FuelLevel":27.610283 }
+{ "timestamp":"2017-10-31T05:07:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:07:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:07:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:07:48Z", "event":"Scan", "BodyName":"Byeia Euq EO-K c8-12 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.863281, "Radius":649102144.000000, "AbsoluteMagnitude":5.406235, "Age_MY":1028, "SurfaceTemperature":5238.000000, "Luminosity":"Va", "SemiMajorAxis":743793950720.000000, "Eccentricity":0.115673, "OrbitalInclination":-12.860191, "Periapsis":130.934662, "OrbitalPeriod":1605939584.000000, "RotationPeriod":380913.531250, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq EO-K c8-12 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.217e+14, "InnerRad":1.1854e+09, "OuterRad":2.2977e+09 } ] }
+{ "timestamp":"2017-10-31T05:07:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:07:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:08:18Z", "event":"FuelScoop", "Scooped":4.148844, "Total":31.759079 }
+{ "timestamp":"2017-10-31T05:08:59Z", "event":"Scan", "BodyName":"Byeia Euq EO-K c8-12 A 1", "DistanceFromArrivalLS":152.340622, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"sulfur dioxide atmosphere", "AtmosphereType":"SulphurDioxide", "AtmosphereComposition":[ { "Name":"SulphurDioxide", "Percent":100.000000 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.686386, "Radius":7094630.000000, "SurfaceGravity":13.353868, "SurfaceTemperature":462.191315, "SurfacePressure":255520.078125, "Landable":false, "SemiMajorAxis":45630496768.000000, "Eccentricity":0.001351, "OrbitalInclination":0.001071, "Periapsis":312.530487, "OrbitalPeriod":5721038.500000, "RotationPeriod":5721177.500000, "AxialTilt":-0.382406 }
+{ "timestamp":"2017-10-31T05:09:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:09:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:11:19Z", "event":"Scan", "BodyName":"Byeia Euq EO-K c8-12 B", "DistanceFromArrivalLS":6664.309570, "StarType":"M", "StellarMass":0.429688, "Radius":400897312.000000, "AbsoluteMagnitude":8.173340, "Age_MY":1028, "SurfaceTemperature":3525.000000, "Luminosity":"Va", "SemiMajorAxis":1494417801216.000000, "Eccentricity":0.115673, "OrbitalInclination":-12.860191, "Periapsis":310.934662, "OrbitalPeriod":1605939584.000000, "RotationPeriod":190912.328125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:11:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:11:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:12:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq IU-I c9-16", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:12:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:12:22Z", "event":"FSDJump", "StarSystem":"Byeia Euq IU-I c9-16", "StarPos":[903.563,66.781,5753.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.803, "FuelUsed":3.943611, "FuelLevel":27.815468 }
+{ "timestamp":"2017-10-31T05:12:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:12:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:12:45Z", "event":"Scan", "BodyName":"Byeia Euq IU-I c9-16", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.609375, "Radius":529308416.000000, "AbsoluteMagnitude":7.120636, "Age_MY":510, "SurfaceTemperature":3909.000000, "Luminosity":"Va", "RotationPeriod":291298.625000, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq IU-I c9-16 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":6.7565e+13, "InnerRad":9.7375e+08, "OuterRad":2.0458e+09 }, { "Name":"Byeia Euq IU-I c9-16 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.6887e+14, "InnerRad":6.6369e+10, "OuterRad":1.6724e+11 } ] }
+{ "timestamp":"2017-10-31T05:12:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:12:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:12:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:13:19Z", "event":"FuelScoop", "Scooped":3.791136, "Total":31.606623 }
+{ "timestamp":"2017-10-31T05:13:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq EK-R d4-89", "StarClass":"A" }
+{ "timestamp":"2017-10-31T05:13:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:13:54Z", "event":"FSDJump", "StarSystem":"Byeia Euq EK-R d4-89", "StarPos":[909.000,66.063,5778.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.778, "FuelUsed":3.930443, "FuelLevel":27.676180 }
+{ "timestamp":"2017-10-31T05:13:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:14:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:14:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:14:17Z", "event":"Scan", "BodyName":"Byeia Euq EK-R d4-89 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.453125, "Radius":794472000.000000, "AbsoluteMagnitude":3.231415, "Age_MY":3996, "SurfaceTemperature":7811.000000, "Luminosity":"VI", "SemiMajorAxis":851144671232.000000, "Eccentricity":0.213290, "OrbitalInclination":-62.999386, "Periapsis":248.059143, "OrbitalPeriod":1885603328.000000, "RotationPeriod":151927.703125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:14:45Z", "event":"FuelScoop", "Scooped":4.843806, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:15:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq MA-H c10-42", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:15:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:15:27Z", "event":"FSDJump", "StarSystem":"Byeia Euq MA-H c10-42", "StarPos":[910.406,67.000,5804.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.618, "FuelUsed":3.881072, "FuelLevel":28.118927 }
+{ "timestamp":"2017-10-31T05:15:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:15:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:15:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:15:51Z", "event":"Scan", "BodyName":"Byeia Euq MA-H c10-42", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.632813, "Radius":537543680.000000, "AbsoluteMagnitude":6.569183, "Age_MY":398, "SurfaceTemperature":4404.000000, "Luminosity":"Va", "RotationPeriod":257521.734375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:16:19Z", "event":"FuelScoop", "Scooped":3.881083, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:16:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq QG-F c11-42", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:16:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:16:58Z", "event":"FSDJump", "StarSystem":"Byeia Euq QG-F c11-42", "StarPos":[914.250,58.000,5825.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.765, "FuelUsed":3.228663, "FuelLevel":28.771338 }
+{ "timestamp":"2017-10-31T05:16:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:17:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:17:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:17:21Z", "event":"Scan", "BodyName":"Byeia Euq QG-F c11-42", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.710938, "Radius":607288960.000000, "AbsoluteMagnitude":6.128311, "Age_MY":710, "SurfaceTemperature":4586.000000, "Luminosity":"Va", "RotationPeriod":279718.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq QG-F c11-42 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.6253e+13, "InnerRad":1.002e+09, "OuterRad":2.3363e+09 }, { "Name":"Byeia Euq QG-F c11-42 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":3.0662e+15, "InnerRad":5.321e+10, "OuterRad":3.3689e+11 } ] }
+{ "timestamp":"2017-10-31T05:18:23Z", "event":"FuelScoop", "Scooped":3.228643, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:18:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq SB-F c11-15", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:18:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:18:58Z", "event":"FSDJump", "StarSystem":"Byeia Euq SB-F c11-15", "StarPos":[923.094,46.188,5847.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.025, "FuelUsed":4.033699, "FuelLevel":27.966301 }
+{ "timestamp":"2017-10-31T05:18:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:19:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:19:23Z", "event":"Scan", "BodyName":"Byeia Euq SB-F c11-15 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.671875, "Radius":579272000.000000, "AbsoluteMagnitude":6.753708, "Age_MY":560, "SurfaceTemperature":4066.000000, "Luminosity":"Va", "SemiMajorAxis":6480016703488.000000, "Eccentricity":0.025276, "OrbitalInclination":-135.717285, "Periapsis":38.211674, "OrbitalPeriod":138618372096.000000, "RotationPeriod":274071.406250, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq SB-F c11-15 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":8.9578e+13, "InnerRad":1.1146e+09, "OuterRad":2.1135e+09 } ] }
+{ "timestamp":"2017-10-31T05:19:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:19:59Z", "event":"FuelScoop", "Scooped":3.939324, "Total":31.905630 }
+{ "timestamp":"2017-10-31T05:20:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:20:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:20:50Z", "event":"Scan", "BodyName":"Byeia Euq SB-F c11-15 A 1", "DistanceFromArrivalLS":278.051910, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":84.195435 }, { "Name":"Nitrogen", "Percent":12.704997 }, { "Name":"Oxygen", "Percent":2.797432 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.893726, "Radius":5866053.500000, "SurfaceGravity":10.351938, "SurfaceTemperature":337.085388, "SurfacePressure":598891.437500, "Landable":false, "SemiMajorAxis":83368108032.000000, "Eccentricity":0.000155, "OrbitalInclination":0.036113, "Periapsis":41.333485, "OrbitalPeriod":16014197.000000, "RotationPeriod":100934.273438, "AxialTilt":2.715212 }
+{ "timestamp":"2017-10-31T05:21:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:21:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:21:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:21:32Z", "event":"Scan", "BodyName":"Byeia Euq SB-F c11-15 A 1 a", "DistanceFromArrivalLS":277.769287, "TidalLock":true, "TerraformState":"", "PlanetClass":"Rocky body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":0.039717, "Radius":2327234.000000, "SurfaceGravity":2.922878, "SurfaceTemperature":217.563309, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"iron", "Percent":20.466146 }, { "Name":"sulphur", "Percent":18.295273 }, { "Name":"nickel", "Percent":15.479737 }, { "Name":"carbon", "Percent":15.384430 }, { "Name":"phosphorus", "Percent":9.849376 }, { "Name":"chromium", "Percent":9.204307 }, { "Name":"germanium", "Percent":5.420089 }, { "Name":"arsenic", "Percent":2.423938 }, { "Name":"cadmium", "Percent":1.589289 }, { "Name":"molybdenum", "Percent":1.336428 }, { "Name":"polonium", "Percent":0.550975 } ], "SemiMajorAxis":92873472.000000, "Eccentricity":0.000000, "OrbitalInclination":-7.727072, "Periapsis":359.405182, "OrbitalPeriod":291550.718750, "RotationPeriod":297958.625000, "AxialTilt":0.316389 }
+{ "timestamp":"2017-10-31T05:21:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:21:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:21:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:21:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:21:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:23:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:23:32Z", "event":"Scan", "BodyName":"Byeia Euq SB-F c11-15 A 2", "DistanceFromArrivalLS":358.358215, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick ammonia atmosphere", "AtmosphereType":"Ammonia", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":77.808884 }, { "Name":"Nitrogen", "Percent":15.323840 }, { "Name":"Oxygen", "Percent":4.513698 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.764319, "Radius":5606683.500000, "SurfaceGravity":9.691075, "SurfaceTemperature":311.527252, "SurfacePressure":573338.562500, "Landable":false, "SemiMajorAxis":107433639936.000000, "Eccentricity":0.000034, "OrbitalInclination":-0.002142, "Periapsis":58.321407, "OrbitalPeriod":23426950.000000, "RotationPeriod":108348.000000, "AxialTilt":1.033326 }
+{ "timestamp":"2017-10-31T05:23:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:25:15Z", "event":"Scan", "BodyName":"Byeia Euq SB-F c11-15 A 3", "DistanceFromArrivalLS":500.491333, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"oxygen atmosphere", "AtmosphereType":"Oxygen", "AtmosphereComposition":[ { "Name":"Oxygen", "Percent":49.702808 }, { "Name":"Nitrogen", "Percent":41.596134 }, { "Name":"CarbonDioxide", "Percent":8.573965 } ], "Volcanism":"", "MassEM":0.288199, "Radius":4158168.500000, "SurfaceGravity":6.643504, "SurfaceTemperature":207.939178, "SurfacePressure":37539.898438, "Landable":false, "SemiMajorAxis":150035251200.000000, "Eccentricity":0.000056, "OrbitalInclination":-0.001708, "Periapsis":29.449108, "OrbitalPeriod":38662972.000000, "RotationPeriod":103152.781250, "AxialTilt":-0.230065 }
+{ "timestamp":"2017-10-31T05:25:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:25:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:25:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq WH-D c12-32", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:25:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:26:08Z", "event":"FSDJump", "StarSystem":"Byeia Euq WH-D c12-32", "StarPos":[924.594,47.844,5872.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.286, "FuelUsed":3.756549, "FuelLevel":28.149082 }
+{ "timestamp":"2017-10-31T05:26:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:26:24Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:26:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:26:31Z", "event":"Scan", "BodyName":"Byeia Euq WH-D c12-32 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.730469, "Radius":558768640.000000, "AbsoluteMagnitude":6.338638, "Age_MY":13038, "SurfaceTemperature":4555.000000, "Luminosity":"Va", "SemiMajorAxis":986171244544.000000, "Eccentricity":0.155796, "OrbitalInclination":31.192698, "Periapsis":311.687958, "OrbitalPeriod":6987432960.000000, "RotationPeriod":248015.390625, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq WH-D c12-32 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.1579e+14, "InnerRad":1.0165e+09, "OuterRad":2.1732e+09 }, { "Name":"Byeia Euq WH-D c12-32 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.5871e+15, "InnerRad":6.9824e+09, "OuterRad":1.7734e+11 } ] }
+{ "timestamp":"2017-10-31T05:26:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:26:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:27:09Z", "event":"FuelScoop", "Scooped":3.850915, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:27:28Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq AO-B c13-30", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:27:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:27:47Z", "event":"FSDJump", "StarSystem":"Byeia Euq AO-B c13-30", "StarPos":[925.844,53.844,5896.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.679, "FuelUsed":3.541563, "FuelLevel":28.458437 }
+{ "timestamp":"2017-10-31T05:27:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:27:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:27:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:28:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:28:10Z", "event":"Scan", "BodyName":"Byeia Euq AO-B c13-30 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.800781, "Radius":567025216.000000, "AbsoluteMagnitude":6.084625, "Age_MY":12823, "SurfaceTemperature":4794.000000, "Luminosity":"Vab", "SemiMajorAxis":9201208262656.000000, "Eccentricity":0.041669, "OrbitalInclination":31.597519, "Periapsis":313.296753, "OrbitalPeriod":43347034112.000000, "RotationPeriod":263294.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:28:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:28:36Z", "event":"FuelScoop", "Scooped":3.541551, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:28:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq YS-B c13-9", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:29:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:29:15Z", "event":"FSDJump", "StarSystem":"Byeia Euq YS-B c13-9", "StarPos":[914.875,60.000,5918.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.261, "FuelUsed":3.749237, "FuelLevel":28.250763 }
+{ "timestamp":"2017-10-31T05:29:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:29:25Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:29:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:29:39Z", "event":"Scan", "BodyName":"Byeia Euq YS-B c13-9", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.863281, "Radius":585384768.000000, "AbsoluteMagnitude":5.873688, "Age_MY":3580, "SurfaceTemperature":4953.000000, "Luminosity":"Vab", "RotationPeriod":310620.531250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:30:12Z", "event":"FuelScoop", "Scooped":3.749239, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:30:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq MW-N d6-57", "StarClass":"F" }
+{ "timestamp":"2017-10-31T05:30:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:30:49Z", "event":"FSDJump", "StarSystem":"Byeia Euq MW-N d6-57", "StarPos":[903.313,71.938,5938.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.764, "FuelUsed":3.935203, "FuelLevel":28.064796 }
+{ "timestamp":"2017-10-31T05:30:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:30:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:31:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:31:12Z", "event":"Scan", "BodyName":"Byeia Euq MW-N d6-57", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.277344, "Radius":860651520.000000, "AbsoluteMagnitude":3.746887, "Age_MY":1032, "SurfaceTemperature":6665.000000, "Luminosity":"Vb", "RotationPeriod":332900.031250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:31:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:31:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:31:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:31:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:31:48Z", "event":"FuelScoop", "Scooped":3.935205, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:32:44Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:32:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:33:06Z", "event":"Scan", "BodyName":"Byeia Euq MW-N d6-57 2", "DistanceFromArrivalLS":578.393494, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"hot thick carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":99.009697 }, { "Name":"SulphurDioxide", "Percent":0.990097 } ], "Volcanism":"major rocky magma volcanism", "MassEM":0.741534, "Radius":5550306.000000, "SurfaceGravity":9.594156, "SurfaceTemperature":891.432678, "SurfacePressure":13188618.000000, "Landable":false, "SemiMajorAxis":173279248384.000000, "Eccentricity":0.001013, "OrbitalInclination":-0.139605, "Periapsis":289.266937, "OrbitalPeriod":34805076.000000, "RotationPeriod":135548.875000, "AxialTilt":1.899333 }
+{ "timestamp":"2017-10-31T05:33:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:33:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:33:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:33:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:35:13Z", "event":"Scan", "BodyName":"Byeia Euq MW-N d6-57 4", "DistanceFromArrivalLS":1442.943237, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":67.255699 }, { "Name":"Oxygen", "Percent":26.850456 }, { "Name":"CarbonDioxide", "Percent":5.807610 } ], "Volcanism":"", "MassEM":0.306636, "Radius":4242804.000000, "SurfaceGravity":6.789326, "SurfaceTemperature":241.419235, "SurfacePressure":57943.453125, "Landable":false, "SemiMajorAxis":432488775680.000000, "Eccentricity":0.000692, "OrbitalInclination":-0.061920, "Periapsis":8.895423, "OrbitalPeriod":137241360.000000, "RotationPeriod":113572.867188, "AxialTilt":-0.114951 }
+{ "timestamp":"2017-10-31T05:35:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:35:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:35:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq CZ-Z c13-19", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:35:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:35:54Z", "event":"FSDJump", "StarSystem":"Byeia Euq CZ-Z c13-19", "StarPos":[903.406,73.156,5962.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.905, "FuelUsed":3.609806, "FuelLevel":27.870193 }
+{ "timestamp":"2017-10-31T05:35:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:36:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:36:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:36:17Z", "event":"Scan", "BodyName":"Byeia Euq CZ-Z c13-19 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.757813, "Radius":548750464.000000, "AbsoluteMagnitude":6.312607, "Age_MY":2146, "SurfaceTemperature":4624.000000, "Luminosity":"Vab", "SemiMajorAxis":1714877235200.000000, "Eccentricity":0.057784, "OrbitalInclination":9.782980, "Periapsis":358.988708, "OrbitalPeriod":24460902400.000000, "RotationPeriod":311792.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:36:43Z", "event":"FuelScoop", "Scooped":4.129814, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:37:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq QC-M d7-16", "StarClass":"A" }
+{ "timestamp":"2017-10-31T05:37:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:37:21Z", "event":"FSDJump", "StarSystem":"Byeia Euq QC-M d7-16", "StarPos":[901.344,73.969,5984.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.396, "FuelUsed":2.496480, "FuelLevel":29.503521 }
+{ "timestamp":"2017-10-31T05:37:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:37:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:37:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:37:44Z", "event":"Scan", "BodyName":"Byeia Euq QC-M d7-16 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.621094, "Radius":1012686016.000000, "AbsoluteMagnitude":2.440018, "Age_MY":2280, "SurfaceTemperature":8301.000000, "Luminosity":"Vb", "SemiMajorAxis":28010172383232.000000, "Eccentricity":0.111863, "OrbitalInclination":29.512068, "Periapsis":75.199493, "OrbitalPeriod":225743257600.000000, "RotationPeriod":79542.898438, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:38:05Z", "event":"FuelScoop", "Scooped":2.496465, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:38:34Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq GF-Y c14-40", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:38:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:38:52Z", "event":"FSDJump", "StarSystem":"Byeia Euq GF-Y c14-40", "StarPos":[902.000,64.375,6008.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.971, "FuelUsed":4.012767, "FuelLevel":27.987232 }
+{ "timestamp":"2017-10-31T05:38:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:39:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:39:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:39:15Z", "event":"Scan", "BodyName":"Byeia Euq GF-Y c14-40 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.863281, "Radius":588993024.000000, "AbsoluteMagnitude":5.710358, "Age_MY":5522, "SurfaceTemperature":5127.000000, "Luminosity":"Vab", "SemiMajorAxis":2805526528.000000, "Eccentricity":0.271972, "OrbitalInclination":15.547912, "Periapsis":140.048447, "OrbitalPeriod":315278.187500, "RotationPeriod":421552.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:39:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:39:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:39:49Z", "event":"Scan", "BodyName":"Byeia Euq GF-Y c14-40 B", "DistanceFromArrivalLS":32.387394, "StarType":"K", "StellarMass":0.496094, "Radius":488131968.000000, "AbsoluteMagnitude":7.488556, "Age_MY":5522, "SurfaceTemperature":3740.000000, "Luminosity":"Va", "SemiMajorAxis":4882056704.000000, "Eccentricity":0.271972, "OrbitalInclination":15.547912, "Periapsis":320.048431, "OrbitalPeriod":315278.187500, "RotationPeriod":224447.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:40:35Z", "event":"FuelScoop", "Scooped":4.012777, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:41:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq JL-W c15-34", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:41:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:41:22Z", "event":"FSDJump", "StarSystem":"Byeia Euq JL-W c15-34", "StarPos":[894.719,57.313,6031.813], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.567, "FuelUsed":3.861777, "FuelLevel":28.138224 }
+{ "timestamp":"2017-10-31T05:41:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:41:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:41:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:41:45Z", "event":"Scan", "BodyName":"Byeia Euq JL-W c15-34", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.605469, "Radius":517549760.000000, "AbsoluteMagnitude":6.986664, "Age_MY":794, "SurfaceTemperature":4077.000000, "Luminosity":"Va", "RotationPeriod":271235.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq JL-W c15-34 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.1095e+13, "InnerRad":8.3578e+08, "OuterRad":2.0414e+09 }, { "Name":"Byeia Euq JL-W c15-34 B Belt", "RingClass":"eRingClass_Icy", "MassMT":4.9368e+15, "InnerRad":3.9162e+09, "OuterRad":1.0025e+12 } ] }
+{ "timestamp":"2017-10-31T05:42:13Z", "event":"FuelScoop", "Scooped":3.861756, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:42:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq KL-W c15-21", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:42:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:42:51Z", "event":"FSDJump", "StarSystem":"Byeia Euq KL-W c15-21", "StarPos":[904.500,59.719,6052.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.561, "FuelUsed":2.842526, "FuelLevel":29.157475 }
+{ "timestamp":"2017-10-31T05:42:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:43:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:43:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:43:14Z", "event":"Scan", "BodyName":"Byeia Euq KL-W c15-21", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":485202944.000000, "AbsoluteMagnitude":6.381622, "Age_MY":838, "SurfaceTemperature":4840.000000, "Luminosity":"Vab", "RotationPeriod":183260.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:43:37Z", "event":"FuelScoop", "Scooped":2.842524, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:43:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq OR-U c16-38", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:44:03Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:44:16Z", "event":"FSDJump", "StarSystem":"Byeia Euq OR-U c16-38", "StarPos":[908.750,55.500,6071.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.847, "FuelUsed":2.342451, "FuelLevel":29.657549 }
+{ "timestamp":"2017-10-31T05:44:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:44:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:44:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:44:52Z", "event":"Scan", "BodyName":"Byeia Euq OR-U c16-38 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.851563, "Radius":597037312.000000, "AbsoluteMagnitude":5.804642, "Age_MY":6502, "SurfaceTemperature":4983.000000, "Luminosity":"Vab", "SemiMajorAxis":5154409021440.000000, "Eccentricity":0.040680, "OrbitalInclination":-4.600986, "Periapsis":184.837097, "OrbitalPeriod":21068767232.000000, "RotationPeriod":202979.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:45:09Z", "event":"FuelScoop", "Scooped":2.342447, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:45:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq OR-U c16-33", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:45:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:45:50Z", "event":"FSDJump", "StarSystem":"Byeia Euq OR-U c16-33", "StarPos":[914.094,59.344,6094.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.053, "FuelUsed":2.996842, "FuelLevel":29.003159 }
+{ "timestamp":"2017-10-31T05:45:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:45:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:46:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:46:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:46:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:46:13Z", "event":"Scan", "BodyName":"Byeia Euq OR-U c16-33", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.566406, "Radius":521731104.000000, "AbsoluteMagnitude":6.879562, "Age_MY":10574, "SurfaceTemperature":4162.000000, "Luminosity":"Va", "RotationPeriod":261132.109375, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq OR-U c16-33 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":3.4812e+11, "InnerRad":9.2897e+08, "OuterRad":1.9966e+09 } ] }
+{ "timestamp":"2017-10-31T05:46:32Z", "event":"FuelScoop", "Scooped":2.996831, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:46:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq SX-S c17-28", "StarClass":"G" }
+{ "timestamp":"2017-10-31T05:46:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:47:12Z", "event":"FSDJump", "StarSystem":"Byeia Euq SX-S c17-28", "StarPos":[928.875,67.125,6112.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.229, "FuelUsed":3.737605, "FuelLevel":28.262394 }
+{ "timestamp":"2017-10-31T05:47:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:47:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:47:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:47:35Z", "event":"Scan", "BodyName":"Byeia Euq SX-S c17-28", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.863281, "Radius":693632192.000000, "AbsoluteMagnitude":4.987396, "Age_MY":642, "SurfaceTemperature":5580.000000, "Luminosity":"Vab", "RotationPeriod":391975.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:48:00Z", "event":"FuelScoop", "Scooped":3.737581, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:48:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq WD-R c18-5", "StarClass":"G" }
+{ "timestamp":"2017-10-31T05:48:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:48:40Z", "event":"FSDJump", "StarSystem":"Byeia Euq WD-R c18-5", "StarPos":[920.469,70.719,6136.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.449, "FuelUsed":3.818291, "FuelLevel":28.181709 }
+{ "timestamp":"2017-10-31T05:48:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:48:50Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:48:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:48:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:49:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:49:03Z", "event":"Scan", "BodyName":"Byeia Euq WD-R c18-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.835938, "Radius":589311424.000000, "AbsoluteMagnitude":5.639404, "Age_MY":446, "SurfaceTemperature":5210.000000, "Luminosity":"Vab", "SemiMajorAxis":23708211085312.000000, "Eccentricity":0.090124, "OrbitalInclination":-34.131535, "Periapsis":345.010437, "OrbitalPeriod":184901025792.000000, "RotationPeriod":271410.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:49:31Z", "event":"FuelScoop", "Scooped":3.818281, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:49:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq WD-R c18-33", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:49:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:50:04Z", "event":"FSDJump", "StarSystem":"Byeia Euq WD-R c18-33", "StarPos":[921.156,63.313,6160.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.365, "FuelUsed":3.785378, "FuelLevel":28.214622 }
+{ "timestamp":"2017-10-31T05:50:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:50:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:50:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:50:28Z", "event":"Scan", "BodyName":"Byeia Euq WD-R c18-33", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.765625, "Radius":616712832.000000, "AbsoluteMagnitude":5.974350, "Age_MY":12690, "SurfaceTemperature":4715.000000, "Luminosity":"Va", "RotationPeriod":268664.437500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:50:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:50:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:50:55Z", "event":"FuelScoop", "Scooped":3.785358, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:51:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq YO-I d9-103", "StarClass":"F" }
+{ "timestamp":"2017-10-31T05:51:22Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:51:35Z", "event":"FSDJump", "StarSystem":"Byeia Euq YO-I d9-103", "StarPos":[920.688,60.813,6185.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.165, "FuelUsed":3.363538, "FuelLevel":28.636461 }
+{ "timestamp":"2017-10-31T05:51:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:51:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:51:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:51:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:51:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:51:58Z", "event":"Scan", "BodyName":"Byeia Euq YO-I d9-103", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.074219, "Radius":774499328.000000, "AbsoluteMagnitude":4.141357, "Age_MY":1936, "SurfaceTemperature":6416.000000, "Luminosity":"Vb", "RotationPeriod":408073.937500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:52:21Z", "event":"FuelScoop", "Scooped":3.363520, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:52:40Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq AK-P c19-38", "StarClass":"K" }
+{ "timestamp":"2017-10-31T05:52:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T05:52:59Z", "event":"FSDJump", "StarSystem":"Byeia Euq AK-P c19-38", "StarPos":[932.781,71.656,6203.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.246, "FuelUsed":3.391113, "FuelLevel":28.608887 }
+{ "timestamp":"2017-10-31T05:52:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:53:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:53:22Z", "event":"Scan", "BodyName":"Byeia Euq AK-P c19-38", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.640625, "Radius":551806848.000000, "AbsoluteMagnitude":6.546967, "Age_MY":5678, "SurfaceTemperature":4369.000000, "Luminosity":"Va", "RotationPeriod":366608.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T05:53:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:53:43Z", "event":"FuelScoop", "Scooped":3.391114, "Total":32.000000 }
+{ "timestamp":"2017-10-31T05:54:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:54:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:54:44Z", "event":"Scan", "BodyName":"Byeia Euq AK-P c19-38 1", "DistanceFromArrivalLS":481.349854, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick methane rich atmosphere", "AtmosphereType":"MethaneRich", "AtmosphereComposition":[ { "Name":"Ammonia", "Percent":30.738726 }, { "Name":"Methane", "Percent":30.738726 }, { "Name":"Nitrogen", "Percent":30.738726 } ], "Volcanism":"major rocky magma volcanism", "MassEM":1.202365, "Radius":6431465.500000, "SurfaceGravity":11.585790, "SurfaceTemperature":479.691711, "SurfacePressure":2094766.250000, "Landable":false, "SemiMajorAxis":144288251904.000000, "Eccentricity":0.000117, "OrbitalInclination":-0.002556, "Periapsis":102.768578, "OrbitalPeriod":37342640.000000, "RotationPeriod":157608.812500, "AxialTilt":0.175149 }
+{ "timestamp":"2017-10-31T05:54:46Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T05:54:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:56:34Z", "event":"Scan", "BodyName":"Byeia Euq AK-P c19-38 2", "DistanceFromArrivalLS":702.119202, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"thick ammonia rich atmosphere", "AtmosphereType":"AmmoniaRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":36.023415 }, { "Name":"Ammonia", "Percent":34.612320 }, { "Name":"Methane", "Percent":29.035408 } ], "Volcanism":"", "MassEM":0.702248, "Radius":5475328.500000, "SurfaceGravity":9.336407, "SurfaceTemperature":331.611176, "SurfacePressure":1160766.250000, "Landable":false, "SemiMajorAxis":210519687168.000000, "Eccentricity":0.000165, "OrbitalInclination":-0.002813, "Periapsis":307.070709, "OrbitalPeriod":65810888.000000, "RotationPeriod":44388.468750, "AxialTilt":0.135433 }
+{ "timestamp":"2017-10-31T05:56:57Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T05:57:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T05:57:30Z", "event":"SupercruiseExit", "StarSystem":"Byeia Euq AK-P c19-38", "Body":"Byeia Euq AK-P c19-38 2", "BodyType":"Planet" }
+{ "timestamp":"2017-10-31T05:57:30Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T07:18:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq FQ-N c20-3", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:18:40Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:18:54Z", "event":"FSDJump", "StarSystem":"Byeia Euq FQ-N c20-3", "StarPos":[937.594,71.969,6227.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.062, "FuelUsed":3.641870, "FuelLevel":26.798128 }
+{ "timestamp":"2017-10-31T07:18:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:19:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:19:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:19:18Z", "event":"Scan", "BodyName":"Byeia Euq FQ-N c20-3", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.804688, "Radius":594278080.000000, "AbsoluteMagnitude":5.439911, "Age_MY":9366, "SurfaceTemperature":5432.000000, "Luminosity":"Vab", "RotationPeriod":281894.625000, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq FQ-N c20-3 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2237e+14, "InnerRad":1.0452e+09, "OuterRad":2.2445e+09 }, { "Name":"Byeia Euq FQ-N c20-3 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.7519e+15, "InnerRad":8.8091e+09, "OuterRad":3.5516e+11 } ] }
+{ "timestamp":"2017-10-31T07:19:53Z", "event":"FuelScoop", "Scooped":4.960083, "Total":31.758205 }
+{ "timestamp":"2017-10-31T07:20:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq FQ-N c20-16", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:20:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:20:29Z", "event":"FSDJump", "StarSystem":"Byeia Euq FQ-N c20-16", "StarPos":[940.313,79.313,6251.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.741, "FuelUsed":3.557740, "FuelLevel":28.200466 }
+{ "timestamp":"2017-10-31T07:20:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:20:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:20:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:20:54Z", "event":"Scan", "BodyName":"Byeia Euq FQ-N c20-16 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.851563, "Radius":566154944.000000, "AbsoluteMagnitude":5.646362, "Age_MY":9018, "SurfaceTemperature":5307.000000, "Luminosity":"Vab", "SemiMajorAxis":17282525822976.000000, "Eccentricity":0.001330, "OrbitalInclination":-0.211605, "Periapsis":188.310822, "OrbitalPeriod":269376241664.000000, "RotationPeriod":249813.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:21:18Z", "event":"FuelScoop", "Scooped":3.799532, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:21:40Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq JW-L c21-8", "StarClass":"K" }
+{ "timestamp":"2017-10-31T07:21:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:21:58Z", "event":"FSDJump", "StarSystem":"Byeia Euq JW-L c21-8", "StarPos":[935.219,79.219,6274.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.351, "FuelUsed":3.427222, "FuelLevel":28.572777 }
+{ "timestamp":"2017-10-31T07:21:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:22:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:22:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:22:22Z", "event":"Scan", "BodyName":"Byeia Euq JW-L c21-8", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.792969, "Radius":582752896.000000, "AbsoluteMagnitude":5.682922, "Age_MY":12948, "SurfaceTemperature":5187.000000, "Luminosity":"Vab", "RotationPeriod":244513.703125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:22:44Z", "event":"FuelScoop", "Scooped":3.427232, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:23:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq NC-K c22-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T07:23:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:23:26Z", "event":"FSDJump", "StarSystem":"Byeia Euq NC-K c22-23", "StarPos":[938.313,78.156,6297.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.922, "FuelUsed":2.955389, "FuelLevel":29.044611 }
+{ "timestamp":"2017-10-31T07:23:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:23:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:23:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:23:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:23:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:23:49Z", "event":"Scan", "BodyName":"Byeia Euq NC-K c22-23", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.769531, "Radius":559384192.000000, "AbsoluteMagnitude":6.025299, "Age_MY":6812, "SurfaceTemperature":4893.000000, "Luminosity":"Va", "RotationPeriod":221876.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:24:08Z", "event":"FuelScoop", "Scooped":2.955364, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:25:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq MC-K c22-33", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:25:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:26:08Z", "event":"FSDJump", "StarSystem":"Byeia Euq MC-K c22-33", "StarPos":[929.719,77.031,6318.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.747, "FuelUsed":2.900178, "FuelLevel":29.099823 }
+{ "timestamp":"2017-10-31T07:26:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:26:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:26:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:26:32Z", "event":"Scan", "BodyName":"Byeia Euq MC-K c22-33 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.820313, "Radius":643371456.000000, "AbsoluteMagnitude":5.276321, "Age_MY":256, "SurfaceTemperature":5421.000000, "Luminosity":"Vab", "SemiMajorAxis":49850162872320.000000, "Eccentricity":0.224033, "OrbitalInclination":-3.248215, "Periapsis":88.632042, "OrbitalPeriod":629155823616.000000, "RotationPeriod":317373.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:26:53Z", "event":"FuelScoop", "Scooped":2.900186, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:27:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq GB-F d11-129", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:27:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:27:30Z", "event":"FSDJump", "StarSystem":"Byeia Euq GB-F d11-129", "StarPos":[924.813,78.000,6340.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.409, "FuelUsed":2.795966, "FuelLevel":29.204033 }
+{ "timestamp":"2017-10-31T07:27:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:27:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:27:54Z", "event":"Scan", "BodyName":"Byeia Euq GB-F d11-129 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.121094, "Radius":762210048.000000, "AbsoluteMagnitude":4.514618, "Age_MY":1516, "SurfaceTemperature":5935.000000, "Luminosity":"Vab", "SemiMajorAxis":1657648709632.000000, "Eccentricity":0.353930, "OrbitalInclination":31.222763, "Periapsis":169.989380, "OrbitalPeriod":4234042880.000000, "RotationPeriod":393902.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:28:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:28:21Z", "event":"FuelScoop", "Scooped":2.795958, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:29:27Z", "event":"Scan", "BodyName":"Byeia Euq GB-F d11-129 A 2", "DistanceFromArrivalLS":453.485321, "TidalLock":false, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":57.549519 }, { "Name":"SulphurDioxide", "Percent":42.450481 } ], "Volcanism":"", "MassEM":0.295834, "Radius":4190048.750000, "SurfaceGravity":6.716128, "SurfaceTemperature":493.472565, "SurfacePressure":135409.859375, "Landable":false, "SemiMajorAxis":135950114816.000000, "Eccentricity":0.000035, "OrbitalInclination":0.002898, "Periapsis":194.826904, "OrbitalPeriod":25818192.000000, "RotationPeriod":122268.500000, "AxialTilt":0.391672 }
+{ "timestamp":"2017-10-31T07:29:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:29:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:31:11Z", "event":"Scan", "BodyName":"Byeia Euq GB-F d11-129 A 3", "DistanceFromArrivalLS":615.976563, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":63.983501 }, { "Name":"SulphurDioxide", "Percent":36.016495 } ], "Volcanism":"", "MassEM":0.231917, "Radius":3883059.250000, "SurfaceGravity":6.130463, "SurfaceTemperature":417.416260, "SurfacePressure":97815.882813, "Landable":false, "SemiMajorAxis":184756797440.000000, "Eccentricity":0.002382, "OrbitalInclination":-0.051966, "Periapsis":68.219048, "OrbitalPeriod":40903184.000000, "RotationPeriod":98470.062500, "AxialTilt":-0.372467 }
+{ "timestamp":"2017-10-31T07:31:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:31:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:31:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:31:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:33:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:33:55Z", "event":"Scan", "BodyName":"Byeia Euq GB-F d11-129 A 4", "DistanceFromArrivalLS":1105.149292, "TidalLock":false, "TerraformState":"Terraformable", "PlanetClass":"High metal content body", "Atmosphere":"ammonia rich atmosphere", "AtmosphereType":"AmmoniaRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":94.382782 }, { "Name":"Ammonia", "Percent":5.173131 }, { "Name":"Water", "Percent":0.357857 } ], "Volcanism":"minor rocky magma volcanism", "MassEM":0.658215, "Radius":5359294.000000, "SurfaceGravity":9.134027, "SurfaceTemperature":293.971039, "SurfacePressure":420101.406250, "Landable":false, "SemiMajorAxis":331391074304.000000, "Eccentricity":0.000235, "OrbitalInclination":-0.190547, "Periapsis":224.787994, "OrbitalPeriod":98257968.000000, "RotationPeriod":73016.343750, "AxialTilt":-0.376802 }
+{ "timestamp":"2017-10-31T07:34:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:34:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq QI-I c23-7", "StarClass":"K" }
+{ "timestamp":"2017-10-31T07:34:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:34:39Z", "event":"FSDJump", "StarSystem":"Byeia Euq QI-I c23-7", "StarPos":[930.688,80.938,6361.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.481, "FuelUsed":2.808850, "FuelLevel":28.671150 }
+{ "timestamp":"2017-10-31T07:34:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:34:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:34:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:35:02Z", "event":"Scan", "BodyName":"Byeia Euq QI-I c23-7 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.625000, "Radius":510184704.000000, "AbsoluteMagnitude":7.037018, "Age_MY":3838, "SurfaceTemperature":4059.000000, "Luminosity":"Va", "SemiMajorAxis":905846652928.000000, "Eccentricity":0.242907, "OrbitalInclination":70.538872, "Periapsis":257.027924, "OrbitalPeriod":2599056896.000000, "RotationPeriod":210344.078125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:36:22Z", "event":"FuelScoop", "Scooped":3.328831, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:36:43Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq KH-D d12-98", "StarClass":"F" }
+{ "timestamp":"2017-10-31T07:36:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:37:01Z", "event":"FSDJump", "StarSystem":"Byeia Euq KH-D d12-98", "StarPos":[930.375,72.313,6384.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.924, "FuelUsed":3.281743, "FuelLevel":28.718256 }
+{ "timestamp":"2017-10-31T07:37:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:37:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:37:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:37:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:37:25Z", "event":"Scan", "BodyName":"Byeia Euq KH-D d12-98 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.511719, "Radius":847343424.000000, "AbsoluteMagnitude":3.541092, "Age_MY":470, "SurfaceTemperature":7043.000000, "Luminosity":"Vb", "SemiMajorAxis":6206867898368.000000, "Eccentricity":0.290510, "OrbitalInclination":-56.553185, "Periapsis":344.610657, "OrbitalPeriod":29911439360.000000, "RotationPeriod":105520.093750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:37:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:37:40Z", "event":"FuelScoop", "Scooped":0.029145, "Total":28.747417 }
+{ "timestamp":"2017-10-31T07:37:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq KH-D d12-33", "StarClass":"F" }
+{ "timestamp":"2017-10-31T07:37:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:38:09Z", "event":"FSDJump", "StarSystem":"Byeia Euq KH-D d12-33", "StarPos":[929.406,82.469,6406.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.364, "FuelUsed":3.361452, "FuelLevel":25.385965 }
+{ "timestamp":"2017-10-31T07:38:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:38:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:38:32Z", "event":"Scan", "BodyName":"Byeia Euq KH-D d12-33", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.296875, "Radius":896691520.000000, "AbsoluteMagnitude":3.426178, "Age_MY":2302, "SurfaceTemperature":7030.000000, "Luminosity":"Vb", "RotationPeriod":400052.500000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:38:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:39:02Z", "event":"FuelScoop", "Scooped":5.002364, "Total":30.388315 }
+{ "timestamp":"2017-10-31T07:39:08Z", "event":"FuelScoop", "Scooped":1.611705, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:39:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq YU-E c25-10", "StarClass":"K" }
+{ "timestamp":"2017-10-31T07:39:36Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:39:50Z", "event":"FSDJump", "StarSystem":"Byeia Euq YU-E c25-10", "StarPos":[932.000,85.938,6431.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.680, "FuelUsed":3.904160, "FuelLevel":28.095840 }
+{ "timestamp":"2017-10-31T07:39:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:40:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:40:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:40:13Z", "event":"Scan", "BodyName":"Byeia Euq YU-E c25-10", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":572097984.000000, "AbsoluteMagnitude":6.489456, "Age_MY":6602, "SurfaceTemperature":4348.000000, "Luminosity":"Va", "RotationPeriod":238414.828125, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq YU-E c25-10 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.1166e+14, "InnerRad":9.37e+08, "OuterRad":2.1053e+09 }, { "Name":"Byeia Euq YU-E c25-10 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.613e+13, "InnerRad":4.7133e+09, "OuterRad":4.7884e+11 } ] }
+{ "timestamp":"2017-10-31T07:40:38Z", "event":"FuelScoop", "Scooped":3.904184, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:40:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq YU-E c25-1", "StarClass":"K" }
+{ "timestamp":"2017-10-31T07:41:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:41:17Z", "event":"FSDJump", "StarSystem":"Byeia Euq YU-E c25-1", "StarPos":[920.000,86.063,6454.563], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.832, "FuelUsed":3.960377, "FuelLevel":28.039623 }
+{ "timestamp":"2017-10-31T07:41:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:41:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:41:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:41:40Z", "event":"Scan", "BodyName":"Byeia Euq YU-E c25-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.531250, "Radius":432713568.000000, "AbsoluteMagnitude":7.250534, "Age_MY":11270, "SurfaceTemperature":4196.000000, "Luminosity":"Vab", "SemiMajorAxis":15711884288.000000, "Eccentricity":0.087842, "OrbitalInclination":50.728714, "Periapsis":243.475113, "OrbitalPeriod":10305036.000000, "RotationPeriod":195379.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:41:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:41:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:42:09Z", "event":"FuelScoop", "Scooped":3.960382, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:42:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:42:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:42:29Z", "event":"Scan", "BodyName":"Byeia Euq YU-E c25-1 A 1", "DistanceFromArrivalLS":23.601297, "TidalLock":false, "TerraformState":"", "PlanetClass":"Icy body", "Atmosphere":"", "AtmosphereType":"None", "Volcanism":"", "MassEM":26.445131, "Radius":20246474.000000, "SurfaceGravity":25.713215, "SurfaceTemperature":703.236755, "SurfacePressure":0.000000, "Landable":true, "Materials":[ { "Name":"sulphur", "Percent":23.815237 }, { "Name":"carbon", "Percent":20.026148 }, { "Name":"iron", "Percent":15.355268 }, { "Name":"phosphorus", "Percent":12.821084 }, { "Name":"nickel", "Percent":11.614079 }, { "Name":"manganese", "Percent":6.341568 }, { "Name":"zinc", "Percent":4.172987 }, { "Name":"germanium", "Percent":3.137895 }, { "Name":"niobium", "Percent":1.049451 }, { "Name":"molybdenum", "Percent":1.002690 }, { "Name":"antimony", "Percent":0.663584 } ], "SemiMajorAxis":7432249856.000000, "Eccentricity":0.164801, "OrbitalInclination":54.358803, "Periapsis":36.535065, "OrbitalPeriod":479377.156250, "RotationPeriod":319608.625000, "AxialTilt":-0.415023 }
+{ "timestamp":"2017-10-31T07:43:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:44:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:45:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:45:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:45:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ON-B d13-104", "StarClass":"F" }
+{ "timestamp":"2017-10-31T07:45:48Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:46:01Z", "event":"FSDJump", "StarSystem":"Byeia Euq ON-B d13-104", "StarPos":[923.375,88.438,6475.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.770, "FuelUsed":2.604614, "FuelLevel":29.395386 }
+{ "timestamp":"2017-10-31T07:46:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:46:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:46:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:46:24Z", "event":"Scan", "BodyName":"Byeia Euq ON-B d13-104 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.265625, "Radius":802134208.000000, "AbsoluteMagnitude":4.080795, "Age_MY":1152, "SurfaceTemperature":6393.000000, "Luminosity":"Vb", "SemiMajorAxis":8281306169344.000000, "Eccentricity":0.252463, "OrbitalInclination":21.957806, "Periapsis":313.465546, "OrbitalPeriod":44297932800.000000, "RotationPeriod":250266.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T07:46:45Z", "event":"FuelScoop", "Scooped":2.604595, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:47:12Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ON-B d13-125", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:47:17Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:47:31Z", "event":"FSDJump", "StarSystem":"Byeia Euq ON-B d13-125", "StarPos":[925.469,79.625,6498.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.110, "FuelUsed":3.344893, "FuelLevel":28.655107 }
+{ "timestamp":"2017-10-31T07:47:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:47:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:47:53Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:47:54Z", "event":"Scan", "BodyName":"Byeia Euq ON-B d13-125 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.945313, "Radius":665275584.000000, "AbsoluteMagnitude":5.026947, "Age_MY":2186, "SurfaceTemperature":5646.000000, "Luminosity":"Vab", "SemiMajorAxis":299120623616.000000, "Eccentricity":0.118221, "OrbitalInclination":7.841060, "Periapsis":5.248174, "OrbitalPeriod":500274496.000000, "RotationPeriod":314434.031250, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq ON-B d13-125 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2734e+14, "InnerRad":1.2471e+09, "OuterRad":2.3683e+09 } ] }
+{ "timestamp":"2017-10-31T07:47:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:47:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:47:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:48:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:48:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:48:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:48:33Z", "event":"FuelScoop", "Scooped":3.344894, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:48:57Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ON-B d13-89", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:49:02Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:49:16Z", "event":"FSDJump", "StarSystem":"Byeia Euq ON-B d13-89", "StarPos":[919.031,75.656,6517.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.061, "FuelUsed":2.401637, "FuelLevel":29.598362 }
+{ "timestamp":"2017-10-31T07:49:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:49:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:49:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:49:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:49:39Z", "event":"Scan", "BodyName":"Byeia Euq ON-B d13-89 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.167969, "Radius":720248256.000000, "AbsoluteMagnitude":4.761597, "Age_MY":1174, "SurfaceTemperature":5768.000000, "Luminosity":"Vab", "SemiMajorAxis":2496556171264.000000, "Eccentricity":0.091799, "OrbitalInclination":13.358881, "Periapsis":259.458160, "OrbitalPeriod":9696024576.000000, "RotationPeriod":294325.843750, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq ON-B d13-89 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":2.3802e+12, "InnerRad":1.3845e+09, "OuterRad":2.5413e+09 } ] }
+{ "timestamp":"2017-10-31T07:49:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:49:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:49:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:50:17Z", "event":"FuelScoop", "Scooped":2.401637, "Total":32.000000 }
+{ "timestamp":"2017-10-31T07:51:47Z", "event":"Scan", "BodyName":"Byeia Euq ON-B d13-89 A 3", "DistanceFromArrivalLS":744.105408, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"thick water rich atmosphere", "AtmosphereType":"WaterRich", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":91.800209 }, { "Name":"Water", "Percent":4.889421 }, { "Name":"Oxygen", "Percent":3.289514 } ], "Volcanism":"major silicate vapour geysers volcanism", "MassEM":3.230866, "Radius":8518495.000000, "SurfaceGravity":17.746090, "SurfaceTemperature":459.493011, "SurfacePressure":1077898.625000, "Landable":false, "SemiMajorAxis":222808997888.000000, "Eccentricity":0.001243, "OrbitalInclination":0.005146, "Periapsis":228.223282, "OrbitalPeriod":53064856.000000, "RotationPeriod":66245.070313, "AxialTilt":2.275588 }
+{ "timestamp":"2017-10-31T07:51:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:51:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:54:09Z", "event":"Scan", "BodyName":"Byeia Euq ON-B d13-89 A 4", "DistanceFromArrivalLS":985.183533, "TidalLock":false, "TerraformState":"", "PlanetClass":"Earthlike body", "Atmosphere":"", "AtmosphereType":"EarthLike", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":72.957161 }, { "Name":"Oxygen", "Percent":24.350901 }, { "Name":"Water", "Percent":2.453516 } ], "Volcanism":"minor metallic magma volcanism", "MassEM":1.987438, "Radius":7445270.000000, "SurfaceGravity":14.290329, "SurfaceTemperature":286.420746, "SurfacePressure":70131.234375, "Landable":false, "SemiMajorAxis":295380484096.000000, "Eccentricity":0.000104, "OrbitalInclination":0.379958, "Periapsis":117.619461, "OrbitalPeriod":80999168.000000, "RotationPeriod":80738.718750, "AxialTilt":0.005565 }
+{ "timestamp":"2017-10-31T07:55:46Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq KN-Z c27-18", "StarClass":"G" }
+{ "timestamp":"2017-10-31T07:55:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T07:56:04Z", "event":"FSDJump", "StarSystem":"Byeia Euq KN-Z c27-18", "StarPos":[913.594,93.375,6536.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.033, "FuelUsed":4.023662, "FuelLevel":27.456337 }
+{ "timestamp":"2017-10-31T07:56:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:56:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:56:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:56:21Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T07:56:27Z", "event":"Scan", "BodyName":"Byeia Euq KN-Z c27-18", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.882813, "Radius":673808064.000000, "AbsoluteMagnitude":4.938171, "Age_MY":9830, "SurfaceTemperature":5726.000000, "Luminosity":"Vab", "RotationPeriod":460403.000000, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq KN-Z c27-18 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2074e+14, "InnerRad":1.2303e+09, "OuterRad":2.3149e+09 }, { "Name":"Byeia Euq KN-Z c27-18 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.3723e+14, "InnerRad":9.5493e+09, "OuterRad":3.85e+11 } ] }
+{ "timestamp":"2017-10-31T07:56:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T07:56:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T07:58:13Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T08:01:30Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:01:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:01:50Z", "event":"FuelScoop", "Scooped":0.006933, "Total":27.463272 }
+{ "timestamp":"2017-10-31T08:01:58Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ST-Z d13-6", "StarClass":"F" }
+{ "timestamp":"2017-10-31T08:02:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:02:17Z", "event":"FSDJump", "StarSystem":"Byeia Euq ST-Z d13-6", "StarPos":[915.188,91.125,6543.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":8.108, "FuelUsed":0.225100, "FuelLevel":27.238173 }
+{ "timestamp":"2017-10-31T08:02:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:02:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:02:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:02:54Z", "event":"Scan", "BodyName":"Byeia Euq ST-Z d13-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.398438, "Radius":828368256.000000, "AbsoluteMagnitude":4.043655, "Age_MY":2150, "SurfaceTemperature":6345.000000, "Luminosity":"Vb", "SemiMajorAxis":5093471551488.000000, "Eccentricity":0.026724, "OrbitalInclination":86.698578, "Periapsis":245.232132, "OrbitalPeriod":15294966784.000000, "RotationPeriod":205934.281250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:03:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:03:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:03:20Z", "event":"FuelScoop", "Scooped":4.761798, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:03:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq KN-Z c27-36", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:03:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:04:00Z", "event":"FSDJump", "StarSystem":"Byeia Euq KN-Z c27-36", "StarPos":[908.813,83.469,6566.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.464, "FuelUsed":3.466290, "FuelLevel":28.533710 }
+{ "timestamp":"2017-10-31T08:04:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:04:12Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:04:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:04:24Z", "event":"Scan", "BodyName":"Byeia Euq KN-Z c27-36", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.695313, "Radius":544335680.000000, "AbsoluteMagnitude":6.456940, "Age_MY":6422, "SurfaceTemperature":4491.000000, "Luminosity":"Va", "RotationPeriod":295139.250000, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq KN-Z c27-36 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2239e+14, "InnerRad":8.2126e+08, "OuterRad":2.1378e+09 }, { "Name":"Byeia Euq KN-Z c27-36 B Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.6907e+15, "InnerRad":4.4567e+09, "OuterRad":2.8523e+11 } ] }
+{ "timestamp":"2017-10-31T08:08:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:08:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:08:41Z", "event":"FuelScoop", "Scooped":3.466285, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:09:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ST-Z d13-141", "StarClass":"F" }
+{ "timestamp":"2017-10-31T08:09:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:09:23Z", "event":"FSDJump", "StarSystem":"Byeia Euq ST-Z d13-141", "StarPos":[907.531,78.750,6590.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.616, "FuelUsed":3.518988, "FuelLevel":28.481012 }
+{ "timestamp":"2017-10-31T08:09:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:09:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:09:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:09:47Z", "event":"Scan", "BodyName":"Byeia Euq ST-Z d13-141 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.527344, "Radius":899217216.000000, "AbsoluteMagnitude":3.316269, "Age_MY":1588, "SurfaceTemperature":7200.000000, "Luminosity":"Vb", "SemiMajorAxis":10632909815808.000000, "Eccentricity":0.287105, "OrbitalInclination":-19.536953, "Periapsis":70.677299, "OrbitalPeriod":88371200000.000000, "RotationPeriod":100302.101563, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:09:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:09:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:10:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq ST-Z d13-12", "StarClass":"N" }
+{ "timestamp":"2017-10-31T08:10:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:10:26Z", "event":"FSDJump", "StarSystem":"Byeia Euq ST-Z d13-12", "StarPos":[918.563,57.344,6596.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.803, "FuelUsed":3.506375, "FuelLevel":24.974636 }
+{ "timestamp":"2017-10-31T08:10:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:10:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:10:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:10:48Z", "event":"Scan", "BodyName":"Byeia Euq ST-Z d13-12 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.550781, "Radius":12246.093750, "AbsoluteMagnitude":4.649277, "Age_MY":3080, "SurfaceTemperature":8717805.000000, "Luminosity":"VII", "SemiMajorAxis":26576265216.000000, "Eccentricity":0.129255, "OrbitalInclination":-13.029024, "Periapsis":173.782211, "OrbitalPeriod":22659172.000000, "RotationPeriod":16.870092, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:11:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:11:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:12:56Z", "event":"SupercruiseExit", "StarSystem":"Byeia Euq ST-Z d13-12", "Body":"Byeia Euq ST-Z d13-12 A", "BodyType":"Star" }
+{ "timestamp":"2017-10-31T08:12:56Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T08:13:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:13:09Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T08:13:52Z", "event":"StartJump", "JumpType":"Supercruise" }
+{ "timestamp":"2017-10-31T08:13:58Z", "event":"SupercruiseEntry", "StarSystem":"Byeia Euq ST-Z d13-12" }
+{ "timestamp":"2017-10-31T08:13:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:15:01Z", "event":"JetConeBoost", "BoostValue":4.000000 }
+{ "timestamp":"2017-10-31T08:15:24Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb DX-W c1-0", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:15:30Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:15:43Z", "event":"FSDJump", "StarSystem":"Lysoorb DX-W c1-0", "StarPos":[940.625,59.906,6696.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":103.139, "FuelUsed":3.771010, "FuelLevel":21.203625, "BoostUsed":4 }
+{ "timestamp":"2017-10-31T08:15:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:15:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:16:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:16:02Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T08:16:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:16:06Z", "event":"Scan", "BodyName":"Lysoorb DX-W c1-0 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.789063, "Radius":554332608.000000, "AbsoluteMagnitude":6.342636, "Age_MY":6012, "SurfaceTemperature":4569.000000, "Luminosity":"Va", "SemiMajorAxis":193994276864.000000, "Eccentricity":0.222085, "OrbitalInclination":72.922813, "Periapsis":45.929047, "OrbitalPeriod":205924528.000000, "RotationPeriod":226790.406250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:16:37Z", "event":"FuelScoop", "Scooped":5.001856, "Total":26.205486 }
+{ "timestamp":"2017-10-31T08:16:57Z", "event":"FuelScoop", "Scooped":5.001810, "Total":30.687258 }
+{ "timestamp":"2017-10-31T08:17:02Z", "event":"FuelScoop", "Scooped":1.312749, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:17:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb DX-W c1-28", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:17:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:17:45Z", "event":"FSDJump", "StarSystem":"Lysoorb DX-W c1-28", "StarPos":[945.281,60.750,6721.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.554, "FuelUsed":3.497884, "FuelLevel":28.502115 }
+{ "timestamp":"2017-10-31T08:17:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:17:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:18:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:18:09Z", "event":"Scan", "BodyName":"Lysoorb DX-W c1-28 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.726563, "Radius":554099200.000000, "AbsoluteMagnitude":6.301895, "Age_MY":13026, "SurfaceTemperature":4613.000000, "Luminosity":"Vab", "SemiMajorAxis":49414798311424.000000, "Eccentricity":0.146046, "OrbitalInclination":35.107101, "Periapsis":52.542103, "OrbitalPeriod":339363692544.000000, "RotationPeriod":279173.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:18:32Z", "event":"FuelScoop", "Scooped":3.497881, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:18:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb GD-V c2-2", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:18:58Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:19:11Z", "event":"FSDJump", "StarSystem":"Lysoorb GD-V c2-2", "StarPos":[931.000,69.125,6740.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.699, "FuelUsed":3.911167, "FuelLevel":28.088833 }
+{ "timestamp":"2017-10-31T08:19:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:19:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:19:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:19:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:19:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:19:36Z", "event":"Scan", "BodyName":"Lysoorb GD-V c2-2", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.648438, "Radius":568595840.000000, "AbsoluteMagnitude":6.577362, "Age_MY":5798, "SurfaceTemperature":4274.000000, "Luminosity":"Va", "RotationPeriod":285047.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:20:00Z", "event":"FuelScoop", "Scooped":3.911191, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:20:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb HD-V c2-27", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:20:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:20:38Z", "event":"FSDJump", "StarSystem":"Lysoorb HD-V c2-27", "StarPos":[938.219,79.000,6763.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.610, "FuelUsed":3.877766, "FuelLevel":28.122234 }
+{ "timestamp":"2017-10-31T08:20:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:20:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:20:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:21:02Z", "event":"Scan", "BodyName":"Lysoorb HD-V c2-27", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.824219, "Radius":561039744.000000, "AbsoluteMagnitude":6.046478, "Age_MY":11816, "SurfaceTemperature":4862.000000, "Luminosity":"Va", "RotationPeriod":244033.812500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:21:24Z", "event":"FuelScoop", "Scooped":3.877769, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:21:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb LJ-T c3-5", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:21:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:22:09Z", "event":"FSDJump", "StarSystem":"Lysoorb LJ-T c3-5", "StarPos":[939.406,73.406,6787.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.189, "FuelUsed":3.723186, "FuelLevel":28.276814 }
+{ "timestamp":"2017-10-31T08:22:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:22:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:22:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:22:34Z", "event":"Scan", "BodyName":"Lysoorb LJ-T c3-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.660156, "Radius":535251424.000000, "AbsoluteMagnitude":6.347961, "Age_MY":2836, "SurfaceTemperature":4644.000000, "Luminosity":"Vab", "SemiMajorAxis":803956523008.000000, "Eccentricity":0.315361, "OrbitalInclination":57.144585, "Periapsis":243.012054, "OrbitalPeriod":2362891264.000000, "RotationPeriod":264038.875000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:22:59Z", "event":"FuelScoop", "Scooped":3.723179, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:23:21Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb LJ-T c3-20", "StarClass":"G" }
+{ "timestamp":"2017-10-31T08:23:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:23:40Z", "event":"FSDJump", "StarSystem":"Lysoorb LJ-T c3-20", "StarPos":[951.656,76.781,6808.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.465, "FuelUsed":3.466529, "FuelLevel":28.533470 }
+{ "timestamp":"2017-10-31T08:23:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:23:52Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:23:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:24:03Z", "event":"Scan", "BodyName":"Lysoorb LJ-T c3-20", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.804688, "Radius":636218624.000000, "AbsoluteMagnitude":5.336823, "Age_MY":4466, "SurfaceTemperature":5376.000000, "Luminosity":"Vab", "RotationPeriod":463011.843750, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb LJ-T c3-20 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0522e+11, "InnerRad":1.1377e+09, "OuterRad":2.2445e+09 } ] }
+{ "timestamp":"2017-10-31T08:24:25Z", "event":"FuelScoop", "Scooped":3.466538, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:24:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb PP-R c4-33", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:24:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:25:06Z", "event":"FSDJump", "StarSystem":"Lysoorb PP-R c4-33", "StarPos":[949.813,77.594,6833.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.925, "FuelUsed":3.628483, "FuelLevel":28.371517 }
+{ "timestamp":"2017-10-31T08:25:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:25:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:25:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:25:29Z", "event":"Scan", "BodyName":"Lysoorb PP-R c4-33 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.558594, "Radius":497046464.000000, "AbsoluteMagnitude":7.208618, "Age_MY":1082, "SurfaceTemperature":3953.000000, "Luminosity":"Va", "SemiMajorAxis":36341890940928.000000, "Eccentricity":0.022480, "OrbitalInclination":105.993629, "Periapsis":329.350037, "OrbitalPeriod":411266318336.000000, "RotationPeriod":243393.890625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:25:50Z", "event":"FuelScoop", "Scooped":3.628501, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:26:10Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb TV-P c5-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:26:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:26:29Z", "event":"FSDJump", "StarSystem":"Lysoorb TV-P c5-23", "StarPos":[957.844,67.531,6855.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.869, "FuelUsed":3.974722, "FuelLevel":28.025278 }
+{ "timestamp":"2017-10-31T08:26:29Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:26:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:26:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:26:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:26:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:26:52Z", "event":"Scan", "BodyName":"Lysoorb TV-P c5-23 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.656250, "Radius":581139776.000000, "AbsoluteMagnitude":6.627640, "Age_MY":5932, "SurfaceTemperature":4179.000000, "Luminosity":"Va", "SemiMajorAxis":9773338591232.000000, "Eccentricity":0.295975, "OrbitalInclination":53.688435, "Periapsis":67.895958, "OrbitalPeriod":26493986816.000000, "RotationPeriod":289523.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:27:17Z", "event":"FuelScoop", "Scooped":3.974707, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:27:38Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb TV-P c5-32", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:27:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:27:57Z", "event":"FSDJump", "StarSystem":"Lysoorb TV-P c5-32", "StarPos":[962.594,61.031,6880.344], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.700, "FuelUsed":3.911151, "FuelLevel":28.088848 }
+{ "timestamp":"2017-10-31T08:27:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:28:08Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:28:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:28:21Z", "event":"Scan", "BodyName":"Lysoorb TV-P c5-32 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.625000, "Radius":513856608.000000, "AbsoluteMagnitude":6.818634, "Age_MY":3612, "SurfaceTemperature":4253.000000, "Luminosity":"Va", "SemiMajorAxis":27607693312.000000, "Eccentricity":0.024579, "OrbitalInclination":45.238285, "Periapsis":38.842743, "OrbitalPeriod":13828623.000000, "RotationPeriod":260747.015625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:28:47Z", "event":"FuelScoop", "Scooped":3.911171, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:29:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb XB-O c6-2", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:29:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:29:27Z", "event":"FSDJump", "StarSystem":"Lysoorb XB-O c6-2", "StarPos":[954.688,65.406,6900.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.289, "FuelUsed":2.759361, "FuelLevel":29.240639 }
+{ "timestamp":"2017-10-31T08:29:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:29:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:29:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:29:51Z", "event":"Scan", "BodyName":"Lysoorb XB-O c6-2", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.785156, "Radius":559256832.000000, "AbsoluteMagnitude":6.190460, "Age_MY":3598, "SurfaceTemperature":4711.000000, "Luminosity":"Va", "RotationPeriod":258993.859375, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb XB-O c6-2 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.3653e+14, "InnerRad":9.2277e+08, "OuterRad":2.368e+09 } ] }
+{ "timestamp":"2017-10-31T08:30:12Z", "event":"FuelScoop", "Scooped":2.759354, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:32:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb XB-O c6-4", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:33:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:33:18Z", "event":"FSDJump", "StarSystem":"Lysoorb XB-O c6-4", "StarPos":[967.688,71.156,6917.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.921, "FuelUsed":2.648882, "FuelLevel":29.351118 }
+{ "timestamp":"2017-10-31T08:33:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:33:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:33:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:33:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:33:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:33:42Z", "event":"Scan", "BodyName":"Lysoorb XB-O c6-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.734375, "Radius":627707392.000000, "AbsoluteMagnitude":5.973923, "Age_MY":3372, "SurfaceTemperature":4674.000000, "Luminosity":"Va", "SemiMajorAxis":203061248000.000000, "Eccentricity":0.093993, "OrbitalInclination":-15.587611, "Periapsis":255.112274, "OrbitalPeriod":339797568.000000, "RotationPeriod":305556.468750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:34:05Z", "event":"FuelScoop", "Scooped":2.648902, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:34:31Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb DQ-Y b14-6", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:34:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:34:50Z", "event":"FSDJump", "StarSystem":"Lysoorb DQ-Y b14-6", "StarPos":[959.469,68.781,6940.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.393, "FuelUsed":3.441791, "FuelLevel":28.558208 }
+{ "timestamp":"2017-10-31T08:34:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:35:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:35:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:35:03Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:35:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:35:33Z", "event":"FuelScoop", "Scooped":2.371865, "Total":30.930103 }
+{ "timestamp":"2017-10-31T08:35:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb BI-M c7-26", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:35:52Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:36:05Z", "event":"FSDJump", "StarSystem":"Lysoorb BI-M c7-26", "StarPos":[961.469,76.125,6961.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.484, "FuelUsed":2.799383, "FuelLevel":28.130720 }
+{ "timestamp":"2017-10-31T08:36:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:36:15Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:36:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:36:29Z", "event":"Scan", "BodyName":"Lysoorb BI-M c7-26", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":576491520.000000, "AbsoluteMagnitude":6.790939, "Age_MY":12368, "SurfaceTemperature":4041.000000, "Luminosity":"Va", "RotationPeriod":286821.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:38:41Z", "event":"FuelScoop", "Scooped":3.869268, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:38:59Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb AE-T d3-112", "StarClass":"F" }
+{ "timestamp":"2017-10-31T08:39:04Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:39:17Z", "event":"FSDJump", "StarSystem":"Lysoorb AE-T d3-112", "StarPos":[965.469,73.844,6984.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.732, "FuelUsed":3.217881, "FuelLevel":28.262119 }
+{ "timestamp":"2017-10-31T08:39:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:39:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:39:42Z", "event":"Scan", "BodyName":"Lysoorb AE-T d3-112", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.414063, "Radius":832825536.000000, "AbsoluteMagnitude":3.915146, "Age_MY":960, "SurfaceTemperature":6518.000000, "Luminosity":"Vb", "RotationPeriod":220536.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:39:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:39:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:39:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:40:17Z", "event":"FuelScoop", "Scooped":3.737904, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:42:39Z", "event":"Scan", "BodyName":"Lysoorb AE-T d3-112 6", "DistanceFromArrivalLS":1803.603638, "TidalLock":false, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":91.522446 }, { "Name":"Oxygen", "Percent":7.210536 }, { "Name":"CarbonDioxide", "Percent":0.957431 } ], "Volcanism":"minor rocky magma volcanism", "MassEM":0.639431, "Radius":5315551.500000, "SurfaceGravity":9.019997, "SurfaceTemperature":208.117706, "SurfacePressure":76313.640625, "Landable":false, "SemiMajorAxis":544300662784.000000, "Eccentricity":0.007654, "OrbitalInclination":-3.341340, "Periapsis":232.558624, "OrbitalPeriod":184161040.000000, "RotationPeriod":112405.789063, "AxialTilt":-0.145763 }
+{ "timestamp":"2017-10-31T08:42:40Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:42:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:43:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb FO-K c8-6", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:43:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:43:22Z", "event":"FSDJump", "StarSystem":"Lysoorb FO-K c8-6", "StarPos":[971.688,81.156,7008.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.617, "FuelUsed":3.880356, "FuelLevel":28.119644 }
+{ "timestamp":"2017-10-31T08:43:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:43:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:43:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:43:48Z", "event":"Scan", "BodyName":"Lysoorb FO-K c8-6", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.683594, "Radius":602364800.000000, "AbsoluteMagnitude":6.105453, "Age_MY":2292, "SurfaceTemperature":4629.000000, "Luminosity":"Va", "RotationPeriod":238569.906250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:44:10Z", "event":"FuelScoop", "Scooped":3.880343, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:44:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb JU-I c9-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:44:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:44:49Z", "event":"FSDJump", "StarSystem":"Lysoorb JU-I c9-23", "StarPos":[972.594,83.844,7034.094], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.813, "FuelUsed":3.953566, "FuelLevel":28.046434 }
+{ "timestamp":"2017-10-31T08:44:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:44:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:44:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:45:12Z", "event":"Scan", "BodyName":"Lysoorb JU-I c9-23", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.671875, "Radius":554099200.000000, "AbsoluteMagnitude":6.614197, "Age_MY":12660, "SurfaceTemperature":4293.000000, "Luminosity":"Va", "RotationPeriod":270347.000000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:45:36Z", "event":"FuelScoop", "Scooped":3.953578, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:45:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb KU-I c9-5", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:46:00Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:46:13Z", "event":"FSDJump", "StarSystem":"Lysoorb KU-I c9-5", "StarPos":[985.938,73.344,7050.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.567, "FuelUsed":3.163429, "FuelLevel":28.836571 }
+{ "timestamp":"2017-10-31T08:46:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:46:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:46:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:46:36Z", "event":"Scan", "BodyName":"Lysoorb KU-I c9-5 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.566406, "Radius":450606208.000000, "AbsoluteMagnitude":7.685577, "Age_MY":11290, "SurfaceTemperature":3720.000000, "Luminosity":"Va", "SemiMajorAxis":386062024704.000000, "Eccentricity":0.292949, "OrbitalInclination":5.313833, "Periapsis":57.803337, "OrbitalPeriod":350056832.000000, "RotationPeriod":190993.359375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:47:01Z", "event":"FuelScoop", "Scooped":3.163423, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:47:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb FK-R d4-54", "StarClass":"G" }
+{ "timestamp":"2017-10-31T08:47:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:47:42Z", "event":"FSDJump", "StarSystem":"Lysoorb FK-R d4-54", "StarPos":[985.688,70.813,7071.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":20.719, "FuelUsed":2.307169, "FuelLevel":29.692831 }
+{ "timestamp":"2017-10-31T08:47:42Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:48:06Z", "event":"Scan", "BodyName":"Lysoorb FK-R d4-54 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.101563, "Radius":737610304.000000, "AbsoluteMagnitude":4.600540, "Age_MY":1730, "SurfaceTemperature":5915.000000, "Luminosity":"Vab", "SemiMajorAxis":5888930217984.000000, "Eccentricity":0.158608, "OrbitalInclination":-60.521885, "Periapsis":308.878448, "OrbitalPeriod":22736015360.000000, "RotationPeriod":327442.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:48:25Z", "event":"FuelScoop", "Scooped":2.307179, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:48:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb FK-R d4-52", "StarClass":"F" }
+{ "timestamp":"2017-10-31T08:48:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:49:06Z", "event":"FSDJump", "StarSystem":"Lysoorb FK-R d4-52", "StarPos":[985.031,61.156,7090.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.966, "FuelUsed":2.662234, "FuelLevel":29.337767 }
+{ "timestamp":"2017-10-31T08:49:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:49:29Z", "event":"Scan", "BodyName":"Lysoorb FK-R d4-52 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.460938, "Radius":913544064.000000, "AbsoluteMagnitude":3.421097, "Age_MY":162, "SurfaceTemperature":6973.000000, "Luminosity":"Vz", "SemiMajorAxis":5415137443840.000000, "Eccentricity":0.364761, "OrbitalInclination":46.317799, "Periapsis":241.333267, "OrbitalPeriod":27368325120.000000, "RotationPeriod":201489.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:49:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:49:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:49:54Z", "event":"FuelScoop", "Scooped":2.662247, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:50:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb JQ-P d5-13", "StarClass":"F" }
+{ "timestamp":"2017-10-31T08:50:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:50:47Z", "event":"FSDJump", "StarSystem":"Lysoorb JQ-P d5-13", "StarPos":[995.844,64.500,7109.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.714, "FuelUsed":2.588120, "FuelLevel":29.411880 }
+{ "timestamp":"2017-10-31T08:50:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:51:11Z", "event":"Scan", "BodyName":"Lysoorb JQ-P d5-13 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.289063, "Radius":853626048.000000, "AbsoluteMagnitude":3.385452, "Age_MY":1336, "SurfaceTemperature":7273.000000, "Luminosity":"VI", "SemiMajorAxis":19780675305472.000000, "Eccentricity":0.285568, "OrbitalInclination":17.425678, "Periapsis":320.452606, "OrbitalPeriod":330087301120.000000, "RotationPeriod":363532.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T08:51:32Z", "event":"FuelScoop", "Scooped":2.588126, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:52:23Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb SG-F c11-6", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:52:28Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:52:41Z", "event":"FSDJump", "StarSystem":"Lysoorb SG-F c11-6", "StarPos":[990.156,68.625,7130.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.738, "FuelUsed":2.897227, "FuelLevel":29.102774 }
+{ "timestamp":"2017-10-31T08:52:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:52:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:53:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:53:05Z", "event":"Scan", "BodyName":"Lysoorb SG-F c11-6 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.843750, "Radius":566897792.000000, "AbsoluteMagnitude":5.838547, "Age_MY":4874, "SurfaceTemperature":5074.000000, "Luminosity":"Vab", "SemiMajorAxis":29344413696.000000, "Eccentricity":0.095309, "OrbitalInclination":-4.206856, "Periapsis":45.853210, "OrbitalPeriod":25501856.000000, "RotationPeriod":312732.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb SG-F c11-6 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.2428e+14, "InnerRad":1.1072e+09, "OuterRad":2.2802e+09 } ] }
+{ "timestamp":"2017-10-31T08:53:25Z", "event":"FuelScoop", "Scooped":2.897218, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:53:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb WM-D c12-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:53:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:54:04Z", "event":"FSDJump", "StarSystem":"Lysoorb WM-D c12-23", "StarPos":[998.688,69.625,7153.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.880, "FuelUsed":3.267120, "FuelLevel":28.732880 }
+{ "timestamp":"2017-10-31T08:54:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:54:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:54:47Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:54:57Z", "event":"Scan", "BodyName":"Lysoorb WM-D c12-23", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.804688, "Radius":560721408.000000, "AbsoluteMagnitude":6.348251, "Age_MY":10526, "SurfaceTemperature":4537.000000, "Luminosity":"Va", "RotationPeriod":248246.687500, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb WM-D c12-23 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":1.1347e+14, "InnerRad":1.1153e+09, "OuterRad":2.2445e+09 } ] }
+{ "timestamp":"2017-10-31T08:55:26Z", "event":"FuelScoop", "Scooped":3.267114, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:55:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb NW-N d6-54", "StarClass":"G" }
+{ "timestamp":"2017-10-31T08:55:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:56:09Z", "event":"FSDJump", "StarSystem":"Lysoorb NW-N d6-54", "StarPos":[1006.938,71.000,7175.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.799, "FuelUsed":3.240073, "FuelLevel":28.759926 }
+{ "timestamp":"2017-10-31T08:56:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:56:33Z", "event":"Scan", "BodyName":"Lysoorb NW-N d6-54 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.917969, "Radius":596655296.000000, "AbsoluteMagnitude":5.083298, "Age_MY":520, "SurfaceTemperature":5885.000000, "Luminosity":"Vb", "SemiMajorAxis":1297596678144.000000, "Eccentricity":0.240992, "OrbitalInclination":41.034966, "Periapsis":62.256481, "OrbitalPeriod":4075717632.000000, "RotationPeriod":312280.625000, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb NW-N d6-54 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.3849e+14, "InnerRad":1.0436e+09, "OuterRad":2.3452e+09 }, { "Name":"Lysoorb NW-N d6-54 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":4.3427e+15, "InnerRad":7.5785e+10, "OuterRad":4.812e+11 } ] }
+{ "timestamp":"2017-10-31T08:56:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:56:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:57:11Z", "event":"FuelScoop", "Scooped":3.240073, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:57:30Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb AT-B c13-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:57:35Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:57:48Z", "event":"FSDJump", "StarSystem":"Lysoorb AT-B c13-23", "StarPos":[1001.438,81.938,7195.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.690, "FuelUsed":3.203875, "FuelLevel":28.796125 }
+{ "timestamp":"2017-10-31T08:57:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:57:59Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T08:58:03Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T08:58:13Z", "event":"Scan", "BodyName":"Lysoorb AT-B c13-23", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.707031, "Radius":584387200.000000, "AbsoluteMagnitude":5.819870, "Age_MY":2994, "SurfaceTemperature":5019.000000, "Luminosity":"Vab", "RotationPeriod":240220.234375, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb AT-B c13-23 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":5.0476e+13, "InnerRad":9.6424e+08, "OuterRad":2.3324e+09 } ] }
+{ "timestamp":"2017-10-31T08:58:53Z", "event":"FuelScoop", "Scooped":3.203849, "Total":32.000000 }
+{ "timestamp":"2017-10-31T08:59:19Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb EZ-Z c13-22", "StarClass":"K" }
+{ "timestamp":"2017-10-31T08:59:25Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T08:59:38Z", "event":"FSDJump", "StarSystem":"Lysoorb EZ-Z c13-22", "StarPos":[1002.719,86.438,7220.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.943, "FuelUsed":3.634742, "FuelLevel":28.365257 }
+{ "timestamp":"2017-10-31T08:59:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:00:02Z", "event":"Scan", "BodyName":"Lysoorb EZ-Z c13-22 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.601563, "Radius":524405440.000000, "AbsoluteMagnitude":7.106552, "Age_MY":1208, "SurfaceTemperature":3940.000000, "Luminosity":"Va", "SemiMajorAxis":30328601182208.000000, "Eccentricity":0.049104, "OrbitalInclination":-3.567427, "Periapsis":261.616669, "OrbitalPeriod":483632676864.000000, "RotationPeriod":299339.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:00:14Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:00:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:00:22Z", "event":"FuelScoop", "Scooped":3.634725, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:00:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb CE-A c14-16", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:00:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:01:00Z", "event":"FSDJump", "StarSystem":"Lysoorb CE-A c14-16", "StarPos":[1002.031,97.750,7241.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.056, "FuelUsed":3.326228, "FuelLevel":28.673771 }
+{ "timestamp":"2017-10-31T09:01:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:01:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:01:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:01:30Z", "event":"Scan", "BodyName":"Lysoorb CE-A c14-16 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.679688, "Radius":511755360.000000, "AbsoluteMagnitude":6.526642, "Age_MY":13008, "SurfaceTemperature":4558.000000, "Luminosity":"Va", "SemiMajorAxis":25037375537152.000000, "Eccentricity":0.152948, "OrbitalInclination":32.742737, "Periapsis":70.072571, "OrbitalPeriod":406087401472.000000, "RotationPeriod":372922.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:01:54Z", "event":"FuelScoop", "Scooped":3.846227, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:02:11Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb RC-M d7-49", "StarClass":"G" }
+{ "timestamp":"2017-10-31T09:02:16Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:02:29Z", "event":"FSDJump", "StarSystem":"Lysoorb RC-M d7-49", "StarPos":[1003.375,101.781,7266.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.821, "FuelUsed":3.956577, "FuelLevel":28.043423 }
+{ "timestamp":"2017-10-31T09:02:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:02:39Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:02:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:02:53Z", "event":"Scan", "BodyName":"Lysoorb RC-M d7-49", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.023438, "Radius":751746112.000000, "AbsoluteMagnitude":4.828156, "Age_MY":1158, "SurfaceTemperature":5560.000000, "Luminosity":"Vab", "RotationPeriod":331863.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb RC-M d7-49 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.5256e+11, "InnerRad":1.1367e+09, "OuterRad":2.4318e+09 }, { "Name":"Lysoorb RC-M d7-49 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":5.1169e+15, "InnerRad":8.9111e+09, "OuterRad":3.5927e+11 } ] }
+{ "timestamp":"2017-10-31T09:03:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:03:22Z", "event":"FuelScoop", "Scooped":3.956591, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:03:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:03:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb GK-Y c14-22", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:03:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:03:58Z", "event":"FSDJump", "StarSystem":"Lysoorb GK-Y c14-22", "StarPos":[993.313,104.406,7290.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.042, "FuelUsed":4.039970, "FuelLevel":27.960030 }
+{ "timestamp":"2017-10-31T09:03:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:04:07Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:04:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:04:21Z", "event":"Scan", "BodyName":"Lysoorb GK-Y c14-22", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.718750, "Radius":602088832.000000, "AbsoluteMagnitude":5.916382, "Age_MY":10094, "SurfaceTemperature":4836.000000, "Luminosity":"Va", "RotationPeriod":241265.187500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:04:44Z", "event":"FuelScoop", "Scooped":4.039958, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:05:05Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb RC-M d7-59", "StarClass":"G" }
+{ "timestamp":"2017-10-31T09:05:11Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:05:24Z", "event":"FSDJump", "StarSystem":"Lysoorb RC-M d7-59", "StarPos":[993.844,117.000,7311.625], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.359, "FuelUsed":3.430099, "FuelLevel":28.569901 }
+{ "timestamp":"2017-10-31T09:05:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:05:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:05:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:05:48Z", "event":"Scan", "BodyName":"Lysoorb RC-M d7-59 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.929688, "Radius":603150080.000000, "AbsoluteMagnitude":5.398117, "Age_MY":11422, "SurfaceTemperature":5444.000000, "Luminosity":"Vab", "SemiMajorAxis":1964668747776.000000, "Eccentricity":0.063081, "OrbitalInclination":-37.281101, "Periapsis":282.532684, "OrbitalPeriod":23975600128.000000, "RotationPeriod":297453.312500, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb RC-M d7-59 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.3874e+14, "InnerRad":1.0294e+09, "OuterRad":2.3551e+09 }, { "Name":"Lysoorb RC-M d7-59 A B Belt", "RingClass":"eRingClass_Rocky", "MassMT":9.824e+15, "InnerRad":8.4909e+09, "OuterRad":3.4233e+11 } ] }
+{ "timestamp":"2017-10-31T09:05:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:05:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:06:13Z", "event":"FuelScoop", "Scooped":3.430116, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:06:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb RC-M d7-57", "StarClass":"A" }
+{ "timestamp":"2017-10-31T09:06:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:06:50Z", "event":"FSDJump", "StarSystem":"Lysoorb RC-M d7-57", "StarPos":[984.438,126.094,7329.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.152, "FuelUsed":2.717733, "FuelLevel":29.282267 }
+{ "timestamp":"2017-10-31T09:06:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:07:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:07:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:07:11Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:07:15Z", "event":"Scan", "BodyName":"Lysoorb RC-M d7-57", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.621094, "Radius":973950400.000000, "AbsoluteMagnitude":2.964951, "Age_MY":276, "SurfaceTemperature":7501.000000, "Luminosity":"Vb", "RotationPeriod":81280.054688, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:07:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:07:36Z", "event":"FuelScoop", "Scooped":2.717733, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:08:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:08:02Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:08:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb VI-K d8-104", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:08:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:08:21Z", "event":"FSDJump", "StarSystem":"Lysoorb VI-K d8-104", "StarPos":[982.688,127.313,7347.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":18.126, "FuelUsed":1.662740, "FuelLevel":30.337259 }
+{ "timestamp":"2017-10-31T09:08:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:08:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:08:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:08:45Z", "event":"Scan", "BodyName":"Lysoorb VI-K d8-104", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.964844, "Radius":671664320.000000, "AbsoluteMagnitude":5.435242, "Age_MY":826, "SurfaceTemperature":5115.000000, "Luminosity":"Va", "RotationPeriod":282031.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:09:00Z", "event":"FuelScoop", "Scooped":1.662725, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:09:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:09:06Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T09:09:19Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:09:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:09:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb TN-K d8-4", "StarClass":"F" }
+{ "timestamp":"2017-10-31T09:09:42Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:09:55Z", "event":"FSDJump", "StarSystem":"Lysoorb TN-K d8-4", "StarPos":[979.031,136.531,7369.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.303, "FuelUsed":3.410522, "FuelLevel":28.589478 }
+{ "timestamp":"2017-10-31T09:09:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:10:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:10:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:10:20Z", "event":"Scan", "BodyName":"Lysoorb TN-K d8-4", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.574219, "Radius":869226368.000000, "AbsoluteMagnitude":3.588715, "Age_MY":1992, "SurfaceTemperature":6878.000000, "Luminosity":"Vb", "RotationPeriod":116831.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:10:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:10:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:10:48Z", "event":"FuelScoop", "Scooped":3.410507, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:11:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb SC-T c17-14", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:11:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:11:27Z", "event":"FSDJump", "StarSystem":"Lysoorb SC-T c17-14", "StarPos":[991.219,126.938,7389.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.508, "FuelUsed":3.839985, "FuelLevel":28.160015 }
+{ "timestamp":"2017-10-31T09:11:28Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:11:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:11:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:11:51Z", "event":"Scan", "BodyName":"Lysoorb SC-T c17-14 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.738281, "Radius":575175552.000000, "AbsoluteMagnitude":6.558487, "Age_MY":9814, "SurfaceTemperature":4268.000000, "Luminosity":"Va", "SemiMajorAxis":52919432904704.000000, "Eccentricity":0.196342, "OrbitalInclination":-54.358627, "Periapsis":3.850266, "OrbitalPeriod":682902093824.000000, "RotationPeriod":256831.312500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:12:07Z", "event":"FuelScoop", "Scooped":0.369690, "Total":28.529694 }
+{ "timestamp":"2017-10-31T09:12:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb RC-T c17-12", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:12:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:12:37Z", "event":"FSDJump", "StarSystem":"Lysoorb RC-T c17-12", "StarPos":[973.594,120.594,7408.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.131, "FuelUsed":3.979296, "FuelLevel":24.550398 }
+{ "timestamp":"2017-10-31T09:12:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:12:47Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:12:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:13:01Z", "event":"Scan", "BodyName":"Lysoorb RC-T c17-12 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.800781, "Radius":611364160.000000, "AbsoluteMagnitude":5.891312, "Age_MY":4500, "SurfaceTemperature":4827.000000, "Luminosity":"Va", "SemiMajorAxis":5949012049920.000000, "Eccentricity":0.225941, "OrbitalInclination":82.471535, "Periapsis":325.368622, "OrbitalPeriod":33181741056.000000, "RotationPeriod":209142.515625, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:13:29Z", "event":"FuelScoop", "Scooped":5.003781, "Total":29.554161 }
+{ "timestamp":"2017-10-31T09:13:37Z", "event":"FuelScoop", "Scooped":2.445835, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:14:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb VI-R c18-7", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:14:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:14:21Z", "event":"FSDJump", "StarSystem":"Lysoorb VI-R c18-7", "StarPos":[970.719,118.344,7429.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.839, "FuelUsed":2.624586, "FuelLevel":29.375414 }
+{ "timestamp":"2017-10-31T09:14:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:14:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:14:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:14:45Z", "event":"Scan", "BodyName":"Lysoorb VI-R c18-7", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.492188, "Radius":449566176.000000, "AbsoluteMagnitude":7.575348, "Age_MY":10644, "SurfaceTemperature":3820.000000, "Luminosity":"Va", "RotationPeriod":210615.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:15:04Z", "event":"FuelScoop", "Scooped":2.624594, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:15:29Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb ZO-I d9-87", "StarClass":"A" }
+{ "timestamp":"2017-10-31T09:15:34Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:15:48Z", "event":"FSDJump", "StarSystem":"Lysoorb ZO-I d9-87", "StarPos":[979.375,121.156,7450.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.088, "FuelUsed":3.008076, "FuelLevel":28.991924 }
+{ "timestamp":"2017-10-31T09:15:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:15:58Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:15:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:16:12Z", "event":"Scan", "BodyName":"Lysoorb ZO-I d9-87 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.550781, "Radius":858847360.000000, "AbsoluteMagnitude":3.005310, "Age_MY":2286, "SurfaceTemperature":7914.000000, "Luminosity":"VI", "SemiMajorAxis":1516113231872.000000, "Eccentricity":0.416190, "OrbitalInclination":-2.502536, "Periapsis":76.819145, "OrbitalPeriod":5234195456.000000, "RotationPeriod":102983.703125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:16:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:16:16Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:16:37Z", "event":"FuelScoop", "Scooped":3.008069, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:17:03Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb ZO-P c19-23", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:17:08Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:17:21Z", "event":"FSDJump", "StarSystem":"Lysoorb ZO-P c19-23", "StarPos":[974.531,118.625,7474.750], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.462, "FuelUsed":3.465873, "FuelLevel":28.534126 }
+{ "timestamp":"2017-10-31T09:17:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:17:34Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:17:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:17:48Z", "event":"Scan", "BodyName":"Lysoorb ZO-P c19-23 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.550781, "Radius":490169568.000000, "AbsoluteMagnitude":7.246582, "Age_MY":3514, "SurfaceTemperature":3946.000000, "Luminosity":"Va", "SemiMajorAxis":2523365632.000000, "Eccentricity":0.265646, "OrbitalInclination":3.910233, "Periapsis":78.645813, "OrbitalPeriod":940111.875000, "RotationPeriod":212584.015625, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb ZO-P c19-23 A A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":9.6785e+13, "InnerRad":9.0085e+08, "OuterRad":1.978e+09 } ] }
+{ "timestamp":"2017-10-31T09:18:16Z", "event":"FuelScoop", "Scooped":3.465875, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:18:36Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb CV-G d10-27", "StarClass":"A" }
+{ "timestamp":"2017-10-31T09:18:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:18:55Z", "event":"FSDJump", "StarSystem":"Lysoorb CV-G d10-27", "StarPos":[967.875,119.719,7496.531], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.802, "FuelUsed":2.917574, "FuelLevel":29.082426 }
+{ "timestamp":"2017-10-31T09:18:55Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:19:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:19:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:19:19Z", "event":"Scan", "BodyName":"Lysoorb CV-G d10-27 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.566406, "Radius":860566592.000000, "AbsoluteMagnitude":3.084076, "Age_MY":1060, "SurfaceTemperature":7764.000000, "Luminosity":"VI", "SemiMajorAxis":3620495687680.000000, "Eccentricity":0.038881, "OrbitalInclination":29.035465, "Periapsis":206.831894, "OrbitalPeriod":10266734592.000000, "RotationPeriod":110868.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:19:42Z", "event":"FuelScoop", "Scooped":2.917546, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:20:08Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb DV-N c20-18", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:20:13Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:20:27Z", "event":"FSDJump", "StarSystem":"Lysoorb DV-N c20-18", "StarPos":[958.500,121.781,7519.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.894, "FuelUsed":3.617295, "FuelLevel":28.382706 }
+{ "timestamp":"2017-10-31T09:20:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:20:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:20:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:20:50Z", "event":"Scan", "BodyName":"Lysoorb DV-N c20-18", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.667969, "Radius":496261120.000000, "AbsoluteMagnitude":6.356049, "Age_MY":5432, "SurfaceTemperature":4814.000000, "Luminosity":"Vab", "RotationPeriod":245488.906250, "AxialTilt":0.000000, "Rings":[ { "Name":"Lysoorb DV-N c20-18 A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.0965e+14, "InnerRad":9.7947e+08, "OuterRad":2.1094e+09 } ] }
+{ "timestamp":"2017-10-31T09:21:10Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:21:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:21:17Z", "event":"FuelScoop", "Scooped":3.617290, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:21:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb HB-M c21-19", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:21:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:21:54Z", "event":"FSDJump", "StarSystem":"Lysoorb HB-M c21-19", "StarPos":[957.031,111.406,7538.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":21.945, "FuelUsed":2.656127, "FuelLevel":29.343872 }
+{ "timestamp":"2017-10-31T09:21:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:22:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:22:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:22:06Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T09:22:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:22:18Z", "event":"Scan", "BodyName":"Lysoorb HB-M c21-19", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.816406, "Radius":569805696.000000, "AbsoluteMagnitude":5.938416, "Age_MY":11346, "SurfaceTemperature":4946.000000, "Luminosity":"Vab", "RotationPeriod":246631.125000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:22:37Z", "event":"FuelScoop", "Scooped":2.656128, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:23:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb CV-G d10-127", "StarClass":"F" }
+{ "timestamp":"2017-10-31T09:23:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:23:22Z", "event":"FSDJump", "StarSystem":"Lysoorb CV-G d10-127", "StarPos":[956.031,130.375,7556.281], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.828, "FuelUsed":3.958897, "FuelLevel":28.041103 }
+{ "timestamp":"2017-10-31T09:23:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:23:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:23:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:23:46Z", "event":"Scan", "BodyName":"Lysoorb CV-G d10-127 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.007813, "Radius":768344064.000000, "AbsoluteMagnitude":4.253845, "Age_MY":842, "SurfaceTemperature":6277.000000, "Luminosity":"Vb", "SemiMajorAxis":5348562829312.000000, "Eccentricity":0.052907, "OrbitalInclination":3.447068, "Periapsis":330.629089, "OrbitalPeriod":16598635520.000000, "RotationPeriod":368928.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:24:08Z", "event":"FuelScoop", "Scooped":3.958908, "Total":32.000000 }
+{ "timestamp":"2017-10-31T09:24:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb GB-F d11-133", "StarClass":"G" }
+{ "timestamp":"2017-10-31T09:24:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:25:00Z", "event":"FSDJump", "StarSystem":"Lysoorb GB-F d11-133", "StarPos":[967.656,134.250,7579.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.088, "FuelUsed":4.057740, "FuelLevel":27.422260 }
+{ "timestamp":"2017-10-31T09:25:01Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:25:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:25:24Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:25:28Z", "event":"Scan", "BodyName":"Lysoorb GB-F d11-133 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.941406, "Radius":687625472.000000, "AbsoluteMagnitude":5.257858, "Age_MY":2316, "SurfaceTemperature":5266.000000, "Luminosity":"Va", "SemiMajorAxis":9269068955648.000000, "Eccentricity":0.049427, "OrbitalInclination":19.170818, "Periapsis":176.091949, "OrbitalPeriod":77872062464.000000, "RotationPeriod":330090.062500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:25:55Z", "event":"FuelScoop", "Scooped":3.919298, "Total":31.341593 }
+{ "timestamp":"2017-10-31T09:26:09Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb EG-F d11-110", "StarClass":"A" }
+{ "timestamp":"2017-10-31T09:26:14Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:26:27Z", "event":"FSDJump", "StarSystem":"Lysoorb EG-F d11-110", "StarPos":[958.156,140.813,7599.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.338, "FuelUsed":3.074849, "FuelLevel":28.266745 }
+{ "timestamp":"2017-10-31T09:26:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:26:37Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:26:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:26:51Z", "event":"Scan", "BodyName":"Lysoorb EG-F d11-110", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.507813, "Radius":876421632.000000, "AbsoluteMagnitude":2.973938, "Age_MY":502, "SurfaceTemperature":7891.000000, "Luminosity":"VI", "RotationPeriod":104397.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:27:16Z", "event":"FuelScoop", "Scooped":3.058970, "Total":31.325731 }
+{ "timestamp":"2017-10-31T09:27:32Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb EG-F d11-105", "StarClass":"F" }
+{ "timestamp":"2017-10-31T09:27:37Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:27:51Z", "event":"FSDJump", "StarSystem":"Lysoorb EG-F d11-105", "StarPos":[958.063,137.969,7621.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.245, "FuelUsed":2.734312, "FuelLevel":28.591419 }
+{ "timestamp":"2017-10-31T09:27:51Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:28:00Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:28:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:28:31Z", "event":"FuelScoop", "Scooped":3.226626, "Total":31.818008 }
+{ "timestamp":"2017-10-31T09:28:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb PN-I c23-21", "StarClass":"K" }
+{ "timestamp":"2017-10-31T09:28:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:29:07Z", "event":"FSDJump", "StarSystem":"Lysoorb PN-I c23-21", "StarPos":[948.594,126.844,7642.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.582, "FuelUsed":3.863070, "FuelLevel":27.954939 }
+{ "timestamp":"2017-10-31T09:29:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:29:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:29:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:29:34Z", "event":"FuelScoop", "Scooped":1.820559, "Total":29.775471 }
+{ "timestamp":"2017-10-31T09:29:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Lysoorb TT-G c24-23", "StarClass":"G" }
+{ "timestamp":"2017-10-31T09:29:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T09:30:13Z", "event":"FSDJump", "StarSystem":"Lysoorb TT-G c24-23", "StarPos":[942.344,132.094,7663.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.356, "FuelUsed":2.741004, "FuelLevel":27.034466 }
+{ "timestamp":"2017-10-31T09:30:13Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:30:22Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:30:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T09:30:36Z", "event":"Scan", "BodyName":"Lysoorb TT-G c24-23", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.820313, "Radius":625202816.000000, "AbsoluteMagnitude":5.399078, "Age_MY":5264, "SurfaceTemperature":5346.000000, "Luminosity":"Vab", "RotationPeriod":345149.750000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T09:31:01Z", "event":"FuelScoop", "Scooped":4.027092, "Total":31.061562 }
+{ "timestamp":"2017-10-31T09:31:02Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T09:31:02Z", "event":"Music", "MusicTrack":"Supercruise" }

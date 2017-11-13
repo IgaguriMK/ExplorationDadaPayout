@@ -1,0 +1,170 @@
+{ "timestamp":"2017-11-02T11:47:45Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r156431/r0 " }
+{ "timestamp":"2017-11-02T11:47:45Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T11:47:45Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"Loadout", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "Modules":[ { "Slot":"LargeHardpoint1", "Item":"Hpt_PulseLaser_Gimbal_Large", "On":true, "Priority":2, "Health":0.941472, "Value":140600 }, { "Slot":"MediumHardpoint2", "Item":"Hpt_MiningLaser_Fixed_Small", "On":true, "Priority":1, "Health":0.953362, "Value":6800 }, { "Slot":"TinyHardpoint1", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.953579, "Value":3500 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.949510, "Value":3500 }, { "Slot":"TinyHardpoint4", "Item":"Hpt_ChaffLauncher_Tiny", "On":true, "Priority":1, "AmmoInClip":1, "AmmoInHopper":10, "Health":0.922569, "Value":8500 }, { "Slot":"Armour", "Item":"DiamondBackXL_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size4_Class4", "On":true, "Priority":1, "Health":0.962441, "Value":536693 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class4", "On":true, "Priority":0, "Health":1.000000, "Value":536693 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.991821, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size3_Class2", "On":true, "Priority":0, "Health":0.937790, "Value":10133 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size4_Class2", "On":true, "Priority":0, "Health":0.998602, "Value":28373 }, { "Slot":"Radar", "Item":"Int_Sensors_Size3_Class2", "On":true, "Priority":3, "Health":0.968630, "Value":10133 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size4", "Item":"Int_ShieldGenerator_Size4_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":19878 }, { "Slot":"Slot02_Size4", "Item":"Int_FuelScoop_Size4_Class4", "On":true, "Priority":3, "Health":0.944909, "Value":715591 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":0, "Health":0.973013, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class2", "On":true, "Priority":0, "AmmoInClip":1283, "Health":0.937855, "Value":97200 }, { "Slot":"Slot05_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":0.969358, "Value":1545000 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"DiamondBackXL_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":0.948078, "Value":0 } ] }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"Materials", "Raw":[ { "Name":"carbon", "Count":14 }, { "Name":"iron", "Count":26 }, { "Name":"chromium", "Count":12 }, { "Name":"nickel", "Count":22 }, { "Name":"manganese", "Count":24 }, { "Name":"vanadium", "Count":3 }, { "Name":"zinc", "Count":6 }, { "Name":"sulphur", "Count":9 }, { "Name":"tungsten", "Count":3 } ], "Manufactured":[ { "Name":"mechanicalscrap", "Count":8 }, { "Name":"gridresistors", "Count":3 }, { "Name":"heatdispersionplate", "Count":5 }, { "Name":"salvagedalloys", "Count":6 }, { "Name":"hybridcapacitors", "Count":5 }, { "Name":"heatconductionwiring", "Count":2 } ], "Encoded":[ { "Name":"shieldsoakanalysis", "Count":3 }, { "Name":"disruptedwakeechoes", "Count":5 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"emissiondata", "Count":3 }, { "Name":"bulkscandata", "Count":9 }, { "Name":"scrambledemissiondata", "Count":7 }, { "Name":"archivedemissiondata", "Count":3 }, { "Name":"shielddensityreports", "Count":9 }, { "Name":"legacyfirmware", "Count":1 } ] }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"LoadGame", "Commander":"Igaguri", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "FuelLevel":26.831604, "FuelCapacity":32.000000, "GameMode":"Open", "Credits":726550, "Loan":0 }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"Rank", "Combat":1, "Trade":4, "Explore":4, "Empire":0, "Federation":1, "CQC":0 }
+{ "timestamp":"2017-11-02T11:48:18Z", "event":"Progress", "Combat":26, "Trade":1, "Explore":12, "Empire":0, "Federation":100, "CQC":0 }
+{ "timestamp":"2017-11-02T11:48:29Z", "event":"Location", "Docked":false, "StarSystem":"Plaa Ain DP-D b40-10", "StarPos":[1007.031,129.656,10048.188], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Plaa Ain DP-D b40-10", "BodyType":"Star" }
+{ "timestamp":"2017-11-02T11:48:29Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T11:48:29Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-11-02T11:48:33Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-11-02T11:52:35Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T11:52:36Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-11-02T11:52:54Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain FA-C b41-5", "StarClass":"M" }
+{ "timestamp":"2017-11-02T11:52:59Z", "event":"Friends", "Status":"Online", "Name":"Mitsumete Knight" }
+{ "timestamp":"2017-11-02T11:52:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T11:53:12Z", "event":"FSDJump", "StarSystem":"Plaa Ain FA-C b41-5", "StarPos":[1005.688,137.875,10072.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.670, "FuelUsed":3.774501, "FuelLevel":23.057102 }
+{ "timestamp":"2017-11-02T11:53:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:53:31Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T11:53:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:53:34Z", "event":"FuelScoop", "Scooped":2.718587, "Total":25.775698 }
+{ "timestamp":"2017-11-02T11:53:51Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain IB-M c21-40", "StarClass":"K" }
+{ "timestamp":"2017-11-02T11:53:56Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T11:54:09Z", "event":"FSDJump", "StarSystem":"Plaa Ain IB-M c21-40", "StarPos":[1006.750,129.188,10097.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.046, "FuelUsed":3.884927, "FuelLevel":21.890770 }
+{ "timestamp":"2017-11-02T11:54:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:54:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T11:54:21Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:54:32Z", "event":"Scan", "BodyName":"Plaa Ain IB-M c21-40 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.628906, "Radius":497704416.000000, "AbsoluteMagnitude":6.470520, "Age_MY":8702, "SurfaceTemperature":4682.000000, "Luminosity":"Vab", "SemiMajorAxis":6114079932416.000000, "Eccentricity":0.100931, "OrbitalInclination":85.729660, "Periapsis":56.028267, "OrbitalPeriod":59092516864.000000, "RotationPeriod":190004.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T11:56:37Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-11-02T11:56:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:57:09Z", "event":"FuelScoop", "Scooped":5.002172, "Total":26.372950 }
+{ "timestamp":"2017-11-02T11:57:27Z", "event":"FuelScoop", "Scooped":5.002410, "Total":31.375338 }
+{ "timestamp":"2017-11-02T11:57:29Z", "event":"FuelScoop", "Scooped":0.624666, "Total":32.000000 }
+{ "timestamp":"2017-11-02T11:57:44Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-11-02T11:57:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:58:02Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain UN-W b43-0", "StarClass":"M" }
+{ "timestamp":"2017-11-02T11:58:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T11:58:20Z", "event":"FSDJump", "StarSystem":"Plaa Ain UN-W b43-0", "StarPos":[1015.531,132.313,10121.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.038, "FuelUsed":4.038372, "FuelLevel":27.961628 }
+{ "timestamp":"2017-11-02T11:58:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:58:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T11:58:38Z", "event":"FuelScoop", "Scooped":2.371531, "Total":30.333162 }
+{ "timestamp":"2017-11-02T11:58:40Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T11:59:00Z", "event":"FuelScoop", "Scooped":1.666833, "Total":32.000000 }
+{ "timestamp":"2017-11-02T11:59:43Z", "event":"Scan", "BodyName":"Plaa Ain UN-W b43-0 A 3", "DistanceFromArrivalLS":79.947723, "TidalLock":true, "TerraformState":"Terraformable", "PlanetClass":"Water world", "Atmosphere":"nitrogen atmosphere", "AtmosphereType":"Nitrogen", "AtmosphereComposition":[ { "Name":"Nitrogen", "Percent":77.811165 }, { "Name":"Oxygen", "Percent":17.160610 }, { "Name":"CarbonDioxide", "Percent":4.957249 } ], "Volcanism":"", "MassEM":0.286864, "Radius":4155208.250000, "SurfaceGravity":6.622159, "SurfaceTemperature":256.639038, "SurfacePressure":72655.820313, "Landable":false, "SemiMajorAxis":23969789952.000000, "Eccentricity":0.000813, "OrbitalInclination":-0.011059, "Periapsis":98.424232, "OrbitalPeriod":3816152.000000, "RotationPeriod":3816180.250000, "AxialTilt":0.432389 }
+{ "timestamp":"2017-11-02T11:59:54Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T11:59:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:00:55Z", "event":"Scan", "BodyName":"Plaa Ain UN-W b43-0 A 4", "DistanceFromArrivalLS":141.239899, "TidalLock":true, "TerraformState":"", "PlanetClass":"Water world", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":78.630692 }, { "Name":"Oxygen", "Percent":19.914316 }, { "Name":"SulphurDioxide", "Percent":0.799782 } ], "Volcanism":"", "MassEM":0.220983, "Radius":3829424.750000, "SurfaceGravity":6.006209, "SurfaceTemperature":249.696106, "SurfacePressure":86208.210938, "Landable":false, "SemiMajorAxis":65828860.000000, "Eccentricity":0.003823, "OrbitalInclination":-4.454425, "Periapsis":311.440979, "OrbitalPeriod":930867.562500, "RotationPeriod":1408994.375000, "AxialTilt":0.408034 }
+{ "timestamp":"2017-11-02T12:01:15Z", "event":"Scan", "BodyName":"Plaa Ain UN-W b43-0 A 5", "DistanceFromArrivalLS":141.675858, "TidalLock":true, "TerraformState":"", "PlanetClass":"High metal content body", "Atmosphere":"carbon dioxide atmosphere", "AtmosphereType":"CarbonDioxide", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":90.257103 }, { "Name":"Oxygen", "Percent":8.789210 }, { "Name":"SulphurDioxide", "Percent":0.933494 } ], "Volcanism":"", "MassEM":0.171159, "Radius":3533404.750000, "SurfaceGravity":5.464154, "SurfaceTemperature":238.224014, "SurfacePressure":50518.824219, "Landable":false, "SemiMajorAxis":84991272.000000, "Eccentricity":0.003823, "OrbitalInclination":-4.454425, "Periapsis":131.440994, "OrbitalPeriod":930867.562500, "RotationPeriod":1240024.750000, "AxialTilt":-0.110090 }
+{ "timestamp":"2017-11-02T12:01:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:01:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:01:41Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain WY-U b44-6", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:01:46Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:01:59Z", "event":"FSDJump", "StarSystem":"Plaa Ain WY-U b44-6", "StarPos":[1017.844,139.594,10145.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.365, "FuelUsed":3.787829, "FuelLevel":28.212172 }
+{ "timestamp":"2017-11-02T12:02:00Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:02:20Z", "event":"FuelScoop", "Scooped":3.787859, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:02:21Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:02:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:02:39Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain LM-K c22-34", "StarClass":"K" }
+{ "timestamp":"2017-11-02T12:02:44Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:02:58Z", "event":"FSDJump", "StarSystem":"Plaa Ain LM-K c22-34", "StarPos":[1029.563,138.719,10168.719], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.023, "FuelUsed":4.032662, "FuelLevel":27.967339 }
+{ "timestamp":"2017-11-02T12:02:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:03:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:03:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:03:21Z", "event":"Scan", "BodyName":"Plaa Ain LM-K c22-34 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.679688, "Radius":587464832.000000, "AbsoluteMagnitude":5.968933, "Age_MY":540, "SurfaceTemperature":4837.000000, "Luminosity":"Va", "SemiMajorAxis":225751040000.000000, "Eccentricity":0.216583, "OrbitalInclination":28.743998, "Periapsis":327.988068, "OrbitalPeriod":403920000.000000, "RotationPeriod":286204.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:04:07Z", "event":"FuelScoop", "Scooped":4.032677, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:04:26Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain EL-R b46-5", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:04:32Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:04:45Z", "event":"FSDJump", "StarSystem":"Plaa Ain EL-R b46-5", "StarPos":[1029.500,141.219,10193.000], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.410, "FuelUsed":3.447623, "FuelLevel":28.552378 }
+{ "timestamp":"2017-11-02T12:04:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:04:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:04:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:05:04Z", "event":"FuelScoop", "Scooped":2.431775, "Total":30.984165 }
+{ "timestamp":"2017-11-02T12:05:18Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain NX-N b48-3", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:05:23Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:05:38Z", "event":"FSDJump", "StarSystem":"Plaa Ain NX-N b48-3", "StarPos":[1035.063,141.375,10217.313], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.941, "FuelUsed":3.610148, "FuelLevel":27.374016 }
+{ "timestamp":"2017-11-02T12:05:38Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:05:58Z", "event":"FuelScoop", "Scooped":2.971190, "Total":30.345203 }
+{ "timestamp":"2017-11-02T12:06:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain RD-M b49-1", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:06:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:06:32Z", "event":"FSDJump", "StarSystem":"Plaa Ain RD-M b49-1", "StarPos":[1040.531,140.938,10242.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.412, "FuelUsed":3.765061, "FuelLevel":26.580143 }
+{ "timestamp":"2017-11-02T12:06:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:06:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:06:48Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:06:50Z", "event":"FuelScoop", "Scooped":2.124984, "Total":28.705130 }
+{ "timestamp":"2017-11-02T12:07:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain UJ-K b50-10", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:07:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:07:23Z", "event":"FSDJump", "StarSystem":"Plaa Ain UJ-K b50-10", "StarPos":[1028.563,136.250,10264.688], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.967, "FuelUsed":3.928841, "FuelLevel":24.776289 }
+{ "timestamp":"2017-11-02T12:07:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:07:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:07:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:07:38Z", "event":"FuelScoop", "Scooped":1.910339, "Total":26.686605 }
+{ "timestamp":"2017-11-02T12:07:52Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain JM-D d12-121", "StarClass":"N" }
+{ "timestamp":"2017-11-02T12:07:57Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:08:10Z", "event":"FSDJump", "StarSystem":"Plaa Ain JM-D d12-121", "StarPos":[1008.500,148.063,10254.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.438, "FuelUsed":3.684516, "FuelLevel":23.002089 }
+{ "timestamp":"2017-11-02T12:08:11Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:08:29Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:08:36Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:09:16Z", "event":"Scan", "BodyName":"Plaa Ain JM-D d12-121 B", "DistanceFromArrivalLS":7.758121, "StarType":"M", "StellarMass":0.277344, "Radius":328307904.000000, "AbsoluteMagnitude":10.282532, "Age_MY":3548, "SurfaceTemperature":2397.000000, "Luminosity":"Va", "SemiMajorAxis":1691110912.000000, "Eccentricity":0.095361, "OrbitalInclination":-35.755863, "Periapsis":112.453331, "OrbitalPeriod":69969.117188, "RotationPeriod":156791.859375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:12:11Z", "event":"Scan", "BodyName":"Plaa Ain JM-D d12-121 A", "DistanceFromArrivalLS":0.000000, "StarType":"N", "StellarMass":0.617188, "Radius":11796.875000, "AbsoluteMagnitude":5.197281, "Age_MY":3548, "SurfaceTemperature":7829524.000000, "Luminosity":"VII", "SemiMajorAxis":759929536.000000, "Eccentricity":0.095361, "OrbitalInclination":-35.755863, "Periapsis":292.453339, "OrbitalPeriod":69969.117188, "RotationPeriod":0.002798, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:13:53Z", "event":"JetConeBoost", "BoostValue":4.000000 }
+{ "timestamp":"2017-11-02T12:14:20Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain ER-B c27-21", "StarClass":"K" }
+{ "timestamp":"2017-11-02T12:14:26Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:14:39Z", "event":"FSDJump", "StarSystem":"Plaa Ain ER-B c27-21", "StarPos":[1008.094,139.906,10357.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":103.292, "FuelUsed":3.737085, "FuelLevel":19.265003, "BoostUsed":4 }
+{ "timestamp":"2017-11-02T12:14:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:14:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:14:56Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:14:57Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:14:58Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:15:03Z", "event":"Scan", "BodyName":"Plaa Ain ER-B c27-21 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.464844, "Radius":421867616.000000, "AbsoluteMagnitude":7.607880, "Age_MY":9406, "SurfaceTemperature":3914.000000, "Luminosity":"Va", "SemiMajorAxis":78526668800.000000, "Eccentricity":0.014549, "OrbitalInclination":-13.444966, "Periapsis":284.736786, "OrbitalPeriod":75416952.000000, "RotationPeriod":192344.984375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:17:57Z", "event":"FuelScoop", "Scooped":5.003640, "Total":23.748627 }
+{ "timestamp":"2017-11-02T12:18:16Z", "event":"FuelScoop", "Scooped":5.001867, "Total":28.750479 }
+{ "timestamp":"2017-11-02T12:18:29Z", "event":"FuelScoop", "Scooped":3.249508, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:18:53Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain RU-Z b55-3", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:18:59Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:19:12Z", "event":"FSDJump", "StarSystem":"Plaa Ain RU-Z b55-3", "StarPos":[1004.656,139.313,10382.031], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.871, "FuelUsed":3.609432, "FuelLevel":28.390568 }
+{ "timestamp":"2017-11-02T12:19:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:19:26Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:19:29Z", "event":"FuelScoop", "Scooped":1.832786, "Total":30.223349 }
+{ "timestamp":"2017-11-02T12:19:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:19:50Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain VA-Y b56-13", "StarClass":"M" }
+{ "timestamp":"2017-11-02T12:19:55Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:20:09Z", "event":"FSDJump", "StarSystem":"Plaa Ain VA-Y b56-13", "StarPos":[995.031,140.188,10406.063], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.902, "FuelUsed":3.942278, "FuelLevel":26.281071 }
+{ "timestamp":"2017-11-02T12:20:09Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:20:26Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-11-02T12:20:27Z", "event":"FuelScoop", "Scooped":2.145999, "Total":28.427057 }
+{ "timestamp":"2017-11-02T12:20:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:20:39Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:20:55Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Plaa Ain MD-Y c28-24", "StarClass":"K" }
+{ "timestamp":"2017-11-02T12:21:01Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:21:14Z", "event":"FSDJump", "StarSystem":"Plaa Ain MD-Y c28-24", "StarPos":[991.281,137.281,10429.906], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.311, "FuelUsed":3.337133, "FuelLevel":25.089924 }
+{ "timestamp":"2017-11-02T12:21:14Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:21:23Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:21:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:21:37Z", "event":"Scan", "BodyName":"Plaa Ain MD-Y c28-24 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.664063, "Radius":511076160.000000, "AbsoluteMagnitude":6.861176, "Age_MY":10212, "SurfaceTemperature":4223.000000, "Luminosity":"Va", "SemiMajorAxis":33440023969792.000000, "Eccentricity":0.155620, "OrbitalInclination":-34.527210, "Periapsis":217.813858, "OrbitalPeriod":325117673472.000000, "RotationPeriod":233761.921875, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:24:20Z", "event":"FuelScoop", "Scooped":5.001906, "Total":30.091833 }
+{ "timestamp":"2017-11-02T12:24:26Z", "event":"FuelScoop", "Scooped":1.908170, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:24:49Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eodgols JK-A d72", "StarClass":"F" }
+{ "timestamp":"2017-11-02T12:24:54Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:25:08Z", "event":"FSDJump", "StarSystem":"Eodgols JK-A d72", "StarPos":[995.719,138.125,10455.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.866, "FuelUsed":3.973262, "FuelLevel":28.026737 }
+{ "timestamp":"2017-11-02T12:25:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:25:18Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:25:31Z", "event":"Scan", "BodyName":"Eodgols JK-A d72 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.496094, "Radius":956588352.000000, "AbsoluteMagnitude":3.031906, "Age_MY":1172, "SurfaceTemperature":7453.000000, "Luminosity":"Vb", "SemiMajorAxis":1331645120512.000000, "Eccentricity":0.141693, "OrbitalInclination":72.086143, "Periapsis":335.736725, "OrbitalPeriod":2951786240.000000, "RotationPeriod":175142.484375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:27:31Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:27:57Z", "event":"FuelScoop", "Scooped":3.973253, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:28:22Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eodgols LF-A d20", "StarClass":"F" }
+{ "timestamp":"2017-11-02T12:28:27Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T12:28:41Z", "event":"FSDJump", "StarSystem":"Eodgols LF-A d20", "StarPos":[993.938,132.406,10479.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.494, "FuelUsed":3.476702, "FuelLevel":28.523298 }
+{ "timestamp":"2017-11-02T12:28:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:28:51Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:29:05Z", "event":"Scan", "BodyName":"Eodgols LF-A d20", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.312500, "Radius":784411392.000000, "AbsoluteMagnitude":3.543503, "Age_MY":5196, "SurfaceTemperature":7316.000000, "Luminosity":"VI", "RotationPeriod":193786.406250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-11-02T12:29:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:29:28Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:29:33Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:29:55Z", "event":"FuelScoop", "Scooped":3.476728, "Total":32.000000 }
+{ "timestamp":"2017-11-02T12:30:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:30:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:30:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T12:30:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T12:32:00Z", "event":"Scan", "BodyName":"Eodgols LF-A d20 7", "DistanceFromArrivalLS":1950.113770, "TidalLock":false, "TerraformState":"", "PlanetClass":"Ammonia world", "Atmosphere":"", "AtmosphereType":"AmmoniaOxygen", "AtmosphereComposition":[ { "Name":"CarbonDioxide", "Percent":98.989151 }, { "Name":"SulphurDioxide", "Percent":1.010845 } ], "Volcanism":"", "MassEM":0.161318, "Radius":3460233.750000, "SurfaceGravity":5.370097, "SurfaceTemperature":220.431305, "SurfacePressure":13797.884766, "Landable":false, "SemiMajorAxis":410546336.000000, "Eccentricity":0.149177, "OrbitalInclination":7.225788, "Periapsis":277.955627, "OrbitalPeriod":13196101.000000, "RotationPeriod":249924.265625, "AxialTilt":0.162393 }
+{ "timestamp":"2017-11-02T12:32:50Z", "event":"SupercruiseExit", "StarSystem":"Eodgols LF-A d20", "Body":"Eodgols LF-A d20 7", "BodyType":"Planet" }
+{ "timestamp":"2017-11-02T12:32:50Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-11-02T13:29:25Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Eodgols VW-X b1-6", "StarClass":"M" }
+{ "timestamp":"2017-11-02T13:29:31Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-11-02T13:29:44Z", "event":"FSDJump", "StarSystem":"Eodgols VW-X b1-6", "StarPos":[1001.500,123.750,10501.656], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.294, "FuelUsed":3.737176, "FuelLevel":27.222822 }
+{ "timestamp":"2017-11-02T13:29:44Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T13:29:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-11-02T13:29:59Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-11-02T13:30:03Z", "event":"FuelScoop", "Scooped":2.272642, "Total":29.495459 }

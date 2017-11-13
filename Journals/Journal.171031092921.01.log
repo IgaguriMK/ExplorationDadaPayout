@@ -1,0 +1,185 @@
+{ "timestamp":"2017-10-31T00:29:21Z", "event":"Fileheader", "part":1, "language":"English\\UK", "gameversion":"2.4", "build":"r156431/r0 " }
+{ "timestamp":"2017-10-31T00:29:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:29:21Z", "event":"Music", "MusicTrack":"MainMenu" }
+{ "timestamp":"2017-10-31T00:29:58Z", "event":"Friends", "Status":"Online", "Name":"Sylphinix" }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"Cargo", "Inventory":[  ] }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"Loadout", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "Modules":[ { "Slot":"LargeHardpoint1", "Item":"Hpt_PulseLaser_Gimbal_Large", "On":true, "Priority":2, "Health":0.958757, "Value":140600 }, { "Slot":"MediumHardpoint2", "Item":"Hpt_MiningLaser_Fixed_Small", "On":true, "Priority":1, "Health":0.958027, "Value":6800 }, { "Slot":"TinyHardpoint1", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.960621, "Value":3500 }, { "Slot":"TinyHardpoint2", "Item":"Hpt_HeatSinkLauncher_Turret_Tiny", "On":true, "Priority":0, "AmmoInClip":1, "AmmoInHopper":2, "Health":0.956778, "Value":3500 }, { "Slot":"TinyHardpoint4", "Item":"Hpt_ChaffLauncher_Tiny", "On":true, "Priority":1, "AmmoInClip":1, "AmmoInHopper":10, "Health":0.922629, "Value":8500 }, { "Slot":"Armour", "Item":"DiamondBackXL_Armour_Grade1", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"PowerPlant", "Item":"Int_Powerplant_Size4_Class4", "On":true, "Priority":1, "Health":0.972401, "Value":536693 }, { "Slot":"MainEngines", "Item":"Int_Engine_Size4_Class4", "On":true, "Priority":0, "Health":0.983037, "Value":536693 }, { "Slot":"FrameShiftDrive", "Item":"Int_Hyperdrive_Size5_Class4", "On":true, "Priority":0, "Health":0.956195, "Value":1701318 }, { "Slot":"LifeSupport", "Item":"Int_LifeSupport_Size3_Class2", "On":true, "Priority":0, "Health":0.949443, "Value":10133 }, { "Slot":"PowerDistributor", "Item":"Int_PowerDistributor_Size4_Class2", "On":true, "Priority":0, "Health":1.000000, "Value":28373 }, { "Slot":"Radar", "Item":"Int_Sensors_Size3_Class2", "On":true, "Priority":3, "Health":0.974832, "Value":10133 }, { "Slot":"FuelTank", "Item":"Int_FuelTank_Size5_Class3", "On":true, "Priority":1, "Health":1.000000, "Value":97754 }, { "Slot":"Decal1", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal2", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Decal3", "Item":"Decal_Explorer_Surveyor", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"Slot01_Size4", "Item":"Int_ShieldGenerator_Size4_Class1", "On":true, "Priority":1, "Health":1.000000, "Value":19878 }, { "Slot":"Slot02_Size4", "Item":"Int_FuelScoop_Size4_Class4", "On":true, "Priority":3, "Health":0.960042, "Value":715591 }, { "Slot":"Slot03_Size3", "Item":"Int_BuggyBay_Size2_Class2", "On":true, "Priority":0, "Health":0.981141, "Value":21600 }, { "Slot":"Slot04_Size3", "Item":"Int_Repairer_Size3_Class2", "On":true, "Priority":0, "AmmoInClip":2179, "Health":0.939137, "Value":97200 }, { "Slot":"Slot05_Size2", "Item":"Int_StellarBodyDiscoveryScanner_Advanced", "On":true, "Priority":1, "Health":0.975861, "Value":1545000 }, { "Slot":"Slot06_Size2", "Item":"Int_DetailedSurfaceScanner_Tiny", "On":true, "Priority":1, "Health":1.000000, "Value":250000 }, { "Slot":"PlanetaryApproachSuite", "Item":"Int_PlanetApproachSuite", "On":true, "Priority":1, "Health":1.000000, "Value":500 }, { "Slot":"ShipCockpit", "Item":"DiamondBackXL_Cockpit", "On":true, "Priority":1, "Health":1.000000, "Value":0 }, { "Slot":"CargoHatch", "Item":"ModularCargoBayDoor", "On":true, "Priority":2, "Health":0.951189, "Value":0 } ] }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"Materials", "Raw":[ { "Name":"carbon", "Count":2 }, { "Name":"iron", "Count":18 }, { "Name":"chromium", "Count":12 }, { "Name":"nickel", "Count":3 }, { "Name":"manganese", "Count":6 }, { "Name":"vanadium", "Count":3 } ], "Manufactured":[ { "Name":"mechanicalscrap", "Count":8 }, { "Name":"gridresistors", "Count":3 }, { "Name":"heatdispersionplate", "Count":5 }, { "Name":"salvagedalloys", "Count":6 }, { "Name":"hybridcapacitors", "Count":5 }, { "Name":"heatconductionwiring", "Count":2 } ], "Encoded":[ { "Name":"shieldsoakanalysis", "Count":3 }, { "Name":"disruptedwakeechoes", "Count":5 }, { "Name":"shieldcyclerecordings", "Count":9 }, { "Name":"emissiondata", "Count":3 }, { "Name":"bulkscandata", "Count":9 }, { "Name":"scrambledemissiondata", "Count":7 }, { "Name":"archivedemissiondata", "Count":3 }, { "Name":"shielddensityreports", "Count":9 }, { "Name":"legacyfirmware", "Count":1 } ] }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"LoadGame", "Commander":"Igaguri", "Ship":"DiamondBackXL", "ShipID":2, "ShipName":"KONNYAKU", "ShipIdent":"IG-E01", "FuelLevel":32.000000, "FuelCapacity":32.000000, "GameMode":"Group", "Group":"TenManGu", "Credits":726550, "Loan":0 }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"Rank", "Combat":1, "Trade":4, "Explore":4, "Empire":0, "Federation":1, "CQC":0 }
+{ "timestamp":"2017-10-31T00:30:05Z", "event":"Progress", "Combat":26, "Trade":1, "Explore":10, "Empire":0, "Federation":100, "CQC":0 }
+{ "timestamp":"2017-10-31T00:30:15Z", "event":"Location", "Docked":false, "StarSystem":"Thaileia ME-E d13-63", "StarPos":[933.188,-28.188,5245.438], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "Body":"Thaileia ME-E d13-63 A", "BodyType":"Star" }
+{ "timestamp":"2017-10-31T00:30:15Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:30:15Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T00:30:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:30:37Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T00:30:38Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T00:30:42Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T00:31:01Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Blu Euq UO-Z d13-18", "StarClass":"A" }
+{ "timestamp":"2017-10-31T00:31:07Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:31:20Z", "event":"FSDJump", "StarSystem":"Blu Euq UO-Z d13-18", "StarPos":[928.438,-19.188,5266.781], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":23.646, "FuelUsed":3.189303, "FuelLevel":28.810698 }
+{ "timestamp":"2017-10-31T00:31:20Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:31:32Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:31:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:31:43Z", "event":"Scan", "BodyName":"Blu Euq UO-Z d13-18", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.746094, "Radius":1007507072.000000, "AbsoluteMagnitude":2.600220, "Age_MY":1770, "SurfaceTemperature":8021.000000, "Luminosity":"Vb", "RotationPeriod":59765.566406, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:31:58Z", "event":"Friends", "Status":"Online", "Name":"Sylphinix" }
+{ "timestamp":"2017-10-31T00:32:13Z", "event":"FuelScoop", "Scooped":3.189291, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:32:48Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Blu Euq OD-Z c27-47", "StarClass":"K" }
+{ "timestamp":"2017-10-31T00:32:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:33:07Z", "event":"FSDJump", "StarSystem":"Blu Euq OD-Z c27-47", "StarPos":[929.000,1.625,5282.375], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.012, "FuelUsed":4.028565, "FuelLevel":27.971436 }
+{ "timestamp":"2017-10-31T00:33:07Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:33:31Z", "event":"Scan", "BodyName":"Blu Euq OD-Z c27-47", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.835938, "Radius":599372032.000000, "AbsoluteMagnitude":5.804855, "Age_MY":5724, "SurfaceTemperature":4973.000000, "Luminosity":"Vab", "RotationPeriod":350146.687500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:33:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:33:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:34:09Z", "event":"FuelScoop", "Scooped":4.028581, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:34:35Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Blu Euq SJ-X c28-32", "StarClass":"K" }
+{ "timestamp":"2017-10-31T00:34:41Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:34:54Z", "event":"FSDJump", "StarSystem":"Blu Euq SJ-X c28-32", "StarPos":[921.438,2.531,5306.406], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.209, "FuelUsed":3.730889, "FuelLevel":28.269112 }
+{ "timestamp":"2017-10-31T00:34:54Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:35:04Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:35:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:35:18Z", "event":"Scan", "BodyName":"Blu Euq SJ-X c28-32 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.738281, "Radius":530921504.000000, "AbsoluteMagnitude":6.720184, "Age_MY":5558, "SurfaceTemperature":4280.000000, "Luminosity":"Va", "SemiMajorAxis":2116029775872.000000, "Eccentricity":0.256546, "OrbitalInclination":-19.677177, "Periapsis":318.056793, "OrbitalPeriod":13809170432.000000, "RotationPeriod":225861.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:35:20Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:35:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:35:51Z", "event":"FuelScoop", "Scooped":3.572277, "Total":31.841368 }
+{ "timestamp":"2017-10-31T00:36:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Blu Euq SJ-X c28-4", "StarClass":"K" }
+{ "timestamp":"2017-10-31T00:36:19Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:36:32Z", "event":"FSDJump", "StarSystem":"Blu Euq SJ-X c28-4", "StarPos":[902.031,-2.625,5323.125], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.129, "FuelUsed":4.069107, "FuelLevel":27.772261 }
+{ "timestamp":"2017-10-31T00:36:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:36:57Z", "event":"Scan", "BodyName":"Blu Euq SJ-X c28-4 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.796875, "Radius":599074880.000000, "AbsoluteMagnitude":6.069748, "Age_MY":13065, "SurfaceTemperature":4680.000000, "Luminosity":"Va", "SemiMajorAxis":332503515136.000000, "Eccentricity":0.027147, "OrbitalInclination":-40.049026, "Periapsis":104.213455, "OrbitalPeriod":342087200.000000, "RotationPeriod":330007.375000, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:37:06Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:37:08Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:37:36Z", "event":"Scan", "BodyName":"Blu Euq SJ-X c28-4 B", "DistanceFromArrivalLS":2629.502197, "StarType":"K", "StellarMass":0.554688, "Radius":507489152.000000, "AbsoluteMagnitude":7.409897, "Age_MY":13065, "SurfaceTemperature":3735.000000, "Luminosity":"Va", "SemiMajorAxis":477681254400.000000, "Eccentricity":0.027147, "OrbitalInclination":-40.049026, "Periapsis":284.213470, "OrbitalPeriod":342087200.000000, "RotationPeriod":248179.484375, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:38:00Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq XA-A c28", "StarClass":"G" }
+{ "timestamp":"2017-10-31T00:38:05Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:38:19Z", "event":"FSDJump", "StarSystem":"Byeia Euq XA-A c28", "StarPos":[881.219,0.469,5337.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.343, "FuelUsed":3.679742, "FuelLevel":24.092518 }
+{ "timestamp":"2017-10-31T00:38:19Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:38:42Z", "event":"Scan", "BodyName":"Byeia Euq XA-A c28", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.843750, "Radius":602046400.000000, "AbsoluteMagnitude":5.475342, "Age_MY":492, "SurfaceTemperature":5353.000000, "Luminosity":"Vab", "RotationPeriod":283638.937500, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq XA-A c28 A Belt", "RingClass":"eRingClass_MetalRich", "MassMT":6.7185e+10, "InnerRad":1.1888e+09, "OuterRad":2.2802e+09 }, { "Name":"Byeia Euq XA-A c28 B Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.6703e+16, "InnerRad":1.9527e+11, "OuterRad":3.0997e+11 } ] }
+{ "timestamp":"2017-10-31T00:39:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:39:27Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:39:59Z", "event":"FuelScoop", "Scooped":5.000440, "Total":28.572929 }
+{ "timestamp":"2017-10-31T00:40:15Z", "event":"FuelScoop", "Scooped":3.427062, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:40:40Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T00:40:49Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:40:50Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:41:07Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector DL-Y d33", "StarClass":"F" }
+{ "timestamp":"2017-10-31T00:41:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:41:25Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector DL-Y d33", "StarPos":[873.813,16.500,5351.500], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":22.692, "FuelUsed":2.882906, "FuelLevel":29.117094 }
+{ "timestamp":"2017-10-31T00:41:26Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:41:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:41:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:41:49Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T00:41:49Z", "event":"Scan", "BodyName":"Cat's Paw Sector DL-Y d33", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.375000, "Radius":783986880.000000, "AbsoluteMagnitude":3.651077, "Age_MY":1994, "SurfaceTemperature":7139.000000, "Luminosity":"VI", "RotationPeriod":207686.546875, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:41:56Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:41:57Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:42:20Z", "event":"FuelScoop", "Scooped":2.882898, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:42:45Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector DL-Y d52", "StarClass":"G" }
+{ "timestamp":"2017-10-31T00:42:51Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:43:04Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector DL-Y d52", "StarPos":[859.656,28.906,5369.219], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.851, "FuelUsed":3.967973, "FuelLevel":28.032026 }
+{ "timestamp":"2017-10-31T00:43:04Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:43:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:43:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:43:28Z", "event":"Scan", "BodyName":"Cat's Paw Sector DL-Y d52 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.933594, "Radius":648465472.000000, "AbsoluteMagnitude":5.312424, "Age_MY":1226, "SurfaceTemperature":5355.000000, "Luminosity":"Vab", "SemiMajorAxis":13546903568384.000000, "Eccentricity":0.075976, "OrbitalInclination":38.589066, "Periapsis":105.484344, "OrbitalPeriod":91444633600.000000, "RotationPeriod":265441.562500, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:44:36Z", "event":"FuelScoop", "Scooped":3.967977, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:45:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector DL-Y d21", "StarClass":"A" }
+{ "timestamp":"2017-10-31T00:45:10Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:45:23Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector DL-Y d21", "StarPos":[859.406,33.625,5394.156], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.381, "FuelUsed":3.793220, "FuelLevel":28.206779 }
+{ "timestamp":"2017-10-31T00:45:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:45:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:45:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:45:43Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:45:47Z", "event":"Scan", "BodyName":"Cat's Paw Sector DL-Y d21", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.632813, "Radius":989890368.000000, "AbsoluteMagnitude":2.525208, "Age_MY":1092, "SurfaceTemperature":8233.000000, "Luminosity":"Vab", "RotationPeriod":94147.929688, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:45:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:49:50Z", "event":"FuelScoop", "Scooped":3.793233, "Total":32.000000 }
+{ "timestamp":"2017-10-31T00:50:17Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:50:18Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:50:19Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T00:50:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:50:42Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector DL-Y d50", "StarClass":"A" }
+{ "timestamp":"2017-10-31T00:50:47Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T00:51:00Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector DL-Y d50", "StarPos":[859.344,35.281,5397.250], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":3.510, "FuelUsed":0.029778, "FuelLevel":31.970222 }
+{ "timestamp":"2017-10-31T00:51:00Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-31T00:51:05Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T00:51:25Z", "event":"Scan", "BodyName":"Cat's Paw Sector DL-Y d50 A", "DistanceFromArrivalLS":0.000000, "StarType":"A", "StellarMass":1.562500, "Radius":853774656.000000, "AbsoluteMagnitude":3.238846, "Age_MY":1100, "SurfaceTemperature":7522.000000, "Luminosity":"VI", "SemiMajorAxis":8138444288.000000, "Eccentricity":0.194777, "OrbitalInclination":-137.979019, "Periapsis":144.964722, "OrbitalPeriod":844954.687500, "RotationPeriod":104841.078125, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:52:21Z", "event":"Scan", "BodyName":"Cat's Paw Sector DL-Y d50 B", "DistanceFromArrivalLS":50.487396, "StarType":"F", "StellarMass":1.195313, "Radius":841888640.000000, "AbsoluteMagnitude":3.620987, "Age_MY":1100, "SurfaceTemperature":6937.000000, "Luminosity":"Vb", "SemiMajorAxis":10638492672.000000, "Eccentricity":0.194777, "OrbitalInclination":-137.979019, "Periapsis":324.964722, "OrbitalPeriod":844954.687500, "RotationPeriod":405554.781250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T00:52:38Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T00:52:41Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:04:09Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:04:12Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:04:13Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:04:22Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:06:30Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:08:41Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:08:43Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:09:16Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector KC-V c2-3", "StarClass":"K" }
+{ "timestamp":"2017-10-31T01:09:21Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:09:35Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector KC-V c2-3", "StarPos":[850.000,41.281,5419.594], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.951, "FuelUsed":3.625451, "FuelLevel":27.824772 }
+{ "timestamp":"2017-10-31T01:09:35Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:09:48Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:09:49Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:09:58Z", "event":"Scan", "BodyName":"Cat's Paw Sector KC-V c2-3 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.492188, "Radius":426706880.000000, "AbsoluteMagnitude":7.748245, "Age_MY":1316, "SurfaceTemperature":3768.000000, "Luminosity":"Va", "SemiMajorAxis":27555016998912.000000, "Eccentricity":0.006154, "OrbitalInclination":-25.488379, "Periapsis":344.418640, "OrbitalPeriod":195892166656.000000, "RotationPeriod":212235.156250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T01:10:32Z", "event":"FuelScoop", "Scooped":4.014143, "Total":31.838938 }
+{ "timestamp":"2017-10-31T01:12:17Z", "event":"SupercruiseExit", "StarSystem":"Cat's Paw Sector KC-V c2-3", "Body":"Cat's Paw Sector KC-V c2-3 A", "BodyType":"Star" }
+{ "timestamp":"2017-10-31T01:12:17Z", "event":"Music", "MusicTrack":"Exploration" }
+{ "timestamp":"2017-10-31T01:16:13Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector HR-W d1-196", "StarClass":"F" }
+{ "timestamp":"2017-10-31T01:16:18Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:16:31Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector HR-W d1-196", "StarPos":[850.281,50.594,5423.938], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":10.280, "FuelUsed":0.413908, "FuelLevel":31.425030 }
+{ "timestamp":"2017-10-31T01:16:32Z", "event":"Music", "MusicTrack":"DestinationFromHyperspace" }
+{ "timestamp":"2017-10-31T01:16:37Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:16:45Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:16:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:16:55Z", "event":"Scan", "BodyName":"Cat's Paw Sector HR-W d1-196 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.242188, "Radius":860163328.000000, "AbsoluteMagnitude":3.881805, "Age_MY":1904, "SurfaceTemperature":6463.000000, "Luminosity":"Vb", "SemiMajorAxis":3554113486848.000000, "Eccentricity":0.163508, "OrbitalInclination":-30.824297, "Periapsis":71.701134, "OrbitalPeriod":16028011520.000000, "RotationPeriod":435090.593750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T01:17:09Z", "event":"FuelScoop", "Scooped":0.574975, "Total":32.000000 }
+{ "timestamp":"2017-10-31T01:22:07Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:26:05Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:26:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:26:23Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:26:30Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:26:33Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector HR-W d1-14", "StarClass":"G" }
+{ "timestamp":"2017-10-31T01:26:39Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:26:52Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector HR-W d1-14", "StarPos":[859.125,53.906,5447.469], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.356, "FuelUsed":3.771902, "FuelLevel":27.708097 }
+{ "timestamp":"2017-10-31T01:26:52Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:27:01Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:27:15Z", "event":"Scan", "BodyName":"Cat's Paw Sector HR-W d1-14", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":1.023438, "Radius":771994752.000000, "AbsoluteMagnitude":4.750168, "Age_MY":2174, "SurfaceTemperature":5586.000000, "Luminosity":"Va", "RotationPeriod":491042.968750, "AxialTilt":0.000000, "Rings":[ { "Name":"Cat's Paw Sector HR-W d1-14 A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.4848e+10, "InnerRad":1.5204e+09, "OuterRad":2.4318e+09 } ] }
+{ "timestamp":"2017-10-31T01:27:15Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:27:44Z", "event":"FuelScoop", "Scooped":3.367429, "Total":31.075521 }
+{ "timestamp":"2017-10-31T01:28:04Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector NN-T c3-1", "StarClass":"K" }
+{ "timestamp":"2017-10-31T01:28:09Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:28:23Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector NN-T c3-1", "StarPos":[864.219,59.188,5471.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":25.455, "FuelUsed":3.798305, "FuelLevel":27.277216 }
+{ "timestamp":"2017-10-31T01:28:23Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:28:33Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:28:34Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:28:46Z", "event":"Scan", "BodyName":"Cat's Paw Sector NN-T c3-1 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.812500, "Radius":629787456.000000, "AbsoluteMagnitude":5.547974, "Age_MY":12869, "SurfaceTemperature":5147.000000, "Luminosity":"Va", "SemiMajorAxis":3312372736.000000, "Eccentricity":0.346372, "OrbitalInclination":-41.117081, "Periapsis":168.045120, "OrbitalPeriod":331329.375000, "RotationPeriod":331847.343750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T01:29:08Z", "event":"Scan", "BodyName":"Cat's Paw Sector NN-T c3-1 B", "DistanceFromArrivalLS":35.302391, "StarType":"K", "StellarMass":0.574219, "Radius":518419968.000000, "AbsoluteMagnitude":6.980865, "Age_MY":12869, "SurfaceTemperature":4079.000000, "Luminosity":"Va", "SemiMajorAxis":4686895104.000000, "Eccentricity":0.346372, "OrbitalInclination":-41.117081, "Periapsis":348.045105, "OrbitalPeriod":331329.375000, "RotationPeriod":297858.656250, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T01:29:19Z", "event":"FuelScoop", "Scooped":4.722782, "Total":32.000000 }
+{ "timestamp":"2017-10-31T01:29:47Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector JC-V d2-36", "StarClass":"F" }
+{ "timestamp":"2017-10-31T01:29:53Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:30:06Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector JC-V d2-36", "StarPos":[865.844,57.594,5497.844], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":26.099, "FuelUsed":4.061658, "FuelLevel":27.938341 }
+{ "timestamp":"2017-10-31T01:30:06Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:30:16Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:30:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:30:18Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:30:30Z", "event":"Scan", "BodyName":"Cat's Paw Sector JC-V d2-36 A", "DistanceFromArrivalLS":0.000000, "StarType":"F", "StellarMass":1.160156, "Radius":776494464.000000, "AbsoluteMagnitude":4.248245, "Age_MY":538, "SurfaceTemperature":6252.000000, "Luminosity":"Vb", "SemiMajorAxis":27975365951488.000000, "Eccentricity":0.207958, "OrbitalInclination":11.803972, "Periapsis":280.674622, "OrbitalPeriod":476769681408.000000, "RotationPeriod":315414.843750, "AxialTilt":0.000000 }
+{ "timestamp":"2017-10-31T01:33:10Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:33:39Z", "event":"FuelScoop", "Scooped":4.061671, "Total":32.000000 }
+{ "timestamp":"2017-10-31T01:34:06Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Cat's Paw Sector RT-R c4-24", "StarClass":"K" }
+{ "timestamp":"2017-10-31T01:34:12Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:34:25Z", "event":"FSDJump", "StarSystem":"Cat's Paw Sector RT-R c4-24", "StarPos":[875.125,57.438,5520.969], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.919, "FuelUsed":3.626175, "FuelLevel":28.373825 }
+{ "timestamp":"2017-10-31T01:34:25Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:34:36Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:34:45Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:34:49Z", "event":"Scan", "BodyName":"Cat's Paw Sector RT-R c4-24 A", "DistanceFromArrivalLS":0.000000, "StarType":"K", "StellarMass":0.660156, "Radius":512625600.000000, "AbsoluteMagnitude":7.091324, "Age_MY":9814, "SurfaceTemperature":3999.000000, "Luminosity":"Va", "SemiMajorAxis":6746275840000.000000, "Eccentricity":0.263150, "OrbitalInclination":57.936321, "Periapsis":179.353714, "OrbitalPeriod":38166618112.000000, "RotationPeriod":204325.093750, "AxialTilt":0.000000, "Rings":[ { "Name":"Cat's Paw Sector RT-R c4-24 A A Belt", "RingClass":"eRingClass_Rocky", "MassMT":1.2371e+14, "InnerRad":8.4583e+08, "OuterRad":2.2564e+09 }, { "Name":"Cat's Paw Sector RT-R c4-24 A B Belt", "RingClass":"eRingClass_Metalic", "MassMT":3.0664e+15, "InnerRad":2.9466e+09, "OuterRad":2.8374e+11 } ] }
+{ "timestamp":"2017-10-31T01:35:12Z", "event":"FuelScoop", "Scooped":3.164493, "Total":31.538311 }
+{ "timestamp":"2017-10-31T01:35:27Z", "event":"StartJump", "JumpType":"Hyperspace", "StarSystem":"Byeia Euq NP-R c4-37", "StarClass":"G" }
+{ "timestamp":"2017-10-31T01:35:33Z", "event":"Music", "MusicTrack":"NoTrack" }
+{ "timestamp":"2017-10-31T01:35:46Z", "event":"FSDJump", "StarSystem":"Byeia Euq NP-R c4-37", "StarPos":[880.469,65.344,5543.875], "SystemAllegiance":"", "SystemEconomy":"$economy_None;", "SystemEconomy_Localised":"None", "SystemGovernment":"$government_None;", "SystemGovernment_Localised":"None", "SystemSecurity":"$GAlAXY_MAP_INFO_state_anarchy;", "SystemSecurity_Localised":"Anarchy", "Population":0, "JumpDist":24.815, "FuelUsed":3.578852, "FuelLevel":27.959459 }
+{ "timestamp":"2017-10-31T01:35:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:35:55Z", "event":"Music", "MusicTrack":"SystemMap" }
+{ "timestamp":"2017-10-31T01:36:09Z", "event":"Scan", "BodyName":"Byeia Euq NP-R c4-37 A", "DistanceFromArrivalLS":0.000000, "StarType":"G", "StellarMass":0.835938, "Radius":581415744.000000, "AbsoluteMagnitude":5.541367, "Age_MY":4582, "SurfaceTemperature":5365.000000, "Luminosity":"Vab", "SemiMajorAxis":2057596305408.000000, "Eccentricity":0.144694, "OrbitalInclination":-74.321770, "Periapsis":317.354523, "OrbitalPeriod":16703201280.000000, "RotationPeriod":264934.812500, "AxialTilt":0.000000, "Rings":[ { "Name":"Byeia Euq NP-R c4-37 A A Belt", "RingClass":"eRingClass_Metalic", "MassMT":1.3348e+14, "InnerRad":9.5836e+08, "OuterRad":2.2732e+09 } ] }
+{ "timestamp":"2017-10-31T01:39:17Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:39:45Z", "event":"FuelScoop", "Scooped":4.040525, "Total":32.000000 }
+{ "timestamp":"2017-10-31T01:40:55Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:41:46Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:41:49Z", "event":"Music", "MusicTrack":"GalaxyMap" }
+{ "timestamp":"2017-10-31T01:44:32Z", "event":"Music", "MusicTrack":"Supercruise" }
+{ "timestamp":"2017-10-31T01:48:39Z", "event":"Music", "MusicTrack":"MainMenu" }
